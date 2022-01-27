@@ -1,0 +1,240 @@
+---
+title: "Humanized Yeast as a Model to Study Human Biology, Disease and Evolution"
+author: "Michelle Vandeloo"
+date: "27/01/2022"
+output: html_document
+---
+
+This document describes the data wrangling methods used for the review, <b>"Humanized Yeast as a Model to Study Human Biology, Disease and Evolution"</b>, by Kachroo et al. Steps to acquire raw data are described as best as possible, as they were at the moment of accessing the raw of data.
+
+The tidyverse and biomaRt packages were used to wrangle data for this review and must be installed and loaded in the R workspace, along with a <b>raw_path</b> and <b>data_path</b> for storing raw files and output files.
+
+```{r setup, include = FALSE}
+# if (!requireNamespace("BiocManager", quietly = TRUE))
+#     install.packages("BiocManager")
+
+# install.packages("tidyverse")
+library(tidyverse)
+
+# BiocManager::install("biomaRt")
+library(biomaRt)
+citation("biomaRt")
+
+raw_path <- "C:/Users/mvand/OneDrive/Documents/Kachroo Lab/Humanization yeast review paper/raw"
+data_path <- "C:/Users/mvand/OneDrive/Documents/Kachroo Lab/Humanization yeast review paper/data"
+
+```
+
+First we import the raw phenotype data from SGD (https://yeastmine.yeastgenome.org/yeastmine/begin.do), which is a data frame with all yeast genes with at least one associated phenotype, with a new row for each new phenotype, including information about the phenotype, allele, and publication of this association. This is based on the "all phenotypes for all genes" template, adding on the year of publication column (accessed September 5th, 2021). Counting the number of unique genes with at least one associated phenotype, we get 5313 total.
+
+```{r Sc phenotypes}
+# phenotype tab is the all phenotypes template + publication year added
+raw_scpheno <- read.csv(paste(raw_path, "/Phenotype_Tab.tsv", sep = ""), quote ="", header=FALSE, sep="\t", encoding="UTF-8")
+
+sc_pheno_names = c("sc_feat_type", "sgd_name", "sys_id", "sgd_symbol", "exp_type", "mutant_type", "pheno_observed", "strain_bg", "chemical", "condition", "details", "reporter", "allele_name", "allele_descr", "pubmed_id", "year")
+
+names(raw_scpheno) <- sc_pheno_names
+
+raw_scpheno %>%
+  group_by(sgd_symbol) %>%
+  summarise(count = n()) %>%
+  .[-(1:2),] %>%
+  nrow()  #5313
+```
+
+We create a histogram function which will calculate the cumulative number of yeast gene-phenotype associations published by year for Figure 2A, and then use that function on the raw gene-phenotype association table, and save the raw data for it as a csv.
+
+```{r histo function}
+add_histo <- function(dat) {
+  add_column(dat, 0)
+  dat[1,3] <- dat[[1,2]]
+  for (i in 2:(nrow(dat))) {
+    temp <- dat[[i-1,3]] + dat[[i,2]]
+    dat[i,3] <- temp
+  }
+  dat <- rename(dat, cumulative = 3)
+  return(dat)
+}
+
+histo_sc <- raw_scpheno %>%
+  group_by(year) %>%
+  summarize(count = n()) %>%
+  filter(year < 2022, year > 1999) %>%
+  add_histo(.)
+
+write_csv(histo_sc, paste(data_path, "/histogram_of_sc_phenotypes_by_year.csv", sep = ""))
+```
+
+OMIM (https://www.omim.org/, accessed September 5th, 2021) publishes the number of phenotypes with a known molecular basis, and the number of genes with a known associated phenotype every year, and updates this number regularly. We pull in this raw data, already in histogram format, and save the raw data to a csv to be used in Figure 2A.
+
+```{r OMIM direct data}
+omim_stats <- data.frame(year = 2000:2021,
+                         phenos_w_known_gene = c(1397, 1521, 1888, 2208, 2553, 2870, 3220, 3330, 3738, 4046, 4218, 4421, 4807, 5115, 5370, 5596, 5856, 6133, 6324, 6564, 6794, 6976),
+                         genes_w_known_pheno = c(954, 1068, 1183, 1317, 1489, 1634,1915, 2062, 2245, 2346, 2447, 2616, 2920, 3125, 3315, 3476, 3638, 3866, 4015, 4200, 4368, 4508)) 
+
+write_csv(omim_stats, paste(data_path, "/omim_stats.csv", sep = ""))
+```
+
+We pull in a list of yeast genes indicating essentiality status, and create a vector of gene names for later sorting.
+
+```{r essential yeast genes}
+raw_essgenes <- read.csv(paste(raw_path, "/Yeast_genes_essentiality_new.csv", sep = ""), quote ="", header=TRUE, encoding="UTF-8")
+
+essgenes <- raw_essgenes %>%
+  filter(status == "Essential") %>%
+  dplyr::select(X.U.FEFF.ensembl) %>%
+  pull()
+```
+
+We pull in and tidy a dataframe of yeast-human gene complementation data from SGD (https://yeastmine.yeastgenome.org/yeastmine/begin.do). This is based on the "Gene -> Functional Complementation" template, adding on the year of publication column and the gene full name (accessed September 5th, 2021). We then filter for essential genes, counting that there are 718 yeast genes with human orthologs in total and 386 essential yeast genes with human orthologs among those.
+
+```{r complements}
+raw_complements <- read.csv(paste(raw_path, "/Gene_Complements.tsv", sep = ""), quote ="", header=FALSE, sep="\t", encoding="UTF-8") %>%
+  mutate(V13 = replace(V13, str_detect(V13, "\""), NA),
+         V15 = replace(V15, str_detect(V15, "\""), NA))
+  
+compl_names <- c("sgd_id", "sys_id", "sc_name", "sc_org", "ncbi_id", "hs_name", "hs_org", "compl_ref", "cross_ref_source", "compl_direction", "pubmed_id", "compl_source", "compl_notes", "pub_year", "ensembl", "full_name")
+
+names(raw_complements) <- compl_names
+
+complements <- raw_complements %>%
+  filter(cross_ref_source == "NCBI") %>%
+  arrange(pub_year) %>%
+  distinct(hs_name, .keep_all = TRUE)
+
+ess_complements <- complements %>% 
+  filter(sys_id %in% essgenes) 
+
+length(complements$hs_name) #718 genes with human complements
+
+length(ess_complements$hs_name) #386 essential genes with human complements
+```
+
+There are missing ensembl id values in the complementation data from SGD. This segment pulls in the ensembl list from biomaRt and fills the empty values, and finally tidies and saves the csv including a new column indicating which genes are essential and which are not for Supplementary Table 1.
+
+```{r cleaning complements tibble}
+mapping <- getBM(attributes=c('ensembl_gene_id', 'hgnc_symbol'), mart = useMart("ensembl", dataset = "hsapiens_gene_ensembl"))
+
+complements <- left_join(complements, mapping, by = c("hs_name" = "hgnc_symbol")) %>%
+  mutate(ensembl = coalesce(ensembl, ensembl_gene_id)) %>%
+  distinct(hs_name, .keep_all = TRUE)
+
+yeast_human_compl <- complements %>%
+  dplyr::select(sc_name, sys_id, hs_name, ncbi_id, ensembl, full_name, pubmed_id, pub_year) %>%
+  rename("Yeast Gene" = sc_name, 
+         "SGD ID" = sys_id, 
+         "Human Gene" = hs_name, 
+         "NCBI Gene ID" = ncbi_id, 
+         "Ensembl ID" = ensembl, 
+         "Human Gene Name" = full_name, 
+         "PMC ID" = pubmed_id, 
+         "Publication Year" = pub_year) %>%
+  left_join(., raw_essgenes, by = c("SGD ID" = "X.U.FEFF.ensembl")) %>%
+  dplyr::select(-(symbol)) %>%
+  rename("Essentiality" = status)
+head(yeast_human_compl)
+```
+
+We count the number of yeast-human gene orthologs (complements) published based on SGD data per year and feed it into a histogram, and save this raw data for Figure 2A.
+
+```{r complements histo}
+histo_compl <- complements %>%
+  group_by(pub_year) %>%
+  summarize(count = n()) %>%
+  add_histo(.)
+
+write_csv(histo_compl, paste(data_path, "/histogram_of_complements_by_year.csv", sep = ""))
+```
+
+The NCBI FTP site (https://ftp.ncbi.nih.gov/gene/DATA/mim2gene_medgen) was used to pull in a list of OMIM phenotype entries that have an associated GeneID (aka, OMIM phenotypes that have a cited molecular basis). This counted 4530 genes with an OMIM disease association or susceptibility. We then pulled a vector of all these gene names, and filtered the yeast-gene complementation list (all and essential-only) for overlap, finding 312 yeast genes with human complements that have an OMIM association, and 157 among essential yeast genes only.
+
+```{r omim}
+omim <- read.delim(paste(raw_path, "/omim_demo.txt", sep = ""), header = TRUE) %>%
+  as_tibble() %>%
+  filter(type == "phenotype", GeneID != "-") %>%
+  distinct(GeneID, .keep_all = TRUE)
+omim$GeneID <- as.numeric(omim$GeneID)
+head(omim)
+
+nrow(omim) # 4530 genes with an omim disease association or susceptibility
+
+omim_genes <- omim %>%
+  dplyr::select(GeneID) %>%
+  pull()
+
+complements %>%
+  filter(ncbi_id %in% omim_genes) %>%
+  nrow() # 312 genes with complements that are in omim
+
+ess_complements %>%
+  filter(ncbi_id %in% omim_genes) %>%
+  nrow() # 157 essential genes with complements that are in omim
+
+yhc_omim <- yeast_human_compl %>%
+  filter(`NCBI Gene ID` %in% omim_genes)
+
+```
+
+To finalize supplementary figure 1 (List of all functionally replaceable human genes in yeast) we add a column with corresponding OMIM entry numbers for all genes that have a disease association or susceptibility published in OMIM.
+
+```{r write supplementary table 1 file}
+supp1 <- left_join(yeast_human_compl, omim, by = c("NCBI Gene ID" = "GeneID")) %>%
+  .[c(1:10)] %>%
+  rename("OMIM Entry ID" = X.MIM.number)
+head(supp1)
+
+write_csv(supp1, paste(data_path, "/supplementary_table_1.csv", sep = ""))
+```
+
+We repeat the above process for the Orphanet data, pulling a list of all genes with an Orphanet disease association (Orphadata 1.3.15 / 4.1.7 [2021-11-25] (orientdb version), http://www.orpha.net accessed September 2 2021), and filtering the yeast-human gene complements list for these. Orphadata's raw xml format was first loaded into excel, then saved as a csv.
+
+```{r orphanet}
+raw_orphanet <- read.csv(paste(raw_path, "/orphadata_xml6.csv", sep = ""), head = TRUE)
+
+orphanet <- raw_orphanet %>%
+  group_by(Symbol) %>%
+  summarise(count = n())
+
+orphanet_genes <- orphanet %>%
+  dplyr::select(Symbol) %>%
+  pull()
+
+complements %>%
+  filter(hs_name %in% orphanet_genes) %>%
+  nrow() # 275 genes with complements that are in Orphanet
+
+ess_complements %>%
+  filter(hs_name %in% orphanet_genes) %>%
+  nrow() # 134 essential genes with complements that are in Orphanet
+
+complements %>%
+  filter(!(ncbi_id %in% omim_genes), hs_name %in% orphanet_genes) %>%
+  nrow() # 15 genes with complements that are in Orphanet and NOT omim
+
+ess_complements %>%
+  filter(!(ncbi_id %in% omim_genes), hs_name %in% orphanet_genes) %>%
+  nrow() # 10 essential genes with complements that are in Orphanet and NOT omim
+
+yhc_orphanet_not_omim <- yeast_human_compl %>%
+  filter(!(`NCBI Gene ID` %in% omim_genes), `Human Gene` %in% orphanet_genes)
+
+#yhc_ess_orphanet_not_omim <- yhc_ess %>%
+#  filter(!(`NCBI Gene ID` %in% omim_genes), `Human Gene` %in% orphanet_genes)
+```
+
+To finalise supplementary table 2 (List of functionally replaceable human genes with associated OMIM (Sheet 1) or Orphanet (Sheet 2) disease phenotypes), we add the column of corresponding OMIM access numbers to the list of functionally replaceable human genes with associated OMIM phenotypes. The Orphanet ID codes were added manually to sheet 2.
+
+```{r write supplementary table 2 data}
+supp2a <- left_join(yhc_omim, omim, by = c("NCBI Gene ID" = "GeneID")) %>%
+  .[c(1:10)] %>%
+  rename("OMIM Entry ID" = X.MIM.number)
+
+supp2b <- yhc_orphanet_not_omim
+
+write_csv(supp2a, paste(data_path, "/supplementary_table_2a.csv", sep = ""))
+write_csv(supp2b, paste(data_path, "/supplementary_table_2b.csv", sep = ""))
+```
+
+
+
+
