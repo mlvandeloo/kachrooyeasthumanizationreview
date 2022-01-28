@@ -1,0 +1,6667 @@
+﻿ensembl,symbol,status
+YAL001C,TFC3,Essential
+YAL003W,EFB1,Essential
+YAL025C,MAK16,Essential
+YAL032C,PRP45,Essential
+YAL033W,POP5,Essential
+YAL034C-B,YAL034C-B,Essential
+YAL034W-A,MTW1,Essential
+YAL038W,CDC19,Essential
+YAL041W,CDC24,Essential
+YAL043C,PTA1,Essential
+YAR007C,RFA1,Essential
+YAR008W,SEN34,Essential
+YAR019C,CDC15,Essential
+YBL004W,UTP20,Essential
+YBL014C,RRN6,Essential
+YBL018C,POP8,Essential
+YBL020W,RFT1,Essential
+YBL023C,MCM2,Essential
+YBL026W,LSM2,Essential
+YBL030C,PET9,Essential
+YBL034C,STU1,Essential
+YBL035C,POL12,Essential
+YBL040C,ERD2,Essential
+YBL041W,PRE7,Essential
+YBL050W,SEC17,Essential
+YBL073W,YBL073W,Essential
+YBL074C,AAR2,Essential
+YBL076C,ILS1,Essential
+YBL077W,YBL077W,Essential
+YBL084C,CDC27,Essential
+YBL092W,RPL32,Essential
+YBL097W,BRN1,Essential
+YBL103C,RTG3,Essential
+YBL105C,PKC1,Essential
+YBR011C,IPP1,Essential
+YBR017C,KAP104,Essential
+YBR021W,FUR4,Essential
+YBR029C,CDS1,Essential
+YBR038W,CHS2,Essential
+YBR039W,ATP3,Essential
+YBR049C,REB1,Essential
+YBR055C,PRP6,Essential
+YBR060C,ORC2,Essential
+YBR061C,TRM7,Essential
+YBR070C,ALG14,Essential
+YBR079C,RPG1,Essential
+YBR080C,SEC18,Essential
+YBR081C,SPT7,Essential
+YBR082C,UBC4,Essential
+YBR085W,AAC3,Essential
+YBR087W,RFC5,Essential
+YBR088C,POL30,Essential
+YBR089W,YBR089W,Essential
+YBR091C,TIM12,Essential
+YBR095C,RXT2,Essential
+YBR096W,YBR096W,Essential
+YBR097W,VPS15,Essential
+YBR102C,EXO84,Essential
+YBR109C,CMD1,Essential
+YBR110W,ALG1,Essential
+YBR117C,TKL2,Essential
+YBR118W,TEF2,Essential
+YBR121C,GRS1,Essential
+YBR123C,TFC1,Essential
+YBR124W,YBR124W,Essential
+YBR135W,CKS1,Essential
+YBR136W,MEC1,Essential
+YBR140C,IRA1,Essential
+YBR142W,MAK5,Essential
+YBR143C,SUP45,Essential
+YBR152W,SPP381,Essential
+YBR153W,RIB7,Essential
+YBR154C,RPB5,Essential
+YBR155W,CNS1,Essential
+YBR160W,CDC28,Essential
+YBR165W,UBS1,Essential
+YBR167C,POP7,Essential
+YBR189W,RPS9B,Essential
+YBR190W,YBR190W,Essential
+YBR191W,RPL21A,Essential
+YBR192W,RIM2,Essential
+YBR193C,MED8,Essential
+YBR196C,PGI1,Essential
+YBR198C,TAF5,Essential
+YBR202W,MCM7,Essential
+YBR211C,AME1,Essential
+YBR234C,ARC40,Essential
+YBR236C,ABD1,Essential
+YBR237W,PRP5,Essential
+YBR243C,ALG7,Essential
+YBR247C,ENP1,Essential
+YBR252W,DUT1,Essential
+YBR253W,SRB6,Essential
+YBR254C,TRS20,Essential
+YBR256C,RIB5,Essential
+YBR257W,POP4,Essential
+YBR265W,TSC10,Essential
+YCL002C,YCL002C,Essential
+YCL004W,PGS1,Essential
+YCL017C,NFS1,Essential
+YCL031C,RRP7,Essential
+YCL041C,YCL041C,Essential
+YCL043C,PDI1,Essential
+YCL052C,PBN1,Essential
+YCL054W,SPB1,Essential
+YCL059C,KRR1,Essential
+YCR012W,PGK1,Essential
+YCR013C,YCR013C,Essential
+YCR035C,RRP43,Essential
+YCR052W,RSC6,Essential
+YCR054C,CTR86,Essential
+YCR057C,PWP2,Essential
+YCR072C,RSA4,Essential
+YCR093W,CDC39,Essential
+YDL003W,MCD1,Essential
+YDL004W,ATP16,Essential
+YDL007W,RPT2,Essential
+YDL008W,APC11,Essential
+YDL014W,NOP1,Essential
+YDL015C,TSC13,Essential
+YDL016C,YDL016C,Essential
+YDL017W,CDC7,Essential
+YDL028C,MPS1,Essential
+YDL029W,ARP2,Essential
+YDL030W,PRP9,Essential
+YDL043C,PRP11,Essential
+YDL045C,FAD1,Essential
+YDL055C,PSA1,Essential
+YDL060W,TSR1,Essential
+YDL064W,UBC9,Essential
+YDL084W,SUB2,Essential
+YDL087C,LUC7,Essential
+YDL092W,SRP14,Essential
+YDL097C,RPN6,Essential
+YDL098C,SNU23,Essential
+YDL102W,POL3,Essential
+YDL103C,QRI1,Essential
+YDL105W,NSE4,Essential
+YDL108W,KIN28,Essential
+YDL111C,RRP42,Essential
+YDL120W,YFH1,Essential
+YDL126C,CDC48,Essential
+YDL132W,CDC53,Essential
+YDL139C,SCM3,Essential
+YDL140C,RPO21,Essential
+YDL141W,BPL1,Essential
+YDL143W,CCT4,Essential
+YDL145C,COP1,Essential
+YDL147W,RPN5,Essential
+YDL148C,NOP14,Essential
+YDL150W,RPC53,Essential
+YDL152W,YDL152W,Essential
+YDL153C,SAS10,Essential
+YDL158C,YDL158C,Essential
+YDL163W,YDL163W,Essential
+YDL164C,CDC9,Essential
+YDL165W,CDC36,Essential
+YDL166C,FAP7,Essential
+YDL193W,NUS1,Essential
+YDL195W,SEC31,Essential
+YDL196W,YDL196W,Essential
+YDL205C,HEM3,Essential
+YDL207W,GLE1,Essential
+YDL208W,NHP2,Essential
+YDL209C,CWC2,Essential
+YDL212W,SHR3,Essential
+YDL217C,TIM22,Essential
+YDL220C,CDC13,Essential
+YDL221W,YDL221W,Essential
+YDL235C,YPD1,Essential
+YDR002W,YRB1,Essential
+YDR013W,PSF1,Essential
+YDR016C,DAD1,Essential
+YDR021W,FAL1,Essential
+YDR023W,SES1,Essential
+YDR037W,KRS1,Essential
+YDR041W,RSM10,Essential
+YDR044W,HEM13,Essential
+YDR045C,RPC11,Essential
+YDR047W,HEM12,Essential
+YDR050C,TPI1,Essential
+YDR052C,DBF4,Essential
+YDR053W,YDR053W,Essential
+YDR054C,CDC34,Essential
+YDR060W,MAK21,Essential
+YDR062W,LCB2,Essential
+YDR064W,RPS13,Essential
+YDR081C,PDC2,Essential
+YDR082W,STN1,Essential
+YDR086C,SSS1,Essential
+YDR087C,RRP1,Essential
+YDR088C,SLU7,Essential
+YDR091C,RLI1,Essential
+YDR113C,PDS1,Essential
+YDR118W,APC4,Essential
+YDR141C,DOP1,Essential
+YDR145W,TAF12,Essential
+YDR160W,SSY1,Essential
+YDR164C,SEC1,Essential
+YDR166C,SEC5,Essential
+YDR167W,TAF10,Essential
+YDR168W,CDC37,Essential
+YDR170C,SEC7,Essential
+YDR172W,SUP35,Essential
+YDR177W,UBC1,Essential
+YDR180W,SCC2,Essential
+YDR182W,CDC1,Essential
+YDR187C,YDR187C,Essential
+YDR188W,CCT6,Essential
+YDR189W,SLY1,Essential
+YDR190C,RVB1,Essential
+YDR196C,CAB5,Essential
+YDR201W,SPC19,Essential
+YDR208W,MSS4,Essential
+YDR211W,GCD6,Essential
+YDR212W,TCP1,Essential
+YDR224C,HTB1,Essential
+YDR228C,PCF11,Essential
+YDR232W,HEM1,Essential
+YDR235W,PRP42,Essential
+YDR236C,FMN1,Essential
+YDR238C,SEC26,Essential
+YDR240C,SNU56,Essential
+YDR243C,PRP28,Essential
+YDR246W,TRS23,Essential
+YDR267C,CIA1,Essential
+YDR280W,RRP45,Essential
+YDR288W,NSE3,Essential
+YDR292C,SRP101,Essential
+YDR299W,BFR2,Essential
+YDR301W,CFT1,Essential
+YDR302W,GPI11,Essential
+YDR303C,RSC3,Essential
+YDR308C,SRB7,Essential
+YDR311W,TFB1,Essential
+YDR324C,UTP4,Essential
+YDR325W,YCG1,Essential
+YDR327W,YDR327W,Essential
+YDR328C,SKP1,Essential
+YDR331W,GPI8,Essential
+YDR339C,FCF1,Essential
+YDR341C,YDR341C,Essential
+YDR353W,TRR1,Essential
+YDR355C,YDR355C,Essential
+YDR356W,SPC110,Essential
+YDR361C,BCP1,Essential
+YDR362C,TFC6,Essential
+YDR365C,ESF1,Essential
+YDR367W,KEI1,Essential
+YDR373W,FRQ1,Essential
+YDR376W,ARH1,Essential
+YDR381W,YRA1,Essential
+YDR390C,UBA2,Essential
+YDR394W,RPT3,Essential
+YDR396W,YDR396W,Essential
+YDR397C,NCB2,Essential
+YDR398W,UTP5,Essential
+YDR404C,RPB7,Essential
+YDR407C,TRS120,Essential
+YDR412W,RRP17,Essential
+YDR413C,YDR413C,Essential
+YDR416W,SYF1,Essential
+YDR427W,RPN9,Essential
+YDR429C,TIF35,Essential
+YDR434W,GPI17,Essential
+YDR437W,GPI19,Essential
+YDR449C,UTP6,Essential
+YDR454C,GUK1,Essential
+YDR460W,TFB3,Essential
+YDR464W,SPP41,Essential
+YDR468C,TLG1,Essential
+YDR472W,TRS31,Essential
+YDR473C,PRP3,Essential
+YDR475C,JIP4,Essential
+YDR478W,SNM1,Essential
+YDR483W,KRE2,Essential
+YDR487C,RIB3,Essential
+YDR489W,SLD5,Essential
+YDR499W,LCD1,Essential
+YDR510W,SMT3,Essential
+YDR521W,YDR521W,Essential
+YDR527W,RBA50,Essential
+YEL002C,WBP1,Essential
+YEL019C,MMS21,Essential
+YEL026W,SNU13,Essential
+YEL032W,MCM3,Essential
+YEL034W,HYP2,Essential
+YEL035C,UTR5,Essential
+YEL055C,POL5,Essential
+YEL058W,PCM1,Essential
+YER003C,PMI40,Essential
+YER006W,NUG1,Essential
+YER008C,SEC3,Essential
+YER009W,NTF2,Essential
+YER012W,PRE1,Essential
+YER013W,PRP22,Essential
+YER014W,HEM14,Essential
+YER018C,SPC25,Essential
+YER021W,RPN3,Essential
+YER022W,SRB4,Essential
+YER023W,PRO3,Essential
+YER025W,GCD11,Essential
+YER036C,ARB1,Essential
+YER038C,KRE29,Essential
+YER043C,SAH1,Essential
+YER048W-A,ISD11,Essential
+YER082C,UTP7,Essential
+YER093C,TSC11,Essential
+YER094C,PUP3,Essential
+YER104W,RTT105,Essential
+YER107C,GLE2,Essential
+YER112W,LSM4,Essential
+YER125W,RSP5,Essential
+YER126C,NSA2,Essential
+YER127W,LCP5,Essential
+YER133W,GLC7,Essential
+YER136W,GDI1,Essential
+YER146W,LSM5,Essential
+YER147C,SCC4,Essential
+YER148W,SPT15,Essential
+YER157W,COG3,Essential
+YER159C,BUR6,Essential
+YER165W,PAB1,Essential
+YER168C,CCA1,Essential
+YER171W,RAD3,Essential
+YER172C,BRR2,Essential
+YFL008W,SMC1,Essential
+YFL009W,CDC4,Essential
+YFL017C,GNA1,Essential
+YFL018C,LPD1,Essential
+YFL022C,FRS2,Essential
+YFL024C,EPL1,Essential
+YFL034W,YFL034W,Essential
+YFL035C-A,MOB2,Essential
+YFL037W,TUB2,Essential
+YFL038C,YPT1,Essential
+YFL039C,ACT1,Essential
+YFL045C,SEC53,Essential
+YFR003C,YPI1,Essential
+YFR004W,RPN11,Essential
+YFR005C,SAD1,Essential
+YFR027W,ECO1,Essential
+YFR028C,CDC14,Essential
+YFR029W,PTR3,Essential
+YFR031C,SMC2,Essential
+YFR037C,RSC8,Essential
+YFR042W,KEG1,Essential
+YFR050C,PRE4,Essential
+YFR051C,RET2,Essential
+YFR052W,RPN12,Essential
+YGL001C,ERG26,Essential
+YGL008C,PMA1,Essential
+YGL011C,SCL1,Essential
+YGL018C,JAC1,Essential
+YGL022W,STT3,Essential
+YGL030W,RPL30,Essential
+YGL040C,HEM2,Essential
+YGL044C,RNA15,Essential
+YGL047W,ALG13,Essential
+YGL048C,RPT6,Essential
+YGL055W,OLE1,Essential
+YGL061C,DUO1,Essential
+YGL065C,ALG2,Essential
+YGL068W,MNP1,Essential
+YGL069C,YGL069C,Essential
+YGL073W,HSF1,Essential
+YGL074C,YGL074C,Essential
+YGL075C,MPS2,Essential
+YGL091C,NBP35,Essential
+YGL092W,NUP145,Essential
+YGL093W,SPC105,Essential
+YGL097W,SRM1,Essential
+YGL098W,USE1,Essential
+YGL099W,LSG1,Essential
+YGL102C,YGL102C,Essential
+YGL103W,RPL28,Essential
+YGL111W,NSA1,Essential
+YGL112C,TAF6,Essential
+YGL113W,SLD3,Essential
+YGL116W,CDC20,Essential
+YGL120C,PRP43,Essential
+YGL122C,NAB2,Essential
+YGL123W,RPS2,Essential
+YGL128C,CWC23,Essential
+YGL130W,CEG1,Essential
+YGL137W,SEC27,Essential
+YGL142C,GPI10,Essential
+YGL145W,TIP20,Essential
+YGL150C,INO80,Essential
+YGL155W,CDC43,Essential
+YGL169W,SUA5,Essential
+YGL171W,ROK1,Essential
+YGL172W,NUP49,Essential
+YGL201C,MCM6,Essential
+YGL207W,SPT16,Essential
+YGL225W,VRG4,Essential
+YGL233W,SEC15,Essential
+YGL238W,CSE1,Essential
+YGL239C,YGL239C,Essential
+YGL245W,GUS1,Essential
+YGL247W,BRR6,Essential
+YGR002C,SWC4,Essential
+YGR005C,TFG2,Essential
+YGR009C,SEC9,Essential
+YGR013W,SNU71,Essential
+YGR024C,THG1,Essential
+YGR029W,ERV1,Essential
+YGR030C,POP6,Essential
+YGR046W,TAM41,Essential
+YGR047C,TFC4,Essential
+YGR048W,UFD1,Essential
+YGR060W,ERG25,Essential
+YGR065C,VHT1,Essential
+YGR073C,YGR073C,Essential
+YGR074W,SMD1,Essential
+YGR075C,PRP38,Essential
+YGR082W,TOM20,Essential
+YGR083C,GCD2,Essential
+YGR090W,UTP22,Essential
+YGR091W,PRP31,Essential
+YGR094W,VAS1,Essential
+YGR095C,RRP46,Essential
+YGR098C,ESP1,Essential
+YGR099W,TEL2,Essential
+YGR103W,NOP7,Essential
+YGR113W,DAM1,Essential
+YGR114C,YGR114C,Essential
+YGR115C,YGR115C,Essential
+YGR116W,SPT6,Essential
+YGR119C,NUP57,Essential
+YGR120C,COG2,Essential
+YGR128C,UTP8,Essential
+YGR140W,CBF2,Essential
+YGR145W,ENP2,Essential
+YGR147C,NAT2,Essential
+YGR156W,PTI1,Essential
+YGR158C,MTR3,Essential
+YGR172C,YIP1,Essential
+YGR175C,ERG1,Essential
+YGR179C,OKP1,Essential
+YGR185C,TYS1,Essential
+YGR186W,TFG1,Essential
+YGR190C,YGR190C,Essential
+YGR191W,HIP1,Essential
+YGR195W,SKI6,Essential
+YGR198W,YPP1,Essential
+YGR211W,ZPR1,Essential
+YGR216C,GPI1,Essential
+YGR218W,CRM1,Essential
+YGR245C,SDA1,Essential
+YGR246C,BRF1,Essential
+YGR251W,NOP19,Essential
+YGR253C,PUP2,Essential
+YGR264C,MES1,Essential
+YGR265W,YGR265W,Essential
+YGR267C,FOL2,Essential
+YGR274C,TAF1,Essential
+YGR277C,CAB4,Essential
+YGR278W,CWC22,Essential
+YGR280C,PXR1,Essential
+YHL015W,RPS20,Essential
+YHR005C-A,TIM10,Essential
+YHR019C,DED81,Essential
+YHR020W,YHR020W,Essential
+YHR023W,MYO1,Essential
+YHR024C,MAS2,Essential
+YHR036W,BRL1,Essential
+YHR040W,BCD1,Essential
+YHR042W,NCP1,Essential
+YHR058C,MED6,Essential
+YHR062C,RPP1,Essential
+YHR065C,RRP3,Essential
+YHR068W,DYS1,Essential
+YHR069C,RRP4,Essential
+YHR070W,TRM5,Essential
+YHR072W,ERG7,Essential
+YHR074W,QNS1,Essential
+YHR083W,SAM35,Essential
+YHR084W,STE12,Essential
+YHR085W,IPI1,Essential
+YHR088W,RPF1,Essential
+YHR101C,BIG1,Essential
+YHR107C,CDC12,Essential
+YHR118C,ORC6,Essential
+YHR122W,YHR122W,Essential
+YHR128W,FUR1,Essential
+YHR143W-A,RPC10,Essential
+YHR148W,IMP3,Essential
+YHR164C,DNA2,Essential
+YHR166C,CDC23,Essential
+YHR170W,NMD3,Essential
+YHR172W,SPC97,Essential
+YHR186C,KOG1,Essential
+YHR188C,GPI16,Essential
+YHR190W,ERG9,Essential
+YHR196W,UTP9,Essential
+YHR197W,RIX1,Essential
+YHR199C-A,NBL1,Essential
+YIL003W,CFD1,Essential
+YIL004C,BET1,Essential
+YIL019W,FAF1,Essential
+YIL021W,RPB3,Essential
+YIL022W,TIM44,Essential
+YIL026C,IRR1,Essential
+YIL031W,ULP2,Essential
+YIL033C,BCY1,Essential
+YIL046W,MET30,Essential
+YIL048W,NEO1,Essential
+YIL051C,MMF1,Essential
+YIL061C,SNP1,Essential
+YIL062C,ARC15,Essential
+YIL063C,YRB2,Essential
+YIL068C,SEC6,Essential
+YIL075C,RPN2,Essential
+YIL078W,THS1,Essential
+YIL083C,CAB2,Essential
+YIL091C,UTP25,Essential
+YIL104C,SHQ1,Essential
+YIL106W,MOB1,Essential
+YIL109C,SEC24,Essential
+YIL115C,NUP159,Essential
+YIL118W,RHO3,Essential
+YIL126W,STH1,Essential
+YIL129C,TAO3,Essential
+YIL142W,CCT2,Essential
+YIL143C,SSL2,Essential
+YIL144W,TID3,Essential
+YIL147C,SLN1,Essential
+YIL150C,MCM10,Essential
+YIR006C,PAN1,Essential
+YIR008C,PRI1,Essential
+YIR010W,DSN1,Essential
+YIR011C,STS1,Essential
+YIR012W,SQT1,Essential
+YIR015W,RPR2,Essential
+YIR022W,SEC11,Essential
+YJL002C,OST1,Essential
+YJL005W,CYR1,Essential
+YJL008C,CCT8,Essential
+YJL009W,YJL009W,Essential
+YJL010C,NOP9,Essential
+YJL011C,RPC17,Essential
+YJL014W,CCT3,Essential
+YJL015C,YJL015C,Essential
+YJL016W,YJL016W,Essential
+YJL019W,MPS3,Essential
+YJL025W,RRN7,Essential
+YJL026W,RNR2,Essential
+YJL031C,BET4,Essential
+YJL032W,YJL032W,Essential
+YJL033W,HCA4,Essential
+YJL034W,KAR2,Essential
+YJL035C,TAD2,Essential
+YJL039C,NUP192,Essential
+YJL041W,NSP1,Essential
+YJL050W,MTR4,Essential
+YJL054W,TIM54,Essential
+YJL061W,NUP82,Essential
+YJL069C,UTP18,Essential
+YJL072C,PSF2,Essential
+YJL074C,SMC3,Essential
+YJL076W,NET1,Essential
+YJL081C,ARP4,Essential
+YJL085W,EXO70,Essential
+YJL086C,YJL086C,Essential
+YJL087C,TRL1,Essential
+YJL091C,GWT1,Essential
+YJL097W,PHS1,Essential
+YJL104W,PAM16,Essential
+YJL109C,UTP10,Essential
+YJL111W,CCT7,Essential
+YJL125C,GCD14,Essential
+YJL143W,TIM17,Essential
+YJL156C,SSY5,Essential
+YJL167W,ERG20,Essential
+YJL173C,RFA3,Essential
+YJL174W,KRE9,Essential
+YJL194W,CDC6,Essential
+YJL195C,YJL195C,Essential
+YJL202C,YJL202C,Essential
+YJL203W,PRP21,Essential
+YJR002W,MPP10,Essential
+YJR006W,POL31,Essential
+YJR007W,SUI2,Essential
+YJR013W,GPI14,Essential
+YJR016C,ILV3,Essential
+YJR017C,ESS1,Essential
+YJR022W,LSM8,Essential
+YJR023C,YJR023C,Essential
+YJR041C,URB2,Essential
+YJR042W,NUP85,Essential
+YJR045C,SSC1,Essential
+YJR046W,TAH11,Essential
+YJR057W,CDC8,Essential
+YJR064W,CCT5,Essential
+YJR065C,ARP3,Essential
+YJR067C,YAE1,Essential
+YJR068W,RFC2,Essential
+YJR072C,NPA3,Essential
+YJR076C,CDC11,Essential
+YJR089W,BIR1,Essential
+YJR093C,FIP1,Essential
+YJR112W,NNF1,Essential
+YJR123W,RPS5,Essential
+YJR141W,YJR141W,Essential
+YKL004W,AUR1,Essential
+YKL006C-A,SFT1,Essential
+YKL012W,PRP40,Essential
+YKL013C,ARC19,Essential
+YKL014C,URB1,Essential
+YKL018W,SWD2,Essential
+YKL019W,RAM2,Essential
+YKL021C,MAK11,Essential
+YKL022C,CDC16,Essential
+YKL024C,URA6,Essential
+YKL028W,TFA1,Essential
+YKL033W,TTI1,Essential
+YKL035W,UGP1,Essential
+YKL036C,YKL036C,Essential
+YKL042W,SPC42,Essential
+YKL045W,PRI2,Essential
+YKL049C,CSE4,Essential
+YKL052C,ASK1,Essential
+YKL058W,TOA2,Essential
+YKL059C,MPE1,Essential
+YKL060C,FBA1,Essential
+YKL078W,DHR2,Essential
+YKL082C,RRP14,Essential
+YKL083W,YKL083W,Essential
+YKL088W,CAB3,Essential
+YKL089W,MIF2,Essential
+YKL095W,YJU2,Essential
+YKL099C,UTP11,Essential
+YKL104C,GFA1,Essential
+YKL108W,SLD2,Essential
+YKL111C,YKL111C,Essential
+YKL112W,ABF1,Essential
+YKL122C,SRP21,Essential
+YKL125W,RRN3,Essential
+YKL139W,CTK1,Essential
+YKL141W,SDH3,Essential
+YKL144C,RPC25,Essential
+YKL145W,RPT1,Essential
+YKL152C,GPM1,Essential
+YKL153W,YKL153W,Essential
+YKL154W,SRP102,Essential
+YKL165C,MCD4,Essential
+YKL172W,EBP2,Essential
+YKL173W,SNU114,Essential
+YKL180W,RPL17A,Essential
+YKL181W,PRS1,Essential
+YKL182W,FAS1,Essential
+YKL186C,MTR2,Essential
+YKL189W,HYM1,Essential
+YKL192C,ACP1,Essential
+YKL193C,SDS22,Essential
+YKL194C,MST1,Essential
+YKL195W,MIA40,Essential
+YKL196C,YKT6,Essential
+YKL203C,TOR2,Essential
+YKL209C,STE6,Essential
+YKL210W,UBA1,Essential
+YKR002W,PAP1,Essential
+YKR004C,ECM9,Essential
+YKR008W,RSC4,Essential
+YKR022C,NTR2,Essential
+YKR025W,RPC37,Essential
+YKR037C,SPC34,Essential
+YKR038C,KAE1,Essential
+YKR062W,TFA2,Essential
+YKR063C,LAS1,Essential
+YKR068C,BET3,Essential
+YKR071C,DRE2,Essential
+YKR079C,TRZ1,Essential
+YKR081C,RPF2,Essential
+YKR083C,DAD2,Essential
+YKR086W,PRP16,Essential
+YLL003W,SFI1,Essential
+YLL004W,ORC3,Essential
+YLL008W,DRS1,Essential
+YLL011W,SOF1,Essential
+YLL018C,DPS1,Essential
+YLL031C,GPI13,Essential
+YLL034C,RIX7,Essential
+YLL035W,GRC3,Essential
+YLL036C,PRP19,Essential
+YLL037W,YLL037W,Essential
+YLL050C,COF1,Essential
+YLR002C,NOC3,Essential
+YLR005W,SSL1,Essential
+YLR007W,NSE1,Essential
+YLR008C,PAM18,Essential
+YLR009W,RLP24,Essential
+YLR010C,TEN1,Essential
+YLR022C,SDO1,Essential
+YLR026C,SED5,Essential
+YLR029C,RPL15A,Essential
+YLR033W,RSC58,Essential
+YLR045C,STU2,Essential
+YLR051C,FCF2,Essential
+YLR060W,FRS1,Essential
+YLR066W,SPC3,Essential
+YLR071C,RGR1,Essential
+YLR075W,RPL10,Essential
+YLR076C,YLR076C,Essential
+YLR078C,BOS1,Essential
+YLR086W,SMC4,Essential
+YLR088W,GAA1,Essential
+YLR100W,ERG27,Essential
+YLR101C,YLR101C,Essential
+YLR103C,CDC45,Essential
+YLR105C,SEN2,Essential
+YLR106C,MDN1,Essential
+YLR115W,CFT2,Essential
+YLR116W,MSL5,Essential
+YLR117C,CLF1,Essential
+YLR127C,APC2,Essential
+YLR129W,DIP2,Essential
+YLR132C,USB1,Essential
+YLR140W,YLR140W,Essential
+YLR141W,RRN5,Essential
+YLR145W,RMP1,Essential
+YLR147C,SMD3,Essential
+YLR153C,ACS2,Essential
+YLR163C,MAS1,Essential
+YLR166C,SEC10,Essential
+YLR167W,RPS31,Essential
+YLR175W,CBF5,Essential
+YLR186W,EMG1,Essential
+YLR195C,NMT1,Essential
+YLR196W,PWP1,Essential
+YLR197W,NOP56,Essential
+YLR198C,YLR198C,Essential
+YLR208W,SEC13,Essential
+YLR212C,TUB4,Essential
+YLR215C,CDC123,Essential
+YLR222C,UTP13,Essential
+YLR223C,IFH1,Essential
+YLR229C,CDC42,Essential
+YLR230W,YLR230W,Essential
+YLR243W,YLR243W,Essential
+YLR249W,YEF3,Essential
+YLR259C,HSP60,Essential
+YLR272C,YCS4,Essential
+YLR274W,MCM5,Essential
+YLR275W,SMD2,Essential
+YLR276C,DBP9,Essential
+YLR277C,YSH1,Essential
+YLR291C,GCD7,Essential
+YLR293C,GSP1,Essential
+YLR298C,YHC1,Essential
+YLR305C,STT4,Essential
+YLR310C,CDC25,Essential
+YLR314C,CDC3,Essential
+YLR316C,TAD3,Essential
+YLR317W,YLR317W,Essential
+YLR321C,SFH1,Essential
+YLR323C,CWC24,Essential
+YLR336C,SGD1,Essential
+YLR339C,YLR339C,Essential
+YLR340W,RPP0,Essential
+YLR347C,KAP95,Essential
+YLR355C,ILV5,Essential
+YLR359W,ADE13,Essential
+YLR378C,SEC61,Essential
+YLR379W,YLR379W,Essential
+YLR383W,SMC6,Essential
+YLR397C,AFG2,Essential
+YLR409C,UTP21,Essential
+YLR424W,SPP382,Essential
+YLR430W,SEN1,Essential
+YLR438C-A,LSM3,Essential
+YLR440C,SEC39,Essential
+YLR457C,NBP1,Essential
+YLR458W,YLR458W,Essential
+YLR459W,GAB1,Essential
+YML010W,SPT5,Essential
+YML015C,TAF11,Essential
+YML023C,NSE5,Essential
+YML025C,YML6,Essential
+YML031W,NDC1,Essential
+YML043C,RRN11,Essential
+YML046W,PRP39,Essential
+YML049C,RSE1,Essential
+YML064C,TEM1,Essential
+YML065W,ORC1,Essential
+YML069W,POB3,Essential
+YML077W,BET5,Essential
+YML085C,TUB1,Essential
+YML091C,RPM2,Essential
+YML092C,PRE8,Essential
+YML093W,UTP14,Essential
+YML098W,TAF13,Essential
+YML105C,SEC65,Essential
+YML114C,TAF8,Essential
+YML125C,PGA3,Essential
+YML126C,ERG13,Essential
+YML127W,RSC9,Essential
+YML130C,ERO1,Essential
+YMR001C,CDC5,Essential
+YMR005W,TAF4,Essential
+YMR013C,SEC59,Essential
+YMR028W,TAP42,Essential
+YMR033W,ARP9,Essential
+YMR043W,MCM1,Essential
+YMR047C,NUP116,Essential
+YMR049C,ERB1,Essential
+YMR059W,SEN15,Essential
+YMR061W,RNA14,Essential
+YMR076C,PDS5,Essential
+YMR079W,SEC14,Essential
+YMR093W,UTP15,Essential
+YMR094W,CTF13,Essential
+YMR108W,ILV2,Essential
+YMR112C,MED11,Essential
+YMR113W,FOL3,Essential
+YMR117C,SPC24,Essential
+YMR128W,ECM16,Essential
+YMR131C,RRB1,Essential
+YMR134W,YMR134W,Essential
+YMR146C,TIF34,Essential
+YMR149W,SWP1,Essential
+YMR165C,PAH1,Essential
+YMR168C,CEP3,Essential
+YMR185W,YMR185W,Essential
+YMR197C,VTI1,Essential
+YMR200W,ROT1,Essential
+YMR203W,TOM40,Essential
+YMR208W,ERG12,Essential
+YMR213W,CEF1,Essential
+YMR217W,GUA1,Essential
+YMR218C,TRS130,Essential
+YMR220W,ERG8,Essential
+YMR227C,TAF7,Essential
+YMR229C,RRP5,Essential
+YMR235C,RNA1,Essential
+YMR236W,TAF9,Essential
+YMR239C,RNT1,Essential
+YMR240C,CUS1,Essential
+YMR260C,TIF11,Essential
+YMR268C,PRP24,Essential
+YMR270C,RRN9,Essential
+YMR277W,FCP1,Essential
+YMR281W,GPI12,Essential
+YMR288W,HSH155,Essential
+YMR290C,HAS1,Essential
+YMR290W-A,YMR290W-A,Essential
+YMR296C,LCB1,Essential
+YMR298W,LIP1,Essential
+YMR301C,ATM1,Essential
+YMR308C,PSE1,Essential
+YMR309C,NIP1,Essential
+YMR314W,PRE5,Essential
+YNL002C,RLP7,Essential
+YNL006W,LST8,Essential
+YNL007C,SIS1,Essential
+YNL026W,SAM50,Essential
+YNL036W,NCE103,Essential
+YNL038W,GPI15,Essential
+YNL039W,BDP1,Essential
+YNL050C,YNL050C,Essential
+YNL061W,NOP2,Essential
+YNL062C,GCD10,Essential
+YNL075W,IMP4,Essential
+YNL088W,TOP2,Essential
+YNL102W,POL1,Essential
+YNL110C,NOP15,Essential
+YNL112W,DBP2,Essential
+YNL113W,RPC19,Essential
+YNL114C,YNL114C,Essential
+YNL118C,DCP2,Essential
+YNL124W,NAF1,Essential
+YNL126W,SPC98,Essential
+YNL131W,TOM22,Essential
+YNL132W,KRE33,Essential
+YNL137C,NAM9,Essential
+YNL149C,PGA2,Essential
+YNL150W,YNL150W,Essential
+YNL151C,RPC31,Essential
+YNL152W,INN1,Essential
+YNL156C,NSG2,Essential
+YNL158W,PGA1,Essential
+YNL161W,CBK1,Essential
+YNL162W,RPL42A,Essential
+YNL163C,RIA1,Essential
+YNL171C,YNL171C,Essential
+YNL172W,APC1,Essential
+YNL178W,RPS3,Essential
+YNL180C,RHO5,Essential
+YNL181W,YNL181W,Essential
+YNL182C,IPI3,Essential
+YNL188W,KAR1,Essential
+YNL189W,SRP1,Essential
+YNL207W,RIO2,Essential
+YNL213C,RRG9,Essential
+YNL216W,RAP1,Essential
+YNL218W,MGS1,Essential
+YNL221C,POP1,Essential
+YNL222W,SSU72,Essential
+YNL232W,CSL4,Essential
+YNL240C,NAR1,Essential
+YNL241C,ZWF1,Essential
+YNL243W,SLA2,Essential
+YNL244C,SUI1,Essential
+YNL245C,CWC25,Essential
+YNL247W,YNL247W,Essential
+YNL256W,FOL1,Essential
+YNL258C,DSL1,Essential
+YNL260C,YNL260C,Essential
+YNL263C,YIF1,Essential
+YNL267W,PIK1,Essential
+YNL272C,SEC2,Essential
+YNL276C,YNL276C,Essential
+YNL277W,MET2,Essential
+YNL282W,POP3,Essential
+YNL287W,SEC21,Essential
+YNL290W,RFC3,Essential
+YNL298W,CLA4,Essential
+YNL306W,MRPS18,Essential
+YNL308C,KRI1,Essential
+YNL310C,ZIM17,Essential
+YNL312W,RFA2,Essential
+YNL313C,EMW1,Essential
+YNL317W,PFS2,Essential
+YNR003C,RPC34,Essential
+YNR016C,ACC1,Essential
+YNR017W,TIM23,Essential
+YNR023W,SNF12,Essential
+YNR026C,SEC12,Essential
+YNR035C,ARC35,Essential
+YNR038W,DBP6,Essential
+YNR043W,MVD1,Essential
+YNR046W,TRM112,Essential
+YNR053C,NOG2,Essential
+YNR054C,ESF2,Essential
+YOL005C,RPB11,Essential
+YOL010W,RCL1,Essential
+YOL021C,DIS3,Essential
+YOL022C,TSR4,Essential
+YOL026C,MIM1,Essential
+YOL034W,SMC5,Essential
+YOL038W,PRE6,Essential
+YOL040C,RPS15,Essential
+YOL066C,RIB2,Essential
+YOL069W,NUF2,Essential
+YOL077C,BRX1,Essential
+YOL078W,AVO1,Essential
+YOL094C,RFC4,Essential
+YOL097C,WRS1,Essential
+YOL102C,TPT1,Essential
+YOL120C,RPL18A,Essential
+YOL123W,HRP1,Essential
+YOL127W,RPL25,Essential
+YOL130W,ALR1,Essential
+YOL133W,HRT1,Essential
+YOL134C,YOL134C,Essential
+YOL135C,MED7,Essential
+YOL139C,CDC33,Essential
+YOL142W,RRP40,Essential
+YOL144W,NOP8,Essential
+YOL146W,PSF3,Essential
+YOL149W,DCP1,Essential
+YOR004W,UTP23,Essential
+YOR020C,HSP10,Essential
+YOR046C,DBP5,Essential
+YOR048C,RAT1,Essential
+YOR056C,NOB1,Essential
+YOR057W,SGT1,Essential
+YOR060C,SLD7,Essential
+YOR063W,RPL3,Essential
+YOR074C,CDC21,Essential
+YOR075W,UFE1,Essential
+YOR077W,RTS2,Essential
+YOR095C,RKI1,Essential
+YOR098C,NUP1,Essential
+YOR102W,YOR102W,Essential
+YOR103C,OST2,Essential
+YOR110W,TFC7,Essential
+YOR116C,RPO31,Essential
+YOR117W,RPT5,Essential
+YOR119C,RIO1,Essential
+YOR122C,PFY1,Essential
+YOR143C,THI80,Essential
+YOR145C,PNO1,Essential
+YOR146W,YOR146W,Essential
+YOR148C,SPP2,Essential
+YOR149C,SMP3,Essential
+YOR151C,RPB2,Essential
+YOR157C,PUP1,Essential
+YOR159C,SME1,Essential
+YOR168W,GLN4,Essential
+YOR169C,YOR169C,Essential
+YOR174W,MED4,Essential
+YOR176W,HEM15,Essential
+YOR181W,LAS17,Essential
+YOR194C,TOA1,Essential
+YOR203W,YOR203W,Essential
+YOR204W,DED1,Essential
+YOR206W,NOC2,Essential
+YOR207C,RET1,Essential
+YOR217W,RFC1,Essential
+YOR218C,YOR218C,Essential
+YOR232W,MGE1,Essential
+YOR236W,DFR1,Essential
+YOR244W,ESA1,Essential
+YOR249C,APC5,Essential
+YOR250C,CLP1,Essential
+YOR254C,SEC63,Essential
+YOR256C,TRE2,Essential
+YOR257W,CDC31,Essential
+YOR259C,RPT4,Essential
+YOR261C,RPN8,Essential
+YOR262W,YOR262W,Essential
+YOR272W,YTM1,Essential
+YOR281C,PLP2,Essential
+YOR282W,YOR282W,Essential
+YOR287C,RRP36,Essential
+YOR294W,RRS1,Essential
+YOR310C,NOP58,Essential
+YOR326W,MYO2,Essential
+YOR329C,SCD5,Essential
+YOR335C,ALA1,Essential
+YOR336W,KRE5,Essential
+YOR341W,RPA190,Essential
+YOR353C,SOG2,Essential
+YOR361C,PRT1,Essential
+YOR362C,PRE10,Essential
+YOR370C,MRS6,Essential
+YOR372C,NDD1,Essential
+YOR373W,NUD1,Essential
+YPL007C,TFC8,Essential
+YPL010W,RET3,Essential
+YPL011C,TAF3,Essential
+YPL012W,RRP12,Essential
+YPL016W,SWI1,Essential
+YPL020C,ULP1,Essential
+YPL028W,ERG10,Essential
+YPL043W,NOP4,Essential
+YPL044C,YPL044C,Essential
+YPL063W,TIM50,Essential
+YPL075W,GCR1,Essential
+YPL076W,GPI2,Essential
+YPL082C,MOT1,Essential
+YPL083C,SEN54,Essential
+YPL085W,SEC16,Essential
+YPL093W,NOG1,Essential
+YPL094C,SEC62,Essential
+YPL117C,IDI1,Essential
+YPL122C,TFB2,Essential
+YPL124W,SPC29,Essential
+YPL126W,NAN1,Essential
+YPL128C,TBF1,Essential
+YPL131W,RPL5,Essential
+YPL142C,YPL142C,Essential
+YPL143W,RPL33A,Essential
+YPL146C,NOP53,Essential
+YPL151C,PRP46,Essential
+YPL153C,RAD53,Essential
+YPL160W,CDC60,Essential
+YPL169C,MEX67,Essential
+YPL175W,SPT14,Essential
+YPL190C,NAB3,Essential
+YPL204W,HRR25,Essential
+YPL209C,IPL1,Essential
+YPL210C,SRP72,Essential
+YPL211W,NIP7,Essential
+YPL218W,SAR1,Essential
+YPL228W,CET1,Essential
+YPL231W,FAS2,Essential
+YPL233W,NSL1,Essential
+YPL235W,RVB2,Essential
+YPL237W,SUI3,Essential
+YPL238C,YPL238C,Essential
+YPL242C,IQG1,Essential
+YPL243W,SRP68,Essential
+YPL251W,YPL251W,Essential
+YPL252C,YAH1,Essential
+YPL255W,BBP1,Essential
+YPL266W,DIM1,Essential
+YPR010C,RPA135,Essential
+YPR016C,TIF6,Essential
+YPR019W,MCM4,Essential
+YPR025C,CCL1,Essential
+YPR033C,HTS1,Essential
+YPR034W,ARP7,Essential
+YPR035W,GLN1,Essential
+YPR041W,TIF5,Essential
+YPR048W,TAH18,Essential
+YPR055W,SEC8,Essential
+YPR056W,TFB4,Essential
+YPR082C,DIB1,Essential
+YPR085C,ASA1,Essential
+YPR088C,SRP54,Essential
+YPR094W,RDS3,Essential
+YPR103W,PRE2,Essential
+YPR105C,COG4,Essential
+YPR107C,YTH1,Essential
+YPR110C,RPC40,Essential
+YPR112C,MRD1,Essential
+YPR113W,PIS1,Essential
+YPR133C,SPN1,Essential
+YPR136C,YPR136C,Essential
+YPR137W,RRP9,Essential
+YPR142C,YPR142C,Essential
+YPR143W,RRP15,Essential
+YPR144C,NOC4,Essential
+YPR161C,SGV1,Essential
+YPR162C,ORC4,Essential
+YPR165W,RHO1,Essential
+YPR168W,NUT2,Essential
+YPR169W,JIP5,Essential
+YPR175W,DPB2,Essential
+YPR176C,BET2,Essential
+YPR177C,YPR177C,Essential
+YPR178W,PRP4,Essential
+YPR180W,AOS1,Essential
+YPR181C,SEC23,Essential
+YPR182W,SMX3,Essential
+YPR183W,DPM1,Essential
+YPR186C,PZF1,Essential
+YPR187W,RPO26,Essential
+YPR190C,RPC82,Essential
+YAL002W,VPS8,Non essential
+YAL004W,YAL004W,Non essential
+YAL005C,SSA1,Non essential
+YAL007C,ERP2,Non essential
+YAL008W,FUN14,Non essential
+YAL009W,SPO7,Non essential
+YAL010C,MDM10,Non essential
+YAL011W,SWC3,Non essential
+YAL012W,CYS3,Non essential
+YAL013W,DEP1,Non essential
+YAL014C,SYN8,Non essential
+YAL015C,NTG1,Non essential
+YAL016C-A,YAL016C-A,Non essential
+YAL016C-B,YAL016C-B,Non essential
+YAL016W,TPD3,Non essential
+YAL017W,PSK1,Non essential
+YAL018C,YAL018C,Non essential
+YAL019W,FUN30,Non essential
+YAL019W-A,YAL019W-A,Non essential
+YAL020C,ATS1,Non essential
+YAL021C,CCR4,Non essential
+YAL022C,FUN26,Non essential
+YAL023C,PMT2,Non essential
+YAL024C,LTE1,Non essential
+YAL026C,DRS2,Non essential
+YAL026C-A,YAL026C-A,Non essential
+YAL027W,SAW1,Non essential
+YAL028W,FRT2,Non essential
+YAL029C,MYO4,Non essential
+YAL030W,SNC1,Non essential
+YAL031C,GIP4,Non essential
+YAL031W-A,YAL031W-A,Non essential
+YAL034C,FUN19,Non essential
+YAL035W,FUN12,Non essential
+YAL036C,RBG1,Non essential
+YAL037C-A,YAL037C-A,Non essential
+YAL037C-B,YAL037C-B,Non essential
+YAL037W,YAL037W,Non essential
+YAL039C,CYC3,Non essential
+YAL040C,CLN3,Non essential
+YAL042C-A,YAL042C-A,Non essential
+YAL042W,ERV46,Non essential
+YAL044C,GCV3,Non essential
+YAL044W-A,YAL044W-A,Non essential
+YAL045C,YAL045C,Non essential
+YAL046C,AIM1,Non essential
+YAL047C,SPC72,Non essential
+YAL047W-A,YAL047W-A,Non essential
+YAL048C,GEM1,Non essential
+YAL049C,AIM2,Non essential
+YAL051W,OAF1,Non essential
+YAL053W,FLC2,Non essential
+YAL054C,ACS1,Non essential
+YAL055W,PEX22,Non essential
+YAL056C-A,YAL056C-A,Non essential
+YAL056W,GPB2,Non essential
+YAL058W,CNE1,Non essential
+YAL059C-A,YAL059C-A,Non essential
+YAL059W,ECM1,Non essential
+YAL060W,BDH1,Non essential
+YAL061W,BDH2,Non essential
+YAL062W,GDH3,Non essential
+YAL063C,FLO9,Non essential
+YAL063C-A,YAL063C-A,Non essential
+YAL064C-A,TDA8,Non essential
+YAL064W,YAL064W,Non essential
+YAL064W-B,YAL064W-B,Non essential
+YAL065C,YAL065C,Non essential
+YAL066W,YAL066W,Non essential
+YAL067C,SEO1,Non essential
+YAL067W-A,YAL067W-A,Non essential
+YAL068C,PAU8,Non essential
+YAL068W-A,YAL068W-A,Non essential
+YAL069W,YAL069W,Non essential
+YAR002C-A,ERP1,Non essential
+YAR002W,NUP60,Non essential
+YAR003W,SWD1,Non essential
+YAR009C,YAR009C,Non essential
+YAR010C,YAR010C,Non essential
+YAR014C,BUD14,Non essential
+YAR015W,ADE1,Non essential
+YAR018C,KIN3,Non essential
+YAR019W-A,YAR019W-A,Non essential
+YAR020C,PAU7,Non essential
+YAR023C,YAR023C,Non essential
+YAR027W,UIP3,Non essential
+YAR028W,YAR028W,Non essential
+YAR029W,YAR029W,Non essential
+YAR030C,YAR030C,Non essential
+YAR031W,PRM9,Non essential
+YAR033W,MST28,Non essential
+YAR035C-A,YAR035C-A,Non essential
+YAR035W,YAT1,Non essential
+YAR042W,SWH1,Non essential
+YAR047C,YAR047C,Non essential
+YAR050W,FLO1,Non essential
+YAR053W,YAR053W,Non essential
+YAR060C,YAR060C,Non essential
+YAR064W,YAR064W,Non essential
+YAR066W,YAR066W,Non essential
+YAR068W,YAR068W,Non essential
+YAR069C,YAR069C,Non essential
+YAR070C,YAR070C,Non essential
+YAR071W,PHO11,Non essential
+YAR073W,IMD1,Non essential
+YAR075W,YAR075W,Non essential
+YBL001C,ECM15,Non essential
+YBL002W,HTB2,Non essential
+YBL003C,HTA2,Non essential
+YBL005W,PDR3,Non essential
+YBL005W-A,YBL005W-A,Non essential
+YBL005W-B,YBL005W-B,Non essential
+YBL006C,LDB7,Non essential
+YBL006W-A,YBL006W-A,Non essential
+YBL007C,SLA1,Non essential
+YBL008W,HIR1,Non essential
+YBL008W-A,YBL008W-A,Non essential
+YBL009W,ALK2,Non essential
+YBL010C,YBL010C,Non essential
+YBL011W,SCT1,Non essential
+YBL012C,YBL012C,Non essential
+YBL013W,FMT1,Non essential
+YBL015W,ACH1,Non essential
+YBL016W,FUS3,Non essential
+YBL017C,PEP1,Non essential
+YBL019W,APN2,Non essential
+YBL021C,HAP3,Non essential
+YBL022C,PIM1,Non essential
+YBL024W,NCL1,Non essential
+YBL025W,RRN10,Non essential
+YBL027W,RPL19B,Non essential
+YBL028C,YBL028C,Non essential
+YBL029C-A,YBL029C-A,Non essential
+YBL029W,YBL029W,Non essential
+YBL031W,SHE1,Non essential
+YBL032W,HEK2,Non essential
+YBL033C,RIB1,Non essential
+YBL036C,YBL036C,Non essential
+YBL037W,APL3,Non essential
+YBL038W,MRPL16,Non essential
+YBL039C,URA7,Non essential
+YBL039C-A,YBL039C-A,Non essential
+YBL039W-B,YBL039W-B,Non essential
+YBL042C,FUI1,Non essential
+YBL043W,ECM13,Non essential
+YBL044W,YBL044W,Non essential
+YBL045C,COR1,Non essential
+YBL046W,PSY4,Non essential
+YBL047C,EDE1,Non essential
+YBL048W,RRT1,Non essential
+YBL049W,MOH1,Non essential
+YBL051C,PIN4,Non essential
+YBL052C,SAS3,Non essential
+YBL053W,YBL053W,Non essential
+YBL054W,TOD6,Non essential
+YBL055C,YBL055C,Non essential
+YBL056W,PTC3,Non essential
+YBL057C,PTH2,Non essential
+YBL058W,SHP1,Non essential
+YBL059C-A,CMC2,Non essential
+YBL059W,YBL059W,Non essential
+YBL060W,YEL1,Non essential
+YBL061C,SKT5,Non essential
+YBL062W,YBL062W,Non essential
+YBL063W,KIP1,Non essential
+YBL064C,PRX1,Non essential
+YBL065W,YBL065W,Non essential
+YBL066C,SEF1,Non essential
+YBL067C,UBP13,Non essential
+YBL068W,PRS4,Non essential
+YBL068W-A,YBL068W-A,Non essential
+YBL069W,AST1,Non essential
+YBL070C,YBL070C,Non essential
+YBL071C,YBL071C,Non essential
+YBL071C-B,YBL071C-B,Non essential
+YBL071W-A,KTI11,Non essential
+YBL072C,RPS8A,Non essential
+YBL075C,SSA3,Non essential
+YBL078C,ATG8,Non essential
+YBL079W,NUP170,Non essential
+YBL080C,PET112,Non essential
+YBL081W,YBL081W,Non essential
+YBL082C,ALG3,Non essential
+YBL083C,YBL083C,Non essential
+YBL085W,BOI1,Non essential
+YBL086C,YBL086C,Non essential
+YBL087C,RPL23A,Non essential
+YBL088C,TEL1,Non essential
+YBL089W,AVT5,Non essential
+YBL090W,MRP21,Non essential
+YBL091C,MAP2,Non essential
+YBL091C-A,SCS22,Non essential
+YBL093C,ROX3,Non essential
+YBL094C,YBL094C,Non essential
+YBL095W,YBL095W,Non essential
+YBL096C,YBL096C,Non essential
+YBL098W,BNA4,Non essential
+YBL099W,ATP1,Non essential
+YBL100C,YBL100C,Non essential
+YBL100W-A,YBL100W-A,Non essential
+YBL100W-B,YBL100W-B,Non essential
+YBL100W-C,YBL100W-C,Non essential
+YBL101C,ECM21,Non essential
+YBL102W,SFT2,Non essential
+YBL104C,SEA4,Non essential
+YBL106C,SRO77,Non essential
+YBL107C,YBL107C,Non essential
+YBL107W-A,YBL107W-A,Non essential
+YBL108C-A,PAU9,Non essential
+YBL108W,YBL108W,Non essential
+YBL109W,YBL109W,Non essential
+YBL111C,YBL111C,Non essential
+YBL112C,YBL112C,Non essential
+YBL113C,YBL113C,Non essential
+YBL113W-A,YBL113W-A,Non essential
+YBR001C,NTH2,Non essential
+YBR002C,RER2,Non essential
+YBR003W,COQ1,Non essential
+YBR004C,GPI18,Non essential
+YBR005W,RCR1,Non essential
+YBR006W,UGA2,Non essential
+YBR007C,DSF2,Non essential
+YBR008C,FLR1,Non essential
+YBR009C,HHF1,Non essential
+YBR010W,HHT1,Non essential
+YBR012C,YBR012C,Non essential
+YBR012W-A,YBR012W-A,Non essential
+YBR012W-B,YBR012W-B,Non essential
+YBR013C,YBR013C,Non essential
+YBR014C,GRX7,Non essential
+YBR015C,MNN2,Non essential
+YBR016W,YBR016W,Non essential
+YBR018C,GAL7,Non essential
+YBR019C,GAL10,Non essential
+YBR020W,GAL1,Non essential
+YBR022W,POA1,Non essential
+YBR023C,CHS3,Non essential
+YBR024W,SCO2,Non essential
+YBR025C,OLA1,Non essential
+YBR026C,ETR1,Non essential
+YBR027C,YBR027C,Non essential
+YBR028C,YPK3,Non essential
+YBR030W,RKM3,Non essential
+YBR031W,RPL4A,Non essential
+YBR032W,YBR032W,Non essential
+YBR033W,EDS1,Non essential
+YBR034C,HMT1,Non essential
+YBR035C,PDX3,Non essential
+YBR036C,CSG2,Non essential
+YBR037C,SCO1,Non essential
+YBR040W,FIG1,Non essential
+YBR041W,FAT1,Non essential
+YBR042C,CST26,Non essential
+YBR043C,QDR3,Non essential
+YBR044C,TCM62,Non essential
+YBR045C,GIP1,Non essential
+YBR046C,ZTA1,Non essential
+YBR047W,FMP23,Non essential
+YBR048W,RPS11B,Non essential
+YBR050C,REG2,Non essential
+YBR051W,YBR051W,Non essential
+YBR052C,RFS1,Non essential
+YBR053C,YBR053C,Non essential
+YBR054W,YRO2,Non essential
+YBR056C-B,YBR056C-B,Non essential
+YBR056W,YBR056W,Non essential
+YBR056W-A,YBR056W-A,Non essential
+YBR057C,MUM2,Non essential
+YBR058C,UBP14,Non essential
+YBR058C-A,TSC3,Non essential
+YBR059C,AKL1,Non essential
+YBR062C,YBR062C,Non essential
+YBR063C,YBR063C,Non essential
+YBR064W,YBR064W,Non essential
+YBR065C,ECM2,Non essential
+YBR066C,NRG2,Non essential
+YBR067C,TIP1,Non essential
+YBR068C,BAP2,Non essential
+YBR069C,TAT1,Non essential
+YBR071W,YBR071W,Non essential
+YBR072C-A,YBR072C-A,Non essential
+YBR072W,HSP26,Non essential
+YBR073W,RDH54,Non essential
+YBR074W,YBR074W,Non essential
+YBR076C-A,YBR076C-A,Non essential
+YBR076W,ECM8,Non essential
+YBR077C,SLM4,Non essential
+YBR078W,ECM33,Non essential
+YBR083W,TEC1,Non essential
+YBR084C-A,RPL19A,Non essential
+YBR084W,MIS1,Non essential
+YBR085C-A,YBR085C-A,Non essential
+YBR086C,IST2,Non essential
+YBR089C-A,NHP6B,Non essential
+YBR090C,YBR090C,Non essential
+YBR092C,PHO3,Non essential
+YBR093C,PHO5,Non essential
+YBR094W,PBY1,Non essential
+YBR098W,MMS4,Non essential
+YBR099C,YBR099C,Non essential
+YBR101C,FES1,Non essential
+YBR103C-A,YBR103C-A,Non essential
+YBR103W,SIF2,Non essential
+YBR104W,YMC2,Non essential
+YBR105C,VID24,Non essential
+YBR106W,PHO88,Non essential
+YBR107C,IML3,Non essential
+YBR108W,AIM3,Non essential
+YBR109W-A,YBR109W-A,Non essential
+YBR111C,YSA1,Non essential
+YBR111W-A,SUS1,Non essential
+YBR112C,CYC8,Non essential
+YBR113W,YBR113W,Non essential
+YBR114W,RAD16,Non essential
+YBR115C,LYS2,Non essential
+YBR116C,YBR116C,Non essential
+YBR119W,MUD1,Non essential
+YBR120C,CBP6,Non essential
+YBR121C-A,YBR121C-A,Non essential
+YBR122C,MRPL36,Non essential
+YBR125C,PTC4,Non essential
+YBR126C,TPS1,Non essential
+YBR126W-A,YBR126W-A,Non essential
+YBR126W-B,YBR126W-B,Non essential
+YBR127C,VMA2,Non essential
+YBR128C,ATG14,Non essential
+YBR129C,OPY1,Non essential
+YBR130C,SHE3,Non essential
+YBR131C-A,YBR131C-A,Non essential
+YBR131W,CCZ1,Non essential
+YBR132C,AGP2,Non essential
+YBR133C,HSL7,Non essential
+YBR134W,YBR134W,Non essential
+YBR137W,YBR137W,Non essential
+YBR138C,YBR138C,Non essential
+YBR139W,YBR139W,Non essential
+YBR141C,YBR141C,Non essential
+YBR141W-A,YBR141W-A,Non essential
+YBR144C,YBR144C,Non essential
+YBR145W,ADH5,Non essential
+YBR146W,MRPS9,Non essential
+YBR147W,RTC2,Non essential
+YBR148W,YSW1,Non essential
+YBR149W,ARA1,Non essential
+YBR150C,TBS1,Non essential
+YBR151W,APD1,Non essential
+YBR156C,SLI15,Non essential
+YBR157C,ICS2,Non essential
+YBR158W,AMN1,Non essential
+YBR159W,IFA38,Non essential
+YBR161W,CSH1,Non essential
+YBR162C,TOS1,Non essential
+YBR162W-A,YSY6,Non essential
+YBR163W,EXO5,Non essential
+YBR164C,ARL1,Non essential
+YBR166C,TYR1,Non essential
+YBR168W,PEX32,Non essential
+YBR169C,SSE2,Non essential
+YBR170C,NPL4,Non essential
+YBR171W,SEC66,Non essential
+YBR172C,SMY2,Non essential
+YBR173C,UMP1,Non essential
+YBR174C,YBR174C,Non essential
+YBR175W,SWD3,Non essential
+YBR176W,ECM31,Non essential
+YBR177C,EHT1,Non essential
+YBR178W,YBR178W,Non essential
+YBR179C,FZO1,Non essential
+YBR180W,DTR1,Non essential
+YBR181C,RPS6B,Non essential
+YBR182C,SMP1,Non essential
+YBR182C-A,YBR182C-A,Non essential
+YBR183W,YPC1,Non essential
+YBR184W,YBR184W,Non essential
+YBR185C,MBA1,Non essential
+YBR186W,PCH2,Non essential
+YBR187W,GDT1,Non essential
+YBR188C,NTC20,Non essential
+YBR191W-A,YBR191W-A,Non essential
+YBR194W,AIM4,Non essential
+YBR195C,MSI1,Non essential
+YBR196C-A,YBR196C-A,Non essential
+YBR196C-B,YBR196C-B,Non essential
+YBR197C,YBR197C,Non essential
+YBR199W,KTR4,Non essential
+YBR200W,BEM1,Non essential
+YBR200W-A,YBR200W-A,Non essential
+YBR201C-A,YBR201C-A,Non essential
+YBR201W,DER1,Non essential
+YBR203W,COS111,Non essential
+YBR204C,LDH1,Non essential
+YBR205W,KTR3,Non essential
+YBR206W,YBR206W,Non essential
+YBR207W,FTH1,Non essential
+YBR208C,"DUR1,2",Non essential
+YBR209W,YBR209W,Non essential
+YBR210W,ERV15,Non essential
+YBR212W,NGR1,Non essential
+YBR213W,MET8,Non essential
+YBR214W,SDS24,Non essential
+YBR215W,HPC2,Non essential
+YBR216C,YBP1,Non essential
+YBR217W,ATG12,Non essential
+YBR218C,PYC2,Non essential
+YBR219C,YBR219C,Non essential
+YBR220C,YBR220C,Non essential
+YBR221C,PDB1,Non essential
+YBR221W-A,YBR221W-A,Non essential
+YBR222C,PCS60,Non essential
+YBR223C,TDP1,Non essential
+YBR223W-A,YBR223W-A,Non essential
+YBR224W,YBR224W,Non essential
+YBR225W,YBR225W,Non essential
+YBR226C,YBR226C,Non essential
+YBR227C,MCX1,Non essential
+YBR228W,SLX1,Non essential
+YBR229C,ROT2,Non essential
+YBR230C,OM14,Non essential
+YBR230W-A,YBR230W-A,Non essential
+YBR231C,SWC5,Non essential
+YBR232C,YBR232C,Non essential
+YBR233W,PBP2,Non essential
+YBR233W-A,DAD3,Non essential
+YBR235W,YBR235W,Non essential
+YBR238C,YBR238C,Non essential
+YBR239C,ERT1,Non essential
+YBR240C,THI2,Non essential
+YBR241C,YBR241C,Non essential
+YBR242W,YBR242W,Non essential
+YBR244W,GPX2,Non essential
+YBR245C,ISW1,Non essential
+YBR246W,RRT2,Non essential
+YBR248C,HIS7,Non essential
+YBR249C,ARO4,Non essential
+YBR250W,SPO23,Non essential
+YBR251W,MRPS5,Non essential
+YBR255C-A,YBR255C-A,Non essential
+YBR255W,MTC4,Non essential
+YBR258C,SHG1,Non essential
+YBR259W,YBR259W,Non essential
+YBR260C,RGD1,Non essential
+YBR261C,TAE1,Non essential
+YBR262C,AIM5,Non essential
+YBR263W,SHM1,Non essential
+YBR264C,YPT10,Non essential
+YBR266C,SLM6,Non essential
+YBR267W,REI1,Non essential
+YBR268W,MRPL37,Non essential
+YBR269C,FMP21,Non essential
+YBR270C,BIT2,Non essential
+YBR271W,YBR271W,Non essential
+YBR272C,HSM3,Non essential
+YBR273C,UBX7,Non essential
+YBR274W,CHK1,Non essential
+YBR275C,RIF1,Non essential
+YBR276C,PPS1,Non essential
+YBR277C,YBR277C,Non essential
+YBR278W,DPB3,Non essential
+YBR279W,PAF1,Non essential
+YBR280C,SAF1,Non essential
+YBR281C,DUG2,Non essential
+YBR282W,MRPL27,Non essential
+YBR283C,SSH1,Non essential
+YBR284W,YBR284W,Non essential
+YBR285W,YBR285W,Non essential
+YBR286W,APE3,Non essential
+YBR287W,YBR287W,Non essential
+YBR288C,APM3,Non essential
+YBR289W,SNF5,Non essential
+YBR290W,BSD2,Non essential
+YBR291C,CTP1,Non essential
+YBR292C,YBR292C,Non essential
+YBR293W,VBA2,Non essential
+YBR294W,SUL1,Non essential
+YBR295W,PCA1,Non essential
+YBR296C,PHO89,Non essential
+YBR296C-A,YBR296C-A,Non essential
+YBR297W,MAL33,Non essential
+YBR298C,MAL31,Non essential
+YBR298C-A,YBR298C-A,Non essential
+YBR299W,MAL32,Non essential
+YBR300C,YBR300C,Non essential
+YBR301W,PAU24,Non essential
+YBR302C,COS2,Non essential
+YCL001W,RER1,Non essential
+YCL001W-A,YCL001W-A,Non essential
+YCL001W-B,YCL001W-B,Non essential
+YCL005W,LDB16,Non essential
+YCL005W-A,VMA9,Non essential
+YCL007C,YCL007C,Non essential
+YCL008C,STP22,Non essential
+YCL009C,ILV6,Non essential
+YCL010C,SGF29,Non essential
+YCL011C,GBP2,Non essential
+YCL012C,YCL012C,Non essential
+YCL014W,BUD3,Non essential
+YCL016C,DCC1,Non essential
+YCL018W,LEU2,Non essential
+YCL019W,YCL019W,Non essential
+YCL020W,YCL020W,Non essential
+YCL021W-A,YCL021W-A,Non essential
+YCL022C,YCL022C,Non essential
+YCL023C,YCL023C,Non essential
+YCL024W,KCC4,Non essential
+YCL025C,AGP1,Non essential
+YCL026C-A,FRM2,Non essential
+YCL026C-B,HBN1,Non essential
+YCL027W,FUS1,Non essential
+YCL028W,RNQ1,Non essential
+YCL029C,BIK1,Non essential
+YCL030C,HIS4,Non essential
+YCL032W,STE50,Non essential
+YCL033C,MXR2,Non essential
+YCL034W,LSB5,Non essential
+YCL035C,GRX1,Non essential
+YCL036W,GFD2,Non essential
+YCL037C,SRO9,Non essential
+YCL038C,ATG22,Non essential
+YCL039W,GID7,Non essential
+YCL040W,GLK1,Non essential
+YCL042W,YCL042W,Non essential
+YCL044C,MGR1,Non essential
+YCL045C,EMC1,Non essential
+YCL046W,YCL046W,Non essential
+YCL047C,POF1,Non essential
+YCL048W,SPS22,Non essential
+YCL048W-A,YCL048W-A,Non essential
+YCL049C,YCL049C,Non essential
+YCL050C,APA1,Non essential
+YCL051W,LRE1,Non essential
+YCL055W,KAR4,Non essential
+YCL056C,PEX34,Non essential
+YCL057C-A,MOS1,Non essential
+YCL057W,PRD1,Non essential
+YCL058C,FYV5,Non essential
+YCL058W-A,ADF1,Non essential
+YCL061C,MRC1,Non essential
+YCL063W,VAC17,Non essential
+YCL064C,CHA1,Non essential
+YCL065W,YCL065W,Non essential
+YCL066W,HMLALPHA1,Non essential
+YCL067C,HMLALPHA2,Non essential
+YCL068C,YCL068C,Non essential
+YCL069W,VBA3,Non essential
+YCL073C,GEX1,Non essential
+YCL076W,YCL076W,Non essential
+YCR001W,YCR001W,Non essential
+YCR002C,CDC10,Non essential
+YCR003W,MRPL32,Non essential
+YCR004C,YCP4,Non essential
+YCR005C,CIT2,Non essential
+YCR006C,YCR006C,Non essential
+YCR007C,YCR007C,Non essential
+YCR008W,SAT4,Non essential
+YCR009C,RVS161,Non essential
+YCR010C,ADY2,Non essential
+YCR011C,ADP1,Non essential
+YCR014C,POL4,Non essential
+YCR015C,YCR015C,Non essential
+YCR016W,YCR016W,Non essential
+YCR017C,CWH43,Non essential
+YCR018C,SRD1,Non essential
+YCR018C-A,YCR018C-A,Non essential
+YCR019W,MAK32,Non essential
+YCR020C,PET18,Non essential
+YCR020C-A,MAK31,Non essential
+YCR020W-B,HTL1,Non essential
+YCR021C,HSP30,Non essential
+YCR022C,YCR022C,Non essential
+YCR023C,YCR023C,Non essential
+YCR024C,SLM5,Non essential
+YCR024C-A,PMP1,Non essential
+YCR024C-B,YCR024C-B,Non essential
+YCR025C,YCR025C,Non essential
+YCR026C,NPP1,Non essential
+YCR027C,RHB1,Non essential
+YCR028C,FEN2,Non essential
+YCR028C-A,RIM1,Non essential
+YCR030C,SYP1,Non essential
+YCR031C,RPS14A,Non essential
+YCR032W,BPH1,Non essential
+YCR033W,SNT1,Non essential
+YCR034W,FEN1,Non essential
+YCR036W,RBK1,Non essential
+YCR037C,PHO87,Non essential
+YCR038C,BUD5,Non essential
+YCR038W-A,YCR038W-A,Non essential
+YCR039C,MATALPHA2,Non essential
+YCR040W,MATALPHA1,Non essential
+YCR041W,YCR041W,Non essential
+YCR042C,TAF2,Non essential
+YCR043C,YCR043C,Non essential
+YCR044C,PER1,Non essential
+YCR045C,RRT12,Non essential
+YCR045W-A,YCR045W-A,Non essential
+YCR046C,IMG1,Non essential
+YCR047C,BUD23,Non essential
+YCR047W-A,YCR047W-A,Non essential
+YCR048W,ARE1,Non essential
+YCR049C,YCR049C,Non essential
+YCR050C,YCR050C,Non essential
+YCR051W,YCR051W,Non essential
+YCR053W,THR4,Non essential
+YCR059C,YIH1,Non essential
+YCR060W,TAH1,Non essential
+YCR061W,YCR061W,Non essential
+YCR063W,BUD31,Non essential
+YCR064C,YCR064C,Non essential
+YCR065W,HCM1,Non essential
+YCR066W,RAD18,Non essential
+YCR067C,SED4,Non essential
+YCR068W,ATG15,Non essential
+YCR069W,CPR4,Non essential
+YCR071C,IMG2,Non essential
+YCR073C,SSK22,Non essential
+YCR073W-A,SOL2,Non essential
+YCR075C,ERS1,Non essential
+YCR075W-A,YCR075W-A,Non essential
+YCR076C,YCR076C,Non essential
+YCR077C,PAT1,Non essential
+YCR079W,PTC6,Non essential
+YCR081C-A,YCR081C-A,Non essential
+YCR081W,SRB8,Non essential
+YCR082W,AHC2,Non essential
+YCR083W,TRX3,Non essential
+YCR084C,TUP1,Non essential
+YCR085W,YCR085W,Non essential
+YCR086W,CSM1,Non essential
+YCR087C-A,YCR087C-A,Non essential
+YCR087W,YCR087W,Non essential
+YCR088W,ABP1,Non essential
+YCR089W,FIG2,Non essential
+YCR090C,YCR090C,Non essential
+YCR091W,KIN82,Non essential
+YCR092C,MSH3,Non essential
+YCR094W,CDC50,Non essential
+YCR095C,OCA4,Non essential
+YCR095W-A,YCR095W-A,Non essential
+YCR096C,HMRA2,Non essential
+YCR097W,HMRA1,Non essential
+YCR097W-A,YCR097W-A,Non essential
+YCR098C,GIT1,Non essential
+YCR099C,YCR099C,Non essential
+YCR100C,YCR100C,Non essential
+YCR101C,YCR101C,Non essential
+YCR102C,YCR102C,Non essential
+YCR102W-A,YCR102W-A,Non essential
+YCR104W,PAU3,Non essential
+YCR105W,ADH7,Non essential
+YCR106W,RDS1,Non essential
+YCR107W,AAD3,Non essential
+YCR108C,YCR108C,Non essential
+YDL001W,RMD1,Non essential
+YDL002C,NHP10,Non essential
+YDL005C,MED2,Non essential
+YDL006W,PTC1,Non essential
+YDL007C-A,YDL007C-A,Non essential
+YDL009C,YDL009C,Non essential
+YDL010W,GRX6,Non essential
+YDL011C,YDL011C,Non essential
+YDL012C,YDL012C,Non essential
+YDL013W,SLX5,Non essential
+YDL018C,ERP3,Non essential
+YDL019C,OSH2,Non essential
+YDL020C,RPN4,Non essential
+YDL021W,GPM2,Non essential
+YDL022C-A,YDL022C-A,Non essential
+YDL022W,GPD1,Non essential
+YDL023C,YDL023C,Non essential
+YDL024C,DIA3,Non essential
+YDL025C,RTK1,Non essential
+YDL025W-A,YDL025W-A,Non essential
+YDL026W,YDL026W,Non essential
+YDL027C,YDL027C,Non essential
+YDL031W,DBP10,Non essential
+YDL032W,YDL032W,Non essential
+YDL033C,SLM3,Non essential
+YDL034W,YDL034W,Non essential
+YDL035C,GPR1,Non essential
+YDL036C,PUS9,Non essential
+YDL037C,BSC1,Non essential
+YDL039C,PRM7,Non essential
+YDL040C,NAT1,Non essential
+YDL041W,YDL041W,Non essential
+YDL042C,SIR2,Non essential
+YDL044C,MTF2,Non essential
+YDL045W-A,MRP10,Non essential
+YDL046W,NPC2,Non essential
+YDL047W,SIT4,Non essential
+YDL048C,STP4,Non essential
+YDL049C,KNH1,Non essential
+YDL050C,YDL050C,Non essential
+YDL051W,LHP1,Non essential
+YDL052C,SLC1,Non essential
+YDL053C,PBP4,Non essential
+YDL054C,MCH1,Non essential
+YDL056W,MBP1,Non essential
+YDL057W,YDL057W,Non essential
+YDL058W,USO1,Non essential
+YDL059C,RAD59,Non essential
+YDL061C,RPS29B,Non essential
+YDL062W,YDL062W,Non essential
+YDL063C,YDL063C,Non essential
+YDL065C,PEX19,Non essential
+YDL066W,IDP1,Non essential
+YDL067C,COX9,Non essential
+YDL068W,YDL068W,Non essential
+YDL069C,CBS1,Non essential
+YDL070W,BDF2,Non essential
+YDL071C,YDL071C,Non essential
+YDL072C,YET3,Non essential
+YDL073W,YDL073W,Non essential
+YDL074C,BRE1,Non essential
+YDL075W,RPL31A,Non essential
+YDL076C,RXT3,Non essential
+YDL077C,VAM6,Non essential
+YDL078C,MDH3,Non essential
+YDL079C,MRK1,Non essential
+YDL080C,THI3,Non essential
+YDL081C,RPP1A,Non essential
+YDL082W,RPL13A,Non essential
+YDL083C,RPS16B,Non essential
+YDL085C-A,YDL085C-A,Non essential
+YDL085W,NDE2,Non essential
+YDL086C-A,YDL086C-A,Non essential
+YDL086W,YDL086W,Non essential
+YDL088C,ASM4,Non essential
+YDL089W,NUR1,Non essential
+YDL090C,RAM1,Non essential
+YDL091C,UBX3,Non essential
+YDL093W,PMT5,Non essential
+YDL094C,YDL094C,Non essential
+YDL095W,PMT1,Non essential
+YDL096C,OPI6,Non essential
+YDL099W,BUG1,Non essential
+YDL100C,GET3,Non essential
+YDL101C,DUN1,Non essential
+YDL104C,QRI7,Non essential
+YDL106C,PHO2,Non essential
+YDL107W,MSS2,Non essential
+YDL109C,YDL109C,Non essential
+YDL110C,TMA17,Non essential
+YDL112W,TRM3,Non essential
+YDL113C,ATG20,Non essential
+YDL114W,YDL114W,Non essential
+YDL114W-A,YDL114W-A,Non essential
+YDL115C,IWR1,Non essential
+YDL116W,NUP84,Non essential
+YDL117W,CYK3,Non essential
+YDL118W,YDL118W,Non essential
+YDL119C,YDL119C,Non essential
+YDL121C,YDL121C,Non essential
+YDL122W,UBP1,Non essential
+YDL123W,SNA4,Non essential
+YDL124W,YDL124W,Non essential
+YDL125C,HNT1,Non essential
+YDL127W,PCL2,Non essential
+YDL128W,VCX1,Non essential
+YDL129W,YDL129W,Non essential
+YDL130W,RPP1B,Non essential
+YDL130W-A,STF1,Non essential
+YDL131W,LYS21,Non essential
+YDL133C-A,RPL41B,Non essential
+YDL133W,SRF1,Non essential
+YDL134C,PPH21,Non essential
+YDL135C,RDI1,Non essential
+YDL136W,RPL35B,Non essential
+YDL137W,ARF2,Non essential
+YDL138W,RGT2,Non essential
+YDL142C,CRD1,Non essential
+YDL144C,YDL144C,Non essential
+YDL146W,LDB17,Non essential
+YDL149W,ATG9,Non essential
+YDL151C,BUD30,Non essential
+YDL154W,MSH5,Non essential
+YDL155W,CLB3,Non essential
+YDL156W,YDL156W,Non essential
+YDL157C,YDL157C,Non essential
+YDL159C-B,YDL159C-B,Non essential
+YDL159W,STE7,Non essential
+YDL159W-A,YDL159W-A,Non essential
+YDL160C,DHH1,Non essential
+YDL160C-A,YDL160C-A,Non essential
+YDL161W,ENT1,Non essential
+YDL162C,YDL162C,Non essential
+YDL167C,NRP1,Non essential
+YDL168W,SFA1,Non essential
+YDL169C,UGX2,Non essential
+YDL170W,UGA3,Non essential
+YDL171C,GLT1,Non essential
+YDL172C,YDL172C,Non essential
+YDL173W,PAR32,Non essential
+YDL174C,DLD1,Non essential
+YDL175C,AIR2,Non essential
+YDL176W,YDL176W,Non essential
+YDL177C,YDL177C,Non essential
+YDL178W,DLD2,Non essential
+YDL179W,PCL9,Non essential
+YDL180W,YDL180W,Non essential
+YDL181W,INH1,Non essential
+YDL182W,LYS20,Non essential
+YDL183C,YDL183C,Non essential
+YDL184C,RPL41A,Non essential
+YDL185C-A,YDL185C-A,Non essential
+YDL185W,VMA1,Non essential
+YDL186W,YDL186W,Non essential
+YDL187C,YDL187C,Non essential
+YDL188C,PPH22,Non essential
+YDL189W,RBS1,Non essential
+YDL190C,UFD2,Non essential
+YDL191W,RPL35A,Non essential
+YDL192W,ARF1,Non essential
+YDL194W,SNF3,Non essential
+YDL197C,ASF2,Non essential
+YDL198C,GGC1,Non essential
+YDL199C,YDL199C,Non essential
+YDL200C,MGT1,Non essential
+YDL201W,TRM8,Non essential
+YDL202W,MRPL11,Non essential
+YDL203C,ACK1,Non essential
+YDL204W,RTN2,Non essential
+YDL206W,YDL206W,Non essential
+YDL210W,UGA4,Non essential
+YDL211C,YDL211C,Non essential
+YDL213C,NOP6,Non essential
+YDL214C,PRR2,Non essential
+YDL215C,GDH2,Non essential
+YDL216C,RRI1,Non essential
+YDL218W,YDL218W,Non essential
+YDL219W,DTD1,Non essential
+YDL222C,FMP45,Non essential
+YDL223C,HBT1,Non essential
+YDL224C,WHI4,Non essential
+YDL225W,SHS1,Non essential
+YDL226C,GCS1,Non essential
+YDL227C,HO,Non essential
+YDL228C,YDL228C,Non essential
+YDL229W,SSB1,Non essential
+YDL230W,PTP1,Non essential
+YDL231C,BRE4,Non essential
+YDL232W,OST4,Non essential
+YDL233W,YDL233W,Non essential
+YDL234C,GYP7,Non essential
+YDL236W,PHO13,Non essential
+YDL237W,AIM6,Non essential
+YDL238C,GUD1,Non essential
+YDL239C,ADY3,Non essential
+YDL240C-A,YDL240C-A,Non essential
+YDL240W,LRG1,Non essential
+YDL241W,YDL241W,Non essential
+YDL242W,YDL242W,Non essential
+YDL243C,AAD4,Non essential
+YDL244W,THI13,Non essential
+YDL245C,HXT15,Non essential
+YDL246C,SOR2,Non essential
+YDL247W,MPH2,Non essential
+YDL247W-A,YDL247W-A,Non essential
+YDL248W,COS7,Non essential
+YDR001C,NTH1,Non essential
+YDR003W,RCR2,Non essential
+YDR003W-A,YDR003W-A,Non essential
+YDR004W,RAD57,Non essential
+YDR005C,MAF1,Non essential
+YDR006C,SOK1,Non essential
+YDR007W,TRP1,Non essential
+YDR008C,YDR008C,Non essential
+YDR009W,GAL3,Non essential
+YDR010C,YDR010C,Non essential
+YDR011W,SNQ2,Non essential
+YDR012W,RPL4B,Non essential
+YDR014W,RAD61,Non essential
+YDR014W-A,HED1,Non essential
+YDR015C,YDR015C,Non essential
+YDR017C,KCS1,Non essential
+YDR018C,YDR018C,Non essential
+YDR019C,GCV1,Non essential
+YDR020C,DAS2,Non essential
+YDR022C,CIS1,Non essential
+YDR024W,FYV1,Non essential
+YDR025W,RPS11A,Non essential
+YDR026C,YDR026C,Non essential
+YDR027C,VPS54,Non essential
+YDR028C,REG1,Non essential
+YDR029W,YDR029W,Non essential
+YDR030C,RAD28,Non essential
+YDR031W,MIC14,Non essential
+YDR032C,PST2,Non essential
+YDR033W,MRH1,Non essential
+YDR034C,LYS14,Non essential
+YDR034C-A,YDR034C-A,Non essential
+YDR034C-C,YDR034C-C,Non essential
+YDR034C-D,YDR034C-D,Non essential
+YDR034W-B,YDR034W-B,Non essential
+YDR035W,ARO3,Non essential
+YDR036C,EHD3,Non essential
+YDR038C,ENA5,Non essential
+YDR039C,ENA2,Non essential
+YDR040C,ENA1,Non essential
+YDR042C,YDR042C,Non essential
+YDR043C,NRG1,Non essential
+YDR046C,BAP3,Non essential
+YDR048C,YDR048C,Non essential
+YDR049W,VMS1,Non essential
+YDR051C,DET1,Non essential
+YDR055W,PST1,Non essential
+YDR056C,YDR056C,Non essential
+YDR057W,YOS9,Non essential
+YDR058C,TGL2,Non essential
+YDR059C,UBC5,Non essential
+YDR061W,YDR061W,Non essential
+YDR063W,AIM7,Non essential
+YDR065W,RRG1,Non essential
+YDR066C,RTR2,Non essential
+YDR067C,OCA6,Non essential
+YDR068W,DOS2,Non essential
+YDR069C,DOA4,Non essential
+YDR070C,FMP16,Non essential
+YDR071C,PAA1,Non essential
+YDR072C,IPT1,Non essential
+YDR073W,SNF11,Non essential
+YDR074W,TPS2,Non essential
+YDR075W,PPH3,Non essential
+YDR076W,RAD55,Non essential
+YDR077W,SED1,Non essential
+YDR078C,SHU2,Non essential
+YDR079C-A,TFB5,Non essential
+YDR079W,PET100,Non essential
+YDR080W,VPS41,Non essential
+YDR083W,RRP8,Non essential
+YDR084C,TVP23,Non essential
+YDR085C,AFR1,Non essential
+YDR089W,YDR089W,Non essential
+YDR090C,YDR090C,Non essential
+YDR092W,UBC13,Non essential
+YDR093W,DNF2,Non essential
+YDR094W,YDR094W,Non essential
+YDR095C,YDR095C,Non essential
+YDR096W,GIS1,Non essential
+YDR097C,MSH6,Non essential
+YDR098C,GRX3,Non essential
+YDR098C-A,YDR098C-A,Non essential
+YDR098C-B,YDR098C-B,Non essential
+YDR099W,BMH2,Non essential
+YDR100W,TVP15,Non essential
+YDR101C,ARX1,Non essential
+YDR102C,YDR102C,Non essential
+YDR103W,STE5,Non essential
+YDR104C,SPO71,Non essential
+YDR105C,TMS1,Non essential
+YDR106W,ARP10,Non essential
+YDR107C,TMN2,Non essential
+YDR108W,TRS85,Non essential
+YDR109C,YDR109C,Non essential
+YDR110W,FOB1,Non essential
+YDR111C,ALT2,Non essential
+YDR112W,IRC2,Non essential
+YDR114C,YDR114C,Non essential
+YDR115W,YDR115W,Non essential
+YDR116C,MRPL1,Non essential
+YDR117C,TMA64,Non essential
+YDR118W-A,YDR118W-A,Non essential
+YDR119W,VBA4,Non essential
+YDR119W-A,YDR119W-A,Non essential
+YDR120C,TRM1,Non essential
+YDR121W,DPB4,Non essential
+YDR122W,KIN1,Non essential
+YDR123C,INO2,Non essential
+YDR124W,YDR124W,Non essential
+YDR125C,ECM18,Non essential
+YDR126W,SWF1,Non essential
+YDR127W,ARO1,Non essential
+YDR128W,MTC5,Non essential
+YDR129C,SAC6,Non essential
+YDR130C,FIN1,Non essential
+YDR131C,YDR131C,Non essential
+YDR132C,YDR132C,Non essential
+YDR133C,YDR133C,Non essential
+YDR135C,YCF1,Non essential
+YDR136C,VPS61,Non essential
+YDR137W,RGP1,Non essential
+YDR138W,HPR1,Non essential
+YDR139C,RUB1,Non essential
+YDR140W,MTQ2,Non essential
+YDR142C,PEX7,Non essential
+YDR143C,SAN1,Non essential
+YDR144C,MKC7,Non essential
+YDR146C,SWI5,Non essential
+YDR147W,EKI1,Non essential
+YDR148C,KGD2,Non essential
+YDR149C,YDR149C,Non essential
+YDR150W,NUM1,Non essential
+YDR151C,CTH1,Non essential
+YDR152W,GIR2,Non essential
+YDR153C,ENT5,Non essential
+YDR154C,YDR154C,Non essential
+YDR155C,CPR1,Non essential
+YDR156W,RPA14,Non essential
+YDR157W,YDR157W,Non essential
+YDR158W,HOM2,Non essential
+YDR159W,SAC3,Non essential
+YDR161W,YDR161W,Non essential
+YDR162C,NBP2,Non essential
+YDR163W,CWC15,Non essential
+YDR165W,TRM82,Non essential
+YDR169C,STB3,Non essential
+YDR169C-A,YDR169C-A,Non essential
+YDR170W-A,YDR170W-A,Non essential
+YDR171W,HSP42,Non essential
+YDR173C,ARG82,Non essential
+YDR174W,HMO1,Non essential
+YDR175C,RSM24,Non essential
+YDR176W,NGG1,Non essential
+YDR178W,SDH4,Non essential
+YDR179C,CSN9,Non essential
+YDR179W-A,YDR179W-A,Non essential
+YDR181C,SAS4,Non essential
+YDR182W-A,YDR182W-A,Non essential
+YDR183C-A,YDR183C-A,Non essential
+YDR183W,PLP1,Non essential
+YDR184C,ATC1,Non essential
+YDR185C,UPS3,Non essential
+YDR186C,YDR186C,Non essential
+YDR191W,HST4,Non essential
+YDR192C,NUP42,Non essential
+YDR193W,YDR193W,Non essential
+YDR194C,MSS116,Non essential
+YDR194W-A,YDR194W-A,Non essential
+YDR195W,REF2,Non essential
+YDR197W,CBS2,Non essential
+YDR198C,RKM2,Non essential
+YDR199W,YDR199W,Non essential
+YDR200C,VPS64,Non essential
+YDR202C,RAV2,Non essential
+YDR203W,YDR203W,Non essential
+YDR204W,COQ4,Non essential
+YDR205W,MSC2,Non essential
+YDR206W,EBS1,Non essential
+YDR207C,UME6,Non essential
+YDR209C,YDR209C,Non essential
+YDR210C-C,YDR210C-C,Non essential
+YDR210C-D,YDR210C-D,Non essential
+YDR210W,YDR210W,Non essential
+YDR210W-A,YDR210W-A,Non essential
+YDR210W-B,YDR210W-B,Non essential
+YDR213W,UPC2,Non essential
+YDR214W,AHA1,Non essential
+YDR215C,YDR215C,Non essential
+YDR216W,ADR1,Non essential
+YDR217C,RAD9,Non essential
+YDR218C,SPR28,Non essential
+YDR219C,MFB1,Non essential
+YDR220C,YDR220C,Non essential
+YDR221W,GTB1,Non essential
+YDR222W,YDR222W,Non essential
+YDR223W,CRF1,Non essential
+YDR225W,HTA1,Non essential
+YDR226W,ADK1,Non essential
+YDR227W,SIR4,Non essential
+YDR229W,IVY1,Non essential
+YDR230W,YDR230W,Non essential
+YDR231C,COX20,Non essential
+YDR233C,RTN1,Non essential
+YDR234W,LYS4,Non essential
+YDR237W,MRPL7,Non essential
+YDR239C,YDR239C,Non essential
+YDR241W,BUD26,Non essential
+YDR242W,AMD2,Non essential
+YDR244W,PEX5,Non essential
+YDR245W,MNN10,Non essential
+YDR246W-A,YDR246W-A,Non essential
+YDR247W,VHS1,Non essential
+YDR248C,YDR248C,Non essential
+YDR249C,YDR249C,Non essential
+YDR250C,YDR250C,Non essential
+YDR251W,PAM1,Non essential
+YDR252W,BTT1,Non essential
+YDR253C,MET32,Non essential
+YDR254W,CHL4,Non essential
+YDR255C,RMD5,Non essential
+YDR256C,CTA1,Non essential
+YDR257C,RKM4,Non essential
+YDR258C,HSP78,Non essential
+YDR259C,YAP6,Non essential
+YDR260C,SWM1,Non essential
+YDR261C,EXG2,Non essential
+YDR261C-C,YDR261C-C,Non essential
+YDR261C-D,YDR261C-D,Non essential
+YDR261W-A,YDR261W-A,Non essential
+YDR261W-B,YDR261W-B,Non essential
+YDR262W,YDR262W,Non essential
+YDR263C,DIN7,Non essential
+YDR264C,AKR1,Non essential
+YDR265W,PEX10,Non essential
+YDR266C,YDR266C,Non essential
+YDR268W,MSW1,Non essential
+YDR269C,YDR269C,Non essential
+YDR270W,CCC2,Non essential
+YDR271C,YDR271C,Non essential
+YDR272W,GLO2,Non essential
+YDR273W,DON1,Non essential
+YDR274C,YDR274C,Non essential
+YDR275W,BSC2,Non essential
+YDR276C,PMP3,Non essential
+YDR277C,MTH1,Non essential
+YDR278C,YDR278C,Non essential
+YDR279W,RNH202,Non essential
+YDR281C,PHM6,Non essential
+YDR282C,YDR282C,Non essential
+YDR283C,GCN2,Non essential
+YDR284C,DPP1,Non essential
+YDR285W,ZIP1,Non essential
+YDR286C,YDR286C,Non essential
+YDR287W,INM2,Non essential
+YDR289C,RTT103,Non essential
+YDR290W,YDR290W,Non essential
+YDR291W,HRQ1,Non essential
+YDR293C,SSD1,Non essential
+YDR294C,DPL1,Non essential
+YDR295C,HDA2,Non essential
+YDR296W,MHR1,Non essential
+YDR297W,SUR2,Non essential
+YDR298C,ATP5,Non essential
+YDR300C,PRO1,Non essential
+YDR304C,CPR5,Non essential
+YDR305C,HNT2,Non essential
+YDR306C,YDR306C,Non essential
+YDR307W,YDR307W,Non essential
+YDR309C,GIC2,Non essential
+YDR310C,SUM1,Non essential
+YDR312W,SSF2,Non essential
+YDR313C,PIB1,Non essential
+YDR314C,RAD34,Non essential
+YDR315C,IPK1,Non essential
+YDR316W,OMS1,Non essential
+YDR316W-A,YDR316W-A,Non essential
+YDR316W-B,YDR316W-B,Non essential
+YDR317W,HIM1,Non essential
+YDR318W,MCM21,Non essential
+YDR319C,YDR319C,Non essential
+YDR320C,SWA2,Non essential
+YDR320C-A,DAD4,Non essential
+YDR320W-B,YDR320W-B,Non essential
+YDR321W,ASP1,Non essential
+YDR322C-A,TIM11,Non essential
+YDR322W,MRPL35,Non essential
+YDR323C,PEP7,Non essential
+YDR326C,YSP2,Non essential
+YDR329C,PEX3,Non essential
+YDR330W,UBX5,Non essential
+YDR332W,IRC3,Non essential
+YDR333C,YDR333C,Non essential
+YDR334W,SWR1,Non essential
+YDR335W,MSN5,Non essential
+YDR336W,YDR336W,Non essential
+YDR337W,MRPS28,Non essential
+YDR338C,YDR338C,Non essential
+YDR340W,YDR340W,Non essential
+YDR342C,HXT7,Non essential
+YDR343C,HXT6,Non essential
+YDR344C,YDR344C,Non essential
+YDR345C,HXT3,Non essential
+YDR346C,SVF1,Non essential
+YDR347W,MRP1,Non essential
+YDR348C,YDR348C,Non essential
+YDR349C,YPS7,Non essential
+YDR350C,ATP22,Non essential
+YDR351W,SBE2,Non essential
+YDR352W,YDR352W,Non essential
+YDR354C-A,YDR354C-A,Non essential
+YDR354W,TRP4,Non essential
+YDR357C,CNL1,Non essential
+YDR358W,GGA1,Non essential
+YDR359C,EAF1,Non essential
+YDR360W,OPI7,Non essential
+YDR363W,ESC2,Non essential
+YDR363W-A,SEM1,Non essential
+YDR364C,CDC40,Non essential
+YDR365W-A,YDR365W-A,Non essential
+YDR365W-B,YDR365W-B,Non essential
+YDR366C,YDR366C,Non essential
+YDR368W,YPR1,Non essential
+YDR369C,XRS2,Non essential
+YDR370C,YDR370C,Non essential
+YDR371C-A,YDR371C-A,Non essential
+YDR371W,CTS2,Non essential
+YDR372C,VPS74,Non essential
+YDR374C,YDR374C,Non essential
+YDR374W-A,YDR374W-A,Non essential
+YDR375C,BCS1,Non essential
+YDR377W,ATP17,Non essential
+YDR378C,LSM6,Non essential
+YDR379C-A,YDR379C-A,Non essential
+YDR379W,RGA2,Non essential
+YDR380W,ARO10,Non essential
+YDR381C-A,YDR381C-A,Non essential
+YDR382W,RPP2B,Non essential
+YDR383C,NKP1,Non essential
+YDR384C,ATO3,Non essential
+YDR385W,EFT2,Non essential
+YDR386W,MUS81,Non essential
+YDR387C,YDR387C,Non essential
+YDR388W,RVS167,Non essential
+YDR389W,SAC7,Non essential
+YDR391C,YDR391C,Non essential
+YDR392W,SPT3,Non essential
+YDR393W,SHE9,Non essential
+YDR395W,SXM1,Non essential
+YDR399W,HPT1,Non essential
+YDR400W,URH1,Non essential
+YDR401W,YDR401W,Non essential
+YDR402C,DIT2,Non essential
+YDR403W,DIT1,Non essential
+YDR405W,MRP20,Non essential
+YDR406W,PDR15,Non essential
+YDR406W-A,YDR406W-A,Non essential
+YDR408C,ADE8,Non essential
+YDR409W,SIZ1,Non essential
+YDR410C,STE14,Non essential
+YDR411C,DFM1,Non essential
+YDR414C,ERD1,Non essential
+YDR415C,YDR415C,Non essential
+YDR417C,YDR417C,Non essential
+YDR418W,RPL12B,Non essential
+YDR419W,RAD30,Non essential
+YDR420W,HKR1,Non essential
+YDR421W,ARO80,Non essential
+YDR422C,SIP1,Non essential
+YDR423C,CAD1,Non essential
+YDR424C,DYN2,Non essential
+YDR425W,SNX41,Non essential
+YDR426C,YDR426C,Non essential
+YDR428C,BNA7,Non essential
+YDR430C,CYM1,Non essential
+YDR431W,YDR431W,Non essential
+YDR432W,NPL3,Non essential
+YDR433W,YDR433W,Non essential
+YDR435C,PPM1,Non essential
+YDR436W,PPZ2,Non essential
+YDR438W,THI74,Non essential
+YDR439W,LRS4,Non essential
+YDR440W,DOT1,Non essential
+YDR441C,APT2,Non essential
+YDR442W,YDR442W,Non essential
+YDR443C,SSN2,Non essential
+YDR444W,YDR444W,Non essential
+YDR445C,YDR445C,Non essential
+YDR446W,ECM11,Non essential
+YDR447C,RPS17B,Non essential
+YDR448W,ADA2,Non essential
+YDR450W,RPS18A,Non essential
+YDR451C,YHP1,Non essential
+YDR452W,PPN1,Non essential
+YDR453C,TSA2,Non essential
+YDR455C,YDR455C,Non essential
+YDR456W,NHX1,Non essential
+YDR457W,TOM1,Non essential
+YDR458C,HEH2,Non essential
+YDR459C,PFA5,Non essential
+YDR461C-A,YDR461C-A,Non essential
+YDR461W,MFA1,Non essential
+YDR462W,MRPL28,Non essential
+YDR463W,STP1,Non essential
+YDR464C-A,YDR464C-A,Non essential
+YDR465C,RMT2,Non essential
+YDR466W,PKH3,Non essential
+YDR467C,YDR467C,Non essential
+YDR469W,SDC1,Non essential
+YDR470C,UGO1,Non essential
+YDR471W,RPL27B,Non essential
+YDR476C,YDR476C,Non essential
+YDR477W,SNF1,Non essential
+YDR479C,PEX29,Non essential
+YDR480W,DIG2,Non essential
+YDR481C,PHO8,Non essential
+YDR482C,CWC21,Non essential
+YDR484W,VPS52,Non essential
+YDR485C,VPS72,Non essential
+YDR486C,VPS60,Non essential
+YDR488C,PAC11,Non essential
+YDR490C,PKH1,Non essential
+YDR491C,YDR491C,Non essential
+YDR492W,IZH1,Non essential
+YDR493W,MZM1,Non essential
+YDR494W,RSM28,Non essential
+YDR495C,VPS3,Non essential
+YDR496C,PUF6,Non essential
+YDR497C,ITR1,Non essential
+YDR498C,SEC20,Non essential
+YDR500C,RPL37B,Non essential
+YDR501W,PLM2,Non essential
+YDR502C,SAM2,Non essential
+YDR503C,LPP1,Non essential
+YDR504C,SPG3,Non essential
+YDR505C,PSP1,Non essential
+YDR506C,YDR506C,Non essential
+YDR507C,GIN4,Non essential
+YDR508C,GNP1,Non essential
+YDR509W,YDR509W,Non essential
+YDR510C-A,YDR510C-A,Non essential
+YDR511W,ACN9,Non essential
+YDR512C,EMI1,Non essential
+YDR513W,GRX2,Non essential
+YDR514C,YDR514C,Non essential
+YDR515W,SLF1,Non essential
+YDR516C,EMI2,Non essential
+YDR517W,GRH1,Non essential
+YDR518W,EUG1,Non essential
+YDR519W,FPR2,Non essential
+YDR520C,URC2,Non essential
+YDR522C,SPS2,Non essential
+YDR523C,SPS1,Non essential
+YDR524C,AGE1,Non essential
+YDR524C-A,YDR524C-A,Non essential
+YDR524C-B,YDR524C-B,Non essential
+YDR524W-C,YDR524W-C,Non essential
+YDR525W,API2,Non essential
+YDR525W-A,SNA2,Non essential
+YDR526C,YDR526C,Non essential
+YDR528W,HLR1,Non essential
+YDR529C,QCR7,Non essential
+YDR530C,APA2,Non essential
+YDR531W,CAB1,Non essential
+YDR532C,KRE28,Non essential
+YDR533C,HSP31,Non essential
+YDR534C,FIT1,Non essential
+YDR535C,YDR535C,Non essential
+YDR536W,STL1,Non essential
+YDR537C,YDR537C,Non essential
+YDR538W,PAD1,Non essential
+YDR539W,FDC1,Non essential
+YDR540C,IRC4,Non essential
+YDR541C,YDR541C,Non essential
+YDR542W,PAU10,Non essential
+YDR543C,YDR543C,Non essential
+YDR544C,YDR544C,Non essential
+YDR545C-A,YDR545C-A,Non essential
+YDR545W,YRF1-1,Non essential
+YEL001C,IRC22,Non essential
+YEL003W,GIM4,Non essential
+YEL004W,YEA4,Non essential
+YEL005C,VAB2,Non essential
+YEL006W,YEA6,Non essential
+YEL007W,MIT1,Non essential
+YEL008C-A,YEL008C-A,Non essential
+YEL008W,YEL008W,Non essential
+YEL009C,GCN4,Non essential
+YEL009C-A,YEL009C-A,Non essential
+YEL010W,YEL010W,Non essential
+YEL011W,GLC3,Non essential
+YEL012W,UBC8,Non essential
+YEL013W,VAC8,Non essential
+YEL014C,YEL014C,Non essential
+YEL015W,EDC3,Non essential
+YEL016C,NPP2,Non essential
+YEL017C-A,PMP2,Non essential
+YEL017W,GTT3,Non essential
+YEL018C-A,YEL018C-A,Non essential
+YEL018W,EAF5,Non essential
+YEL020C,YEL020C,Non essential
+YEL020C-B,YEL020C-B,Non essential
+YEL020W-A,TIM9,Non essential
+YEL021W,URA3,Non essential
+YEL022W,GEA2,Non essential
+YEL023C,YEL023C,Non essential
+YEL024W,RIP1,Non essential
+YEL025C,YEL025C,Non essential
+YEL027W,VMA3,Non essential
+YEL028W,YEL028W,Non essential
+YEL029C,BUD16,Non essential
+YEL030C-A,YEL030C-A,Non essential
+YEL030W,ECM10,Non essential
+YEL031W,SPF1,Non essential
+YEL032C-A,YEL032C-A,Non essential
+YEL033W,MTC7,Non essential
+YEL034C-A,YEL034C-A,Non essential
+YEL036C,ANP1,Non essential
+YEL037C,RAD23,Non essential
+YEL038W,UTR4,Non essential
+YEL039C,CYC7,Non essential
+YEL040W,UTR2,Non essential
+YEL041W,YEF1,Non essential
+YEL042W,GDA1,Non essential
+YEL043W,YEL043W,Non essential
+YEL044W,IES6,Non essential
+YEL045C,YEL045C,Non essential
+YEL046C,GLY1,Non essential
+YEL047C,YEL047C,Non essential
+YEL048C,TCA17,Non essential
+YEL049W,PAU2,Non essential
+YEL050C,RML2,Non essential
+YEL050W-A,YEL050W-A,Non essential
+YEL051W,VMA8,Non essential
+YEL052W,AFG1,Non essential
+YEL053C,MAK10,Non essential
+YEL053W-A,YEL053W-A,Non essential
+YEL054C,RPL12A,Non essential
+YEL056W,HAT2,Non essential
+YEL057C,YEL057C,Non essential
+YEL059C-A,SOM1,Non essential
+YEL059W,HHY1,Non essential
+YEL060C,PRB1,Non essential
+YEL061C,CIN8,Non essential
+YEL062W,NPR2,Non essential
+YEL063C,CAN1,Non essential
+YEL064C,AVT2,Non essential
+YEL065W,SIT1,Non essential
+YEL066W,HPA3,Non essential
+YEL067C,YEL067C,Non essential
+YEL068C,YEL068C,Non essential
+YEL069C,HXT13,Non essential
+YEL070W,DSF1,Non essential
+YEL071W,DLD3,Non essential
+YEL072W,RMD6,Non essential
+YEL073C,YEL073C,Non essential
+YEL074W,YEL074W,Non essential
+YEL075C,YEL075C,Non essential
+YEL075W-A,YEL075W-A,Non essential
+YEL076C,YEL076C,Non essential
+YEL076C-A,YEL076C-A,Non essential
+YEL077C,YEL077C,Non essential
+YEL077W-A,YEL077W-A,Non essential
+YER001W,MNN1,Non essential
+YER002W,NOP16,Non essential
+YER004W,FMP52,Non essential
+YER005W,YND1,Non essential
+YER006C-A,YER006C-A,Non essential
+YER007C-A,TMA20,Non essential
+YER007W,PAC2,Non essential
+YER010C,YER010C,Non essential
+YER011W,TIR1,Non essential
+YER014C-A,BUD25,Non essential
+YER015W,FAA2,Non essential
+YER016W,BIM1,Non essential
+YER017C,AFG3,Non essential
+YER019C-A,SBH2,Non essential
+YER019W,ISC1,Non essential
+YER020W,GPA2,Non essential
+YER023C-A,YER023C-A,Non essential
+YER024W,YAT2,Non essential
+YER026C,CHO1,Non essential
+YER027C,GAL83,Non essential
+YER028C,MIG3,Non essential
+YER029C,SMB1,Non essential
+YER030W,CHZ1,Non essential
+YER031C,YPT31,Non essential
+YER032W,FIR1,Non essential
+YER033C,ZRG8,Non essential
+YER034W,YER034W,Non essential
+YER035W,EDC2,Non essential
+YER037W,PHM8,Non essential
+YER038W-A,YER038W-A,Non essential
+YER039C,HVG1,Non essential
+YER039C-A,YER039C-A,Non essential
+YER040W,GLN3,Non essential
+YER041W,YEN1,Non essential
+YER042W,MXR1,Non essential
+YER044C,ERG28,Non essential
+YER044C-A,MEI4,Non essential
+YER045C,ACA1,Non essential
+YER046W,SPO73,Non essential
+YER046W-A,YER046W-A,Non essential
+YER047C,SAP1,Non essential
+YER048C,CAJ1,Non essential
+YER049W,TPA1,Non essential
+YER050C,RSM18,Non essential
+YER051W,JHD1,Non essential
+YER052C,HOM3,Non essential
+YER053C,PIC2,Non essential
+YER053C-A,YER053C-A,Non essential
+YER054C,GIP2,Non essential
+YER055C,HIS1,Non essential
+YER056C,FCY2,Non essential
+YER056C-A,RPL34A,Non essential
+YER057C,HMF1,Non essential
+YER058W,PET117,Non essential
+YER059W,PCL6,Non essential
+YER060W,FCY21,Non essential
+YER060W-A,FCY22,Non essential
+YER061C,CEM1,Non essential
+YER062C,HOR2,Non essential
+YER063W,THO1,Non essential
+YER064C,YER064C,Non essential
+YER065C,ICL1,Non essential
+YER066C-A,YER066C-A,Non essential
+YER066W,RRT13,Non essential
+YER067C-A,YER067C-A,Non essential
+YER067W,RGI1,Non essential
+YER068C-A,YER068C-A,Non essential
+YER068W,MOT2,Non essential
+YER069W,"ARG5,6",Non essential
+YER070W,RNR1,Non essential
+YER071C,TDA2,Non essential
+YER072W,VTC1,Non essential
+YER073W,ALD5,Non essential
+YER074W,RPS24A,Non essential
+YER074W-A,YOS1,Non essential
+YER075C,PTP3,Non essential
+YER076C,YER076C,Non essential
+YER076W-A,YER076W-A,Non essential
+YER077C,YER077C,Non essential
+YER078C,ICP55,Non essential
+YER078W-A,YER078W-A,Non essential
+YER079C-A,YER079C-A,Non essential
+YER079W,YER079W,Non essential
+YER080W,AIM9,Non essential
+YER081W,SER3,Non essential
+YER083C,GET2,Non essential
+YER084W,YER084W,Non essential
+YER084W-A,YER084W-A,Non essential
+YER085C,YER085C,Non essential
+YER086W,ILV1,Non essential
+YER087C-A,YER087C-A,Non essential
+YER087C-B,SBH1,Non essential
+YER087W,AIM10,Non essential
+YER088C,DOT6,Non essential
+YER088C-A,YER088C-A,Non essential
+YER088W-B,YER088W-B,Non essential
+YER089C,PTC2,Non essential
+YER090C-A,YER090C-A,Non essential
+YER090W,TRP2,Non essential
+YER091C,MET6,Non essential
+YER091C-A,YER091C-A,Non essential
+YER092W,IES5,Non essential
+YER093C-A,AIM11,Non essential
+YER095W,RAD51,Non essential
+YER096W,SHC1,Non essential
+YER097W,YER097W,Non essential
+YER098W,UBP9,Non essential
+YER099C,PRS2,Non essential
+YER100W,UBC6,Non essential
+YER101C,AST2,Non essential
+YER102W,RPS8B,Non essential
+YER103W,SSA4,Non essential
+YER105C,NUP157,Non essential
+YER106W,MAM1,Non essential
+YER107W-A,YER107W-A,Non essential
+YER109C,FLO8,Non essential
+YER110C,KAP123,Non essential
+YER111C,SWI4,Non essential
+YER113C,TMN3,Non essential
+YER114C,BOI2,Non essential
+YER115C,SPR6,Non essential
+YER116C,SLX8,Non essential
+YER117W,RPL23B,Non essential
+YER118C,SHO1,Non essential
+YER119C,AVT6,Non essential
+YER119C-A,YER119C-A,Non essential
+YER120W,SCS2,Non essential
+YER121W,YER121W,Non essential
+YER122C,GLO3,Non essential
+YER123W,YCK3,Non essential
+YER124C,DSE1,Non essential
+YER128W,VFA1,Non essential
+YER129W,SAK1,Non essential
+YER130C,YER130C,Non essential
+YER131W,RPS26B,Non essential
+YER132C,PMD1,Non essential
+YER133W-A,YER133W-A,Non essential
+YER134C,YER134C,Non essential
+YER135C,YER135C,Non essential
+YER137C,YER137C,Non essential
+YER137C-A,YER137C-A,Non essential
+YER137W-A,YER137W-A,Non essential
+YER138C,YER138C,Non essential
+YER138W-A,YER138W-A,Non essential
+YER139C,RTR1,Non essential
+YER140W,YER140W,Non essential
+YER141W,COX15,Non essential
+YER142C,MAG1,Non essential
+YER143W,DDI1,Non essential
+YER144C,UBP5,Non essential
+YER145C,FTR1,Non essential
+YER145C-A,YER145C-A,Non essential
+YER147C-A,YER147C-A,Non essential
+YER148W-A,YER148W-A,Non essential
+YER149C,PEA2,Non essential
+YER150W,SPI1,Non essential
+YER151C,UBP3,Non essential
+YER152C,YER152C,Non essential
+YER152W-A,YER152W-A,Non essential
+YER153C,PET122,Non essential
+YER154W,OXA1,Non essential
+YER155C,BEM2,Non essential
+YER156C,YER156C,Non essential
+YER158C,YER158C,Non essential
+YER158W-A,YER158W-A,Non essential
+YER159C-A,YER159C-A,Non essential
+YER160C,YER160C,Non essential
+YER161C,SPT2,Non essential
+YER162C,RAD4,Non essential
+YER163C,YER163C,Non essential
+YER164W,CHD1,Non essential
+YER165C-A,YER165C-A,Non essential
+YER166W,DNF1,Non essential
+YER167W,BCK2,Non essential
+YER169W,RPH1,Non essential
+YER170W,ADK2,Non essential
+YER172C-A,YER172C-A,Non essential
+YER173W,RAD24,Non essential
+YER174C,GRX4,Non essential
+YER175C,TMT1,Non essential
+YER175W-A,YER175W-A,Non essential
+YER176W,ECM32,Non essential
+YER177W,BMH1,Non essential
+YER178W,PDA1,Non essential
+YER179W,DMC1,Non essential
+YER180C,ISC10,Non essential
+YER180C-A,SLO1,Non essential
+YER181C,YER181C,Non essential
+YER182W,FMP10,Non essential
+YER183C,FAU1,Non essential
+YER184C,YER184C,Non essential
+YER185W,PUG1,Non essential
+YER186C,YER186C,Non essential
+YER187W,YER187W,Non essential
+YER188C-A,YER188C-A,Non essential
+YER188W,YER188W,Non essential
+YER189W,YER189W,Non essential
+YER190C-A,YER190C-A,Non essential
+YER190C-B,YER190C-B,Non essential
+YER190W,YRF1-2,Non essential
+YFL001W,DEG1,Non essential
+YFL002C,SPB4,Non essential
+YFL002W-A,YFL002W-A,Non essential
+YFL002W-B,YFL002W-B,Non essential
+YFL003C,MSH4,Non essential
+YFL004W,VTC2,Non essential
+YFL005W,SEC4,Non essential
+YFL007W,BLM10,Non essential
+YFL010C,WWM1,Non essential
+YFL010W-A,AUA1,Non essential
+YFL011W,HXT10,Non essential
+YFL012W,YFL012W,Non essential
+YFL012W-A,YFL012W-A,Non essential
+YFL013C,IES1,Non essential
+YFL013W-A,YFL013W-A,Non essential
+YFL014W,HSP12,Non essential
+YFL015C,YFL015C,Non essential
+YFL015W-A,YFL015W-A,Non essential
+YFL016C,MDJ1,Non essential
+YFL017W-A,SMX2,Non essential
+YFL019C,YFL019C,Non essential
+YFL020C,PAU5,Non essential
+YFL021C-A,YFL021C-A,Non essential
+YFL021W,GAT1,Non essential
+YFL023W,BUD27,Non essential
+YFL025C,BST1,Non essential
+YFL026W,STE2,Non essential
+YFL027C,GYP8,Non essential
+YFL028C,CAF16,Non essential
+YFL029C,CAK1,Non essential
+YFL030W,AGX1,Non essential
+YFL031C-A,YFL031C-A,Non essential
+YFL031W,HAC1,Non essential
+YFL032W,YFL032W,Non essential
+YFL033C,RIM15,Non essential
+YFL034C-A,RPL22B,Non essential
+YFL034C-B,MOB2,Non essential
+YFL036W,RPO41,Non essential
+YFL040W,YFL040W,Non essential
+YFL041W,FET5,Non essential
+YFL041W-A,YFL041W-A,Non essential
+YFL042C,YFL042C,Non essential
+YFL044C,OTU1,Non essential
+YFL046W,FMP32,Non essential
+YFL047W,RGD2,Non essential
+YFL048C,EMP47,Non essential
+YFL049W,SWP82,Non essential
+YFL050C,ALR2,Non essential
+YFL051C,YFL051C,Non essential
+YFL052W,YFL052W,Non essential
+YFL053W,DAK2,Non essential
+YFL054C,YFL054C,Non essential
+YFL055W,AGP3,Non essential
+YFL056C,AAD6,Non essential
+YFL057C,AAD16,Non essential
+YFL058W,THI5,Non essential
+YFL059W,SNZ3,Non essential
+YFL060C,SNO3,Non essential
+YFL061W,DDI2,Non essential
+YFL062W,COS4,Non essential
+YFL063W,YFL063W,Non essential
+YFL064C,YFL064C,Non essential
+YFL065C,YFL065C,Non essential
+YFL066C,YFL066C,Non essential
+YFL067W,YFL067W,Non essential
+YFL068W,YFL068W,Non essential
+YFR001W,LOC1,Non essential
+YFR002W,NIC96,Non essential
+YFR006W,YFR006W,Non essential
+YFR007W,YFH7,Non essential
+YFR008W,FAR7,Non essential
+YFR009W,GCN20,Non essential
+YFR009W-A,YFR009W-A,Non essential
+YFR010W,UBP6,Non essential
+YFR010W-A,YFR010W-A,Non essential
+YFR011C,AIM13,Non essential
+YFR012W,DCV1,Non essential
+YFR012W-A,YFR012W-A,Non essential
+YFR013W,IOC3,Non essential
+YFR014C,CMK1,Non essential
+YFR015C,GSY1,Non essential
+YFR016C,YFR016C,Non essential
+YFR017C,IGD1,Non essential
+YFR018C,YFR018C,Non essential
+YFR019W,FAB1,Non essential
+YFR020W,YFR020W,Non essential
+YFR021W,ATG18,Non essential
+YFR022W,ROG3,Non essential
+YFR023W,PES4,Non essential
+YFR024C-A,LSB3,Non essential
+YFR025C,HIS2,Non essential
+YFR026C,ULI1,Non essential
+YFR030W,MET10,Non essential
+YFR031C-A,RPL2A,Non essential
+YFR032C,RRT5,Non essential
+YFR032C-A,RPL29,Non essential
+YFR032C-B,YFR032C-B,Non essential
+YFR033C,QCR6,Non essential
+YFR034C,PHO4,Non essential
+YFR034W-A,YFR034W-A,Non essential
+YFR035C,YFR035C,Non essential
+YFR036W,CDC26,Non essential
+YFR036W-A,YFR036W-A,Non essential
+YFR038W,IRC5,Non essential
+YFR039C,YFR039C,Non essential
+YFR040W,SAP155,Non essential
+YFR041C,ERJ5,Non essential
+YFR043C,IRC6,Non essential
+YFR044C,DUG1,Non essential
+YFR045W,YFR045W,Non essential
+YFR046C,CNN1,Non essential
+YFR047C,BNA6,Non essential
+YFR048W,RMD8,Non essential
+YFR049W,YMR31,Non essential
+YFR052C-A,YFR052C-A,Non essential
+YFR053C,HXK1,Non essential
+YFR054C,YFR054C,Non essential
+YFR055W,IRC7,Non essential
+YFR056C,YFR056C,Non essential
+YFR057W,YFR057W,Non essential
+YGL002W,ERP6,Non essential
+YGL003C,CDH1,Non essential
+YGL004C,RPN14,Non essential
+YGL005C,COG7,Non essential
+YGL006W,PMC1,Non essential
+YGL006W-A,YGL006W-A,Non essential
+YGL007C-A,YGL007C-A,Non essential
+YGL007W,BRP1,Non essential
+YGL009C,LEU1,Non essential
+YGL010W,YGL010W,Non essential
+YGL012W,ERG4,Non essential
+YGL013C,PDR1,Non essential
+YGL014C-A,YGL014C-A,Non essential
+YGL014W,PUF4,Non essential
+YGL015C,YGL015C,Non essential
+YGL016W,KAP122,Non essential
+YGL017W,ATE1,Non essential
+YGL019W,CKB1,Non essential
+YGL020C,GET1,Non essential
+YGL021W,ALK1,Non essential
+YGL023C,PIB2,Non essential
+YGL024W,YGL024W,Non essential
+YGL025C,PGD1,Non essential
+YGL026C,TRP5,Non essential
+YGL027C,CWH41,Non essential
+YGL028C,SCW11,Non essential
+YGL029W,CGR1,Non essential
+YGL031C,RPL24A,Non essential
+YGL032C,AGA2,Non essential
+YGL033W,HOP2,Non essential
+YGL034C,YGL034C,Non essential
+YGL035C,MIG1,Non essential
+YGL036W,YGL036W,Non essential
+YGL037C,PNC1,Non essential
+YGL038C,OCH1,Non essential
+YGL039W,YGL039W,Non essential
+YGL041C,YGL041C,Non essential
+YGL041C-B,YGL041C-B,Non essential
+YGL041W-A,YGL041W-A,Non essential
+YGL042C,YGL042C,Non essential
+YGL043W,DST1,Non essential
+YGL045W,RIM8,Non essential
+YGL049C,TIF4632,Non essential
+YGL050W,TYW3,Non essential
+YGL051W,MST27,Non essential
+YGL052W,YGL052W,Non essential
+YGL053W,PRM8,Non essential
+YGL054C,ERV14,Non essential
+YGL056C,SDS23,Non essential
+YGL057C,GEP7,Non essential
+YGL058W,RAD6,Non essential
+YGL059W,PKP2,Non essential
+YGL060W,YBP2,Non essential
+YGL062W,PYC1,Non essential
+YGL063C-A,YGL063C-A,Non essential
+YGL063W,PUS2,Non essential
+YGL064C,MRH4,Non essential
+YGL066W,SGF73,Non essential
+YGL067W,NPY1,Non essential
+YGL070C,RPB9,Non essential
+YGL071W,AFT1,Non essential
+YGL072C,YGL072C,Non essential
+YGL076C,RPL7A,Non essential
+YGL077C,HNM1,Non essential
+YGL078C,DBP3,Non essential
+YGL079W,KXD1,Non essential
+YGL080W,FMP37,Non essential
+YGL081W,YGL081W,Non essential
+YGL082W,YGL082W,Non essential
+YGL083W,SCY1,Non essential
+YGL084C,GUP1,Non essential
+YGL085W,LCL3,Non essential
+YGL086W,MAD1,Non essential
+YGL087C,MMS2,Non essential
+YGL088W,YGL088W,Non essential
+YGL089C,MF(ALPHA)2,Non essential
+YGL090W,LIF1,Non essential
+YGL094C,PAN2,Non essential
+YGL095C,VPS45,Non essential
+YGL096W,TOS8,Non essential
+YGL100W,SEH1,Non essential
+YGL101W,YGL101W,Non essential
+YGL104C,VPS73,Non essential
+YGL105W,ARC1,Non essential
+YGL106W,MLC1,Non essential
+YGL107C,RMD9,Non essential
+YGL108C,YGL108C,Non essential
+YGL109W,YGL109W,Non essential
+YGL110C,CUE3,Non essential
+YGL114W,YGL114W,Non essential
+YGL115W,SNF4,Non essential
+YGL117W,YGL117W,Non essential
+YGL118C,YGL118C,Non essential
+YGL119W,COQ8,Non essential
+YGL121C,GPG1,Non essential
+YGL123C-A,YGL123C-A,Non essential
+YGL124C,MON1,Non essential
+YGL125W,MET13,Non essential
+YGL126W,SCS3,Non essential
+YGL127C,SOH1,Non essential
+YGL129C,RSM23,Non essential
+YGL131C,SNT2,Non essential
+YGL132W,YGL132W,Non essential
+YGL133W,ITC1,Non essential
+YGL134W,PCL10,Non essential
+YGL135W,RPL1B,Non essential
+YGL136C,MRM2,Non essential
+YGL138C,YGL138C,Non essential
+YGL139W,FLC3,Non essential
+YGL140C,YGL140C,Non essential
+YGL141W,HUL5,Non essential
+YGL143C,MRF1,Non essential
+YGL144C,ROG1,Non essential
+YGL146C,RRT6,Non essential
+YGL147C,RPL9A,Non essential
+YGL148W,ARO2,Non essential
+YGL149W,YGL149W,Non essential
+YGL151W,NUT1,Non essential
+YGL152C,YGL152C,Non essential
+YGL153W,PEX14,Non essential
+YGL154C,LYS5,Non essential
+YGL156W,AMS1,Non essential
+YGL157W,ARI1,Non essential
+YGL158W,RCK1,Non essential
+YGL159W,YGL159W,Non essential
+YGL160W,AIM14,Non essential
+YGL161C,YIP5,Non essential
+YGL162W,SUT1,Non essential
+YGL163C,RAD54,Non essential
+YGL164C,YRB30,Non essential
+YGL165C,YGL165C,Non essential
+YGL166W,CUP2,Non essential
+YGL167C,PMR1,Non essential
+YGL168W,HUR1,Non essential
+YGL170C,SPO74,Non essential
+YGL173C,XRN1,Non essential
+YGL174W,BUD13,Non essential
+YGL175C,SAE2,Non essential
+YGL176C,YGL176C,Non essential
+YGL177W,YGL177W,Non essential
+YGL178W,MPT5,Non essential
+YGL179C,TOS3,Non essential
+YGL180W,ATG1,Non essential
+YGL181W,GTS1,Non essential
+YGL182C,YGL182C,Non essential
+YGL183C,MND1,Non essential
+YGL184C,STR3,Non essential
+YGL185C,YGL185C,Non essential
+YGL186C,TPN1,Non essential
+YGL187C,COX4,Non essential
+YGL188C,YGL188C,Non essential
+YGL188C-A,YGL188C-A,Non essential
+YGL189C,RPS26A,Non essential
+YGL190C,CDC55,Non essential
+YGL191W,COX13,Non essential
+YGL192W,IME4,Non essential
+YGL193C,YGL193C,Non essential
+YGL194C,HOS2,Non essential
+YGL194C-A,YGL194C-A,Non essential
+YGL195W,GCN1,Non essential
+YGL196W,DSD1,Non essential
+YGL197W,MDS3,Non essential
+YGL198W,YIP4,Non essential
+YGL199C,YGL199C,Non essential
+YGL200C,EMP24,Non essential
+YGL202W,ARO8,Non essential
+YGL203C,KEX1,Non essential
+YGL204C,YGL204C,Non essential
+YGL205W,POX1,Non essential
+YGL206C,CHC1,Non essential
+YGL208W,SIP2,Non essential
+YGL209W,MIG2,Non essential
+YGL210W,YPT32,Non essential
+YGL211W,NCS6,Non essential
+YGL212W,VAM7,Non essential
+YGL213C,SKI8,Non essential
+YGL214W,YGL214W,Non essential
+YGL215W,CLG1,Non essential
+YGL216W,KIP3,Non essential
+YGL217C,YGL217C,Non essential
+YGL218W,YGL218W,Non essential
+YGL219C,MDM34,Non essential
+YGL220W,FRA2,Non essential
+YGL221C,NIF3,Non essential
+YGL222C,EDC1,Non essential
+YGL223C,COG1,Non essential
+YGL224C,SDT1,Non essential
+YGL226C-A,OST5,Non essential
+YGL226W,MTC3,Non essential
+YGL227W,VID30,Non essential
+YGL228W,SHE10,Non essential
+YGL229C,SAP4,Non essential
+YGL230C,YGL230C,Non essential
+YGL231C,EMC4,Non essential
+YGL232W,TAN1,Non essential
+YGL234W,"ADE5,7",Non essential
+YGL235W,YGL235W,Non essential
+YGL236C,MTO1,Non essential
+YGL237C,HAP2,Non essential
+YGL240W,DOC1,Non essential
+YGL241W,KAP114,Non essential
+YGL242C,YGL242C,Non essential
+YGL243W,TAD1,Non essential
+YGL244W,RTF1,Non essential
+YGL246C,RAI1,Non essential
+YGL248W,PDE1,Non essential
+YGL249W,ZIP2,Non essential
+YGL250W,RMR1,Non essential
+YGL251C,HFM1,Non essential
+YGL252C,RTG2,Non essential
+YGL253W,HXK2,Non essential
+YGL254W,FZF1,Non essential
+YGL255W,ZRT1,Non essential
+YGL256W,ADH4,Non essential
+YGL257C,MNT2,Non essential
+YGL258W,VEL1,Non essential
+YGL258W-A,YGL258W-A,Non essential
+YGL259W,YPS5,Non essential
+YGL260W,YGL260W,Non essential
+YGL261C,PAU11,Non essential
+YGL262W,YGL262W,Non essential
+YGL263W,COS12,Non essential
+YGR001C,YGR001C,Non essential
+YGR003W,CUL3,Non essential
+YGR004W,PEX31,Non essential
+YGR006W,PRP18,Non essential
+YGR007W,ECT1,Non essential
+YGR008C,STF2,Non essential
+YGR010W,NMA2,Non essential
+YGR011W,YGR011W,Non essential
+YGR012W,YGR012W,Non essential
+YGR014W,MSB2,Non essential
+YGR015C,YGR015C,Non essential
+YGR016W,YGR016W,Non essential
+YGR017W,YGR017W,Non essential
+YGR018C,YGR018C,Non essential
+YGR019W,UGA1,Non essential
+YGR020C,VMA7,Non essential
+YGR021W,YGR021W,Non essential
+YGR022C,YGR022C,Non essential
+YGR023W,MTL1,Non essential
+YGR025W,YGR025W,Non essential
+YGR026W,YGR026W,Non essential
+YGR027C,RPS25A,Non essential
+YGR027W-A,YGR027W-A,Non essential
+YGR027W-B,YGR027W-B,Non essential
+YGR028W,MSP1,Non essential
+YGR031C-A,NAG1,Non essential
+YGR031W,IMO32,Non essential
+YGR032W,GSC2,Non essential
+YGR033C,TIM21,Non essential
+YGR034W,RPL26B,Non essential
+YGR035C,YGR035C,Non essential
+YGR035W-A,YGR035W-A,Non essential
+YGR036C,CAX4,Non essential
+YGR037C,ACB1,Non essential
+YGR038C-A,YGR038C-A,Non essential
+YGR038C-B,YGR038C-B,Non essential
+YGR038W,ORM1,Non essential
+YGR039W,YGR039W,Non essential
+YGR040W,KSS1,Non essential
+YGR041W,BUD9,Non essential
+YGR042W,YGR042W,Non essential
+YGR043C,NQM1,Non essential
+YGR044C,RME1,Non essential
+YGR045C,YGR045C,Non essential
+YGR049W,SCM4,Non essential
+YGR050C,YGR050C,Non essential
+YGR051C,YGR051C,Non essential
+YGR052W,FMP48,Non essential
+YGR053C,YGR053C,Non essential
+YGR054W,YGR054W,Non essential
+YGR055W,MUP1,Non essential
+YGR056W,RSC1,Non essential
+YGR057C,LST7,Non essential
+YGR058W,PEF1,Non essential
+YGR059W,SPR3,Non essential
+YGR061C,ADE6,Non essential
+YGR062C,COX18,Non essential
+YGR063C,SPT4,Non essential
+YGR064W,YGR064W,Non essential
+YGR066C,YGR066C,Non essential
+YGR067C,YGR067C,Non essential
+YGR068C,ART5,Non essential
+YGR068W-A,YGR068W-A,Non essential
+YGR069W,YGR069W,Non essential
+YGR070W,ROM1,Non essential
+YGR071C,ENV11,Non essential
+YGR072W,UPF3,Non essential
+YGR076C,MRPL25,Non essential
+YGR077C,PEX8,Non essential
+YGR078C,PAC10,Non essential
+YGR079W,YGR079W,Non essential
+YGR080W,TWF1,Non essential
+YGR081C,SLX9,Non essential
+YGR084C,MRP13,Non essential
+YGR085C,RPL11B,Non essential
+YGR086C,PIL1,Non essential
+YGR087C,PDC6,Non essential
+YGR088W,CTT1,Non essential
+YGR089W,NNF2,Non essential
+YGR092W,DBF2,Non essential
+YGR093W,YGR093W,Non essential
+YGR096W,TPC1,Non essential
+YGR097W,ASK10,Non essential
+YGR100W,MDR1,Non essential
+YGR101W,PCP1,Non essential
+YGR102C,GTF1,Non essential
+YGR104C,SRB5,Non essential
+YGR105W,VMA21,Non essential
+YGR106C,VOA1,Non essential
+YGR107W,YGR107W,Non essential
+YGR108W,CLB1,Non essential
+YGR109C,CLB6,Non essential
+YGR109W-A,YGR109W-A,Non essential
+YGR109W-B,YGR109W-B,Non essential
+YGR110W,CLD1,Non essential
+YGR111W,YGR111W,Non essential
+YGR112W,SHY1,Non essential
+YGR117C,YGR117C,Non essential
+YGR118W,RPS23A,Non essential
+YGR121C,MEP1,Non essential
+YGR121W-A,YGR121W-A,Non essential
+YGR122C-A,YGR122C-A,Non essential
+YGR122W,YGR122W,Non essential
+YGR123C,PPT1,Non essential
+YGR124W,ASN2,Non essential
+YGR125W,YGR125W,Non essential
+YGR126W,YGR126W,Non essential
+YGR127W,YGR127W,Non essential
+YGR129W,SYF2,Non essential
+YGR130C,YGR130C,Non essential
+YGR131W,FHN1,Non essential
+YGR132C,PHB1,Non essential
+YGR133W,PEX4,Non essential
+YGR134W,CAF130,Non essential
+YGR135W,PRE9,Non essential
+YGR136W,LSB1,Non essential
+YGR137W,YGR137W,Non essential
+YGR138C,TPO2,Non essential
+YGR139W,YGR139W,Non essential
+YGR141W,VPS62,Non essential
+YGR142W,BTN2,Non essential
+YGR143W,SKN1,Non essential
+YGR144W,THI4,Non essential
+YGR146C,ECL1,Non essential
+YGR146C-A,YGR146C-A,Non essential
+YGR148C,RPL24B,Non essential
+YGR149W,YGR149W,Non essential
+YGR150C,CCM1,Non essential
+YGR151C,YGR151C,Non essential
+YGR152C,RSR1,Non essential
+YGR153W,YGR153W,Non essential
+YGR154C,GTO1,Non essential
+YGR155W,CYS4,Non essential
+YGR157W,CHO2,Non essential
+YGR159C,NSR1,Non essential
+YGR160W,YGR160W,Non essential
+YGR161C,RTS3,Non essential
+YGR161C-C,YGR161C-C,Non essential
+YGR161C-D,YGR161C-D,Non essential
+YGR161W-A,YGR161W-A,Non essential
+YGR161W-B,YGR161W-B,Non essential
+YGR161W-C,YGR161W-C,Non essential
+YGR162W,TIF4631,Non essential
+YGR163W,GTR2,Non essential
+YGR164W,YGR164W,Non essential
+YGR165W,MRPS35,Non essential
+YGR166W,TRS65,Non essential
+YGR167W,CLC1,Non essential
+YGR168C,YGR168C,Non essential
+YGR169C,PUS6,Non essential
+YGR169C-A,YGR169C-A,Non essential
+YGR170W,PSD2,Non essential
+YGR171C,MSM1,Non essential
+YGR173W,RBG2,Non essential
+YGR174C,CBP4,Non essential
+YGR174W-A,YGR174W-A,Non essential
+YGR176W,YGR176W,Non essential
+YGR177C,ATF2,Non essential
+YGR178C,PBP1,Non essential
+YGR180C,RNR4,Non essential
+YGR181W,TIM13,Non essential
+YGR182C,YGR182C,Non essential
+YGR183C,QCR9,Non essential
+YGR184C,UBR1,Non essential
+YGR187C,HGH1,Non essential
+YGR188C,BUB1,Non essential
+YGR189C,CRH1,Non essential
+YGR192C,TDH3,Non essential
+YGR193C,PDX1,Non essential
+YGR194C,XKS1,Non essential
+YGR196C,FYV8,Non essential
+YGR197C,SNG1,Non essential
+YGR199W,PMT6,Non essential
+YGR200C,ELP2,Non essential
+YGR201C,YGR201C,Non essential
+YGR202C,PCT1,Non essential
+YGR203W,YCH1,Non essential
+YGR204C-A,YGR204C-A,Non essential
+YGR204W,ADE3,Non essential
+YGR205W,TDA10,Non essential
+YGR206W,MVB12,Non essential
+YGR207C,CIR1,Non essential
+YGR208W,SER2,Non essential
+YGR209C,TRX2,Non essential
+YGR210C,YGR210C,Non essential
+YGR212W,SLI1,Non essential
+YGR213C,RTA1,Non essential
+YGR214W,RPS0A,Non essential
+YGR215W,RSM27,Non essential
+YGR217W,CCH1,Non essential
+YGR219W,YGR219W,Non essential
+YGR220C,MRPL9,Non essential
+YGR221C,TOS2,Non essential
+YGR222W,PET54,Non essential
+YGR223C,HSV2,Non essential
+YGR224W,AZR1,Non essential
+YGR225W,AMA1,Non essential
+YGR226C,YGR226C,Non essential
+YGR227W,DIE2,Non essential
+YGR228W,YGR228W,Non essential
+YGR229C,SMI1,Non essential
+YGR230W,BNS1,Non essential
+YGR231C,PHB2,Non essential
+YGR232W,NAS6,Non essential
+YGR233C,PHO81,Non essential
+YGR234W,YHB1,Non essential
+YGR235C,MOS2,Non essential
+YGR236C,SPG1,Non essential
+YGR237C,YGR237C,Non essential
+YGR238C,KEL2,Non essential
+YGR239C,PEX21,Non essential
+YGR240C,PFK1,Non essential
+YGR240C-A,YGR240C-A,Non essential
+YGR241C,YAP1802,Non essential
+YGR242W,YGR242W,Non essential
+YGR243W,FMP43,Non essential
+YGR244C,LSC2,Non essential
+YGR247W,CPD1,Non essential
+YGR248W,SOL4,Non essential
+YGR249W,MGA1,Non essential
+YGR250C,YGR250C,Non essential
+YGR252W,GCN5,Non essential
+YGR254W,ENO1,Non essential
+YGR255C,COQ6,Non essential
+YGR256W,GND2,Non essential
+YGR257C,MTM1,Non essential
+YGR258C,RAD2,Non essential
+YGR259C,YGR259C,Non essential
+YGR260W,TNA1,Non essential
+YGR261C,APL6,Non essential
+YGR262C,BUD32,Non essential
+YGR263C,SAY1,Non essential
+YGR266W,YGR266W,Non essential
+YGR268C,HUA1,Non essential
+YGR269W,YGR269W,Non essential
+YGR270C-A,YGR270C-A,Non essential
+YGR270W,YTA7,Non essential
+YGR271C-A,EFG1,Non essential
+YGR271W,SLH1,Non essential
+YGR273C,YGR273C,Non essential
+YGR275W,RTT102,Non essential
+YGR276C,RNH70,Non essential
+YGR279C,SCW4,Non essential
+YGR281W,YOR1,Non essential
+YGR282C,BGL2,Non essential
+YGR283C,YGR283C,Non essential
+YGR284C,ERV29,Non essential
+YGR285C,ZUO1,Non essential
+YGR286C,BIO2,Non essential
+YGR287C,IMA1,Non essential
+YGR288W,MAL13,Non essential
+YGR289C,MAL11,Non essential
+YGR290W,YGR290W,Non essential
+YGR291C,YGR291C,Non essential
+YGR292W,MAL12,Non essential
+YGR293C,YGR293C,Non essential
+YGR294W,PAU12,Non essential
+YGR295C,COS6,Non essential
+YGR296C-A,YGR296C-A,Non essential
+YGR296C-B,YGR296C-B,Non essential
+YGR296W,YRF1-3,Non essential
+YHL001W,RPL14B,Non essential
+YHL002C-A,YHL002C-A,Non essential
+YHL002W,HSE1,Non essential
+YHL003C,LAG1,Non essential
+YHL004W,MRP4,Non essential
+YHL005C,YHL005C,Non essential
+YHL006C,SHU1,Non essential
+YHL006W-A,YHL006W-A,Non essential
+YHL007C,STE20,Non essential
+YHL008C,YHL008C,Non essential
+YHL009C,YAP3,Non essential
+YHL009W-A,YHL009W-A,Non essential
+YHL009W-B,YHL009W-B,Non essential
+YHL010C,ETP1,Non essential
+YHL011C,PRS3,Non essential
+YHL012W,YHL012W,Non essential
+YHL013C,OTU2,Non essential
+YHL014C,YLF2,Non essential
+YHL015W-A,YHL015W-A,Non essential
+YHL016C,DUR3,Non essential
+YHL017W,YHL017W,Non essential
+YHL018W,YHL018W,Non essential
+YHL019C,APM2,Non essential
+YHL019W-A,YHL019W-A,Non essential
+YHL020C,OPI1,Non essential
+YHL021C,AIM17,Non essential
+YHL022C,SPO11,Non essential
+YHL023C,NPR3,Non essential
+YHL024W,RIM4,Non essential
+YHL025W,SNF6,Non essential
+YHL026C,YHL026C,Non essential
+YHL027W,RIM101,Non essential
+YHL028W,WSC4,Non essential
+YHL029C,OCA5,Non essential
+YHL030W,ECM29,Non essential
+YHL030W-A,YHL030W-A,Non essential
+YHL031C,GOS1,Non essential
+YHL032C,GUT1,Non essential
+YHL033C,RPL8A,Non essential
+YHL034C,SBP1,Non essential
+YHL034W-A,YHL034W-A,Non essential
+YHL035C,VMR1,Non essential
+YHL036W,MUP3,Non essential
+YHL037C,YHL037C,Non essential
+YHL038C,CBP2,Non essential
+YHL039W,EFM1,Non essential
+YHL040C,ARN1,Non essential
+YHL041W,YHL041W,Non essential
+YHL042W,YHL042W,Non essential
+YHL043W,ECM34,Non essential
+YHL044W,YHL044W,Non essential
+YHL045W,YHL045W,Non essential
+YHL046C,PAU13,Non essential
+YHL046W-A,YHL046W-A,Non essential
+YHL047C,ARN2,Non essential
+YHL048C-A,YHL048C-A,Non essential
+YHL048W,COS8,Non essential
+YHL049C,YHL049C,Non essential
+YHL050C,YHL050C,Non essential
+YHL050W-A,YHL050W-A,Non essential
+YHR001W,OSH7,Non essential
+YHR001W-A,QCR10,Non essential
+YHR002W,LEU5,Non essential
+YHR003C,YHR003C,Non essential
+YHR004C,NEM1,Non essential
+YHR005C,GPA1,Non essential
+YHR006W,STP2,Non essential
+YHR007C,ERG11,Non essential
+YHR007C-A,YHR007C-A,Non essential
+YHR008C,SOD2,Non essential
+YHR009C,TDA3,Non essential
+YHR010W,RPL27A,Non essential
+YHR011W,DIA4,Non essential
+YHR012W,VPS29,Non essential
+YHR013C,ARD1,Non essential
+YHR014W,SPO13,Non essential
+YHR015W,MIP6,Non essential
+YHR016C,YSC84,Non essential
+YHR017W,YSC83,Non essential
+YHR018C,ARG4,Non essential
+YHR021C,RPS27B,Non essential
+YHR021W-A,ECM12,Non essential
+YHR022C,YHR022C,Non essential
+YHR022C-A,YHR022C-A,Non essential
+YHR025W,THR1,Non essential
+YHR026W,VMA16,Non essential
+YHR027C,RPN1,Non essential
+YHR028C,DAP2,Non essential
+YHR028W-A,YHR028W-A,Non essential
+YHR029C,YHI9,Non essential
+YHR030C,SLT2,Non essential
+YHR031C,RRM3,Non essential
+YHR032C-A,YHR032C-A,Non essential
+YHR032W,ERC1,Non essential
+YHR032W-A,YHR032W-A,Non essential
+YHR033W,YHR033W,Non essential
+YHR034C,PIH1,Non essential
+YHR035W,YHR035W,Non essential
+YHR037W,PUT2,Non essential
+YHR038W,RRF1,Non essential
+YHR039C,MSC7,Non essential
+YHR039C-A,VMA10,Non essential
+YHR041C,SRB2,Non essential
+YHR043C,DOG2,Non essential
+YHR044C,DOG1,Non essential
+YHR045W,YHR045W,Non essential
+YHR046C,INM1,Non essential
+YHR047C,AAP1,Non essential
+YHR048W,YHK8,Non essential
+YHR049C-A,YHR049C-A,Non essential
+YHR049W,FSH1,Non essential
+YHR050W,SMF2,Non essential
+YHR050W-A,YHR050W-A,Non essential
+YHR051W,COX6,Non essential
+YHR052W,CIC1,Non essential
+YHR052W-A,YHR052W-A,Non essential
+YHR053C,CUP1-1,Non essential
+YHR054C,YHR054C,Non essential
+YHR054W-A,YHR054W-A,Non essential
+YHR055C,CUP1-2,Non essential
+YHR056C,RSC30,Non essential
+YHR056W-A,YHR056W-A,Non essential
+YHR057C,CPR2,Non essential
+YHR059W,FYV4,Non essential
+YHR060W,VMA22,Non essential
+YHR061C,GIC1,Non essential
+YHR063C,PAN5,Non essential
+YHR063W-A,YHR063W-A,Non essential
+YHR064C,SSZ1,Non essential
+YHR066W,SSF1,Non essential
+YHR067W,HTD2,Non essential
+YHR069C-A,YHR069C-A,Non essential
+YHR070C-A,YHR070C-A,Non essential
+YHR071C-A,YHR071C-A,Non essential
+YHR071W,PCL5,Non essential
+YHR072W-A,NOP10,Non essential
+YHR073C-B,YHR073C-B,Non essential
+YHR073W,OSH3,Non essential
+YHR073W-A,YHR073W-A,Non essential
+YHR075C,PPE1,Non essential
+YHR076W,PTC7,Non essential
+YHR077C,NMD2,Non essential
+YHR078W,YHR078W,Non essential
+YHR079C,IRE1,Non essential
+YHR079C-A,SAE3,Non essential
+YHR080C,YHR080C,Non essential
+YHR081W,LRP1,Non essential
+YHR082C,KSP1,Non essential
+YHR086W,NAM8,Non essential
+YHR086W-A,YHR086W-A,Non essential
+YHR087W,RTC3,Non essential
+YHR089C,GAR1,Non essential
+YHR090C,YNG2,Non essential
+YHR091C,MSR1,Non essential
+YHR092C,HXT4,Non essential
+YHR093W,AHT1,Non essential
+YHR094C,HXT1,Non essential
+YHR095W,YHR095W,Non essential
+YHR096C,HXT5,Non essential
+YHR097C,YHR097C,Non essential
+YHR098C,SFB3,Non essential
+YHR099W,TRA1,Non essential
+YHR100C,GEP4,Non essential
+YHR102W,KIC1,Non essential
+YHR103W,SBE22,Non essential
+YHR104W,GRE3,Non essential
+YHR105W,YPT35,Non essential
+YHR106W,TRR2,Non essential
+YHR108W,GGA2,Non essential
+YHR109W,CTM1,Non essential
+YHR110W,ERP5,Non essential
+YHR111W,UBA4,Non essential
+YHR112C,YHR112C,Non essential
+YHR113W,APE4,Non essential
+YHR114W,BZZ1,Non essential
+YHR115C,DMA1,Non essential
+YHR116W,COX23,Non essential
+YHR117W,TOM71,Non essential
+YHR119W,SET1,Non essential
+YHR120W,MSH1,Non essential
+YHR121W,LSM12,Non essential
+YHR123W,EPT1,Non essential
+YHR124W,NDT80,Non essential
+YHR125W,YHR125W,Non essential
+YHR126C,ANS1,Non essential
+YHR127W,YHR127W,Non essential
+YHR129C,ARP1,Non essential
+YHR130C,YHR130C,Non essential
+YHR131C,YHR131C,Non essential
+YHR131W-A,YHR131W-A,Non essential
+YHR132C,ECM14,Non essential
+YHR132W-A,IGO2,Non essential
+YHR133C,NSG1,Non essential
+YHR134W,WSS1,Non essential
+YHR135C,YCK1,Non essential
+YHR136C,SPL2,Non essential
+YHR137C-A,YHR137C-A,Non essential
+YHR137W,ARO9,Non essential
+YHR138C,YHR138C,Non essential
+YHR139C,SPS100,Non essential
+YHR139C-A,YHR139C-A,Non essential
+YHR140W,YHR140W,Non essential
+YHR141C,RPL42B,Non essential
+YHR142W,CHS7,Non essential
+YHR143W,DSE2,Non essential
+YHR144C,DCD1,Non essential
+YHR145C,YHR145C,Non essential
+YHR146W,CRP1,Non essential
+YHR147C,MRPL6,Non essential
+YHR149C,SKG6,Non essential
+YHR150W,PEX28,Non essential
+YHR151C,MTC6,Non essential
+YHR152W,SPO12,Non essential
+YHR153C,SPO16,Non essential
+YHR154W,RTT107,Non essential
+YHR155W,YSP1,Non essential
+YHR156C,LIN1,Non essential
+YHR157W,REC104,Non essential
+YHR158C,KEL1,Non essential
+YHR159W,TDA11,Non essential
+YHR160C,PEX18,Non essential
+YHR161C,YAP1801,Non essential
+YHR162W,YHR162W,Non essential
+YHR163W,SOL3,Non essential
+YHR165C,PRP8,Non essential
+YHR165W-A,YHR165W-A,Non essential
+YHR167W,THP2,Non essential
+YHR168W,MTG2,Non essential
+YHR169W,DBP8,Non essential
+YHR171W,ATG7,Non essential
+YHR173C,YHR173C,Non essential
+YHR174W,ENO2,Non essential
+YHR175W,CTR2,Non essential
+YHR175W-A,YHR175W-A,Non essential
+YHR176W,FMO1,Non essential
+YHR177W,YHR177W,Non essential
+YHR178W,STB5,Non essential
+YHR179W,OYE2,Non essential
+YHR180C-B,YHR180C-B,Non essential
+YHR180W,YHR180W,Non essential
+YHR180W-A,YHR180W-A,Non essential
+YHR181W,SVP26,Non essential
+YHR182C-A,YHR182C-A,Non essential
+YHR182W,YHR182W,Non essential
+YHR183W,GND1,Non essential
+YHR184W,SSP1,Non essential
+YHR185C,PFS1,Non essential
+YHR187W,IKI1,Non essential
+YHR189W,PTH1,Non essential
+YHR191C,CTF8,Non essential
+YHR192W,YHR192W,Non essential
+YHR193C,EGD2,Non essential
+YHR193C-A,YHR193C-A,Non essential
+YHR194W,MDM31,Non essential
+YHR195W,NVJ1,Non essential
+YHR198C,AIM18,Non essential
+YHR199C,AIM46,Non essential
+YHR200W,RPN10,Non essential
+YHR201C,PPX1,Non essential
+YHR202W,YHR202W,Non essential
+YHR203C,RPS4B,Non essential
+YHR204W,MNL1,Non essential
+YHR205W,SCH9,Non essential
+YHR206W,SKN7,Non essential
+YHR207C,SET5,Non essential
+YHR208W,BAT1,Non essential
+YHR209W,CRG1,Non essential
+YHR210C,YHR210C,Non essential
+YHR211W,FLO5,Non essential
+YHR212C,YHR212C,Non essential
+YHR212W-A,YHR212W-A,Non essential
+YHR213W,YHR213W,Non essential
+YHR213W-A,YHR213W-A,Non essential
+YHR213W-B,YHR213W-B,Non essential
+YHR214C-B,YHR214C-B,Non essential
+YHR214C-C,YHR214C-C,Non essential
+YHR214C-D,YHR214C-D,Non essential
+YHR214C-E,YHR214C-E,Non essential
+YHR214W,YHR214W,Non essential
+YHR214W-A,YHR214W-A,Non essential
+YHR215W,PHO12,Non essential
+YHR216W,IMD2,Non essential
+YHR217C,YHR217C,Non essential
+YHR218W,YHR218W,Non essential
+YHR218W-A,YHR218W-A,Non essential
+YHR219C-A,YHR219C-A,Non essential
+YHR219W,YHR219W,Non essential
+YIL001W,YIL001W,Non essential
+YIL002C,INP51,Non essential
+YIL002W-A,YIL002W-A,Non essential
+YIL005W,EPS1,Non essential
+YIL006W,YIA6,Non essential
+YIL007C,NAS2,Non essential
+YIL008W,URM1,Non essential
+YIL009C-A,EST3,Non essential
+YIL009W,FAA3,Non essential
+YIL010W,DOT5,Non essential
+YIL011W,TIR3,Non essential
+YIL012W,YIL012W,Non essential
+YIL013C,PDR11,Non essential
+YIL014C-A,YIL014C-A,Non essential
+YIL014W,MNT3,Non essential
+YIL015W,BAR1,Non essential
+YIL016W,SNL1,Non essential
+YIL017C,VID28,Non essential
+YIL018W,RPL2B,Non essential
+YIL020C,HIS6,Non essential
+YIL020C-A,YIL020C-A,Non essential
+YIL021C-A,YIL021C-A,Non essential
+YIL023C,YKE4,Non essential
+YIL024C,YIL024C,Non essential
+YIL025C,YIL025C,Non essential
+YIL027C,KRE27,Non essential
+YIL028W,YIL028W,Non essential
+YIL029C,YIL029C,Non essential
+YIL029W-A,YIL029W-A,Non essential
+YIL030C,SSM4,Non essential
+YIL030W-A,YIL030W-A,Non essential
+YIL032C,YIL032C,Non essential
+YIL034C,CAP2,Non essential
+YIL035C,CKA1,Non essential
+YIL036W,CST6,Non essential
+YIL037C,PRM2,Non essential
+YIL038C,NOT3,Non essential
+YIL039W,TED1,Non essential
+YIL040W,APQ12,Non essential
+YIL041W,GVP36,Non essential
+YIL042C,PKP1,Non essential
+YIL043C,CBR1,Non essential
+YIL044C,AGE2,Non essential
+YIL045W,PIG2,Non essential
+YIL046W-A,YIL046W-A,Non essential
+YIL047C,SYG1,Non essential
+YIL047C-A,YIL047C-A,Non essential
+YIL049W,DFG10,Non essential
+YIL050W,PCL7,Non essential
+YIL052C,RPL34B,Non essential
+YIL053W,RHR2,Non essential
+YIL054W,YIL054W,Non essential
+YIL055C,YIL055C,Non essential
+YIL056W,VHR1,Non essential
+YIL057C,RGI2,Non essential
+YIL058W,YIL058W,Non essential
+YIL059C,YIL059C,Non essential
+YIL060W,YIL060W,Non essential
+YIL064W,SEE1,Non essential
+YIL065C,FIS1,Non essential
+YIL066C,RNR3,Non essential
+YIL066W-A,YIL066W-A,Non essential
+YIL067C,YIL067C,Non essential
+YIL068W-A,YIL068W-A,Non essential
+YIL069C,RPS24B,Non essential
+YIL070C,MAM33,Non essential
+YIL071C,PCI8,Non essential
+YIL071W-A,YIL071W-A,Non essential
+YIL072W,HOP1,Non essential
+YIL073C,SPO22,Non essential
+YIL074C,SER33,Non essential
+YIL076W,SEC28,Non essential
+YIL077C,YIL077C,Non essential
+YIL079C,AIR1,Non essential
+YIL082W,YIL082W,Non essential
+YIL082W-A,YIL082W-A,Non essential
+YIL084C,SDS3,Non essential
+YIL085C,KTR7,Non essential
+YIL086C,YIL086C,Non essential
+YIL087C,AIM19,Non essential
+YIL088C,AVT7,Non essential
+YIL089W,YIL089W,Non essential
+YIL090W,ICE2,Non essential
+YIL092W,YIL092W,Non essential
+YIL093C,RSM25,Non essential
+YIL094C,LYS12,Non essential
+YIL095W,PRK1,Non essential
+YIL096C,YIL096C,Non essential
+YIL097W,FYV10,Non essential
+YIL098C,FMC1,Non essential
+YIL099W,SGA1,Non essential
+YIL100C-A,YIL100C-A,Non essential
+YIL100W,YIL100W,Non essential
+YIL101C,XBP1,Non essential
+YIL102C,YIL102C,Non essential
+YIL102C-A,YIL102C-A,Non essential
+YIL103W,DPH1,Non essential
+YIL105C,SLM1,Non essential
+YIL105W-A,YIL105W-A,Non essential
+YIL107C,PFK26,Non essential
+YIL108W,YIL108W,Non essential
+YIL110W,HPM1,Non essential
+YIL111W,COX5B,Non essential
+YIL112W,HOS4,Non essential
+YIL113W,SDP1,Non essential
+YIL114C,POR2,Non essential
+YIL115W-A,YIL115W-A,Non essential
+YIL116W,HIS5,Non essential
+YIL117C,PRM5,Non essential
+YIL119C,RPI1,Non essential
+YIL120W,QDR1,Non essential
+YIL121W,QDR2,Non essential
+YIL122W,POG1,Non essential
+YIL123W,SIM1,Non essential
+YIL124W,AYR1,Non essential
+YIL125W,KGD1,Non essential
+YIL127C,RRT14,Non essential
+YIL128W,MET18,Non essential
+YIL130W,ASG1,Non essential
+YIL131C,FKH1,Non essential
+YIL132C,CSM2,Non essential
+YIL133C,RPL16A,Non essential
+YIL134C-A,YIL134C-A,Non essential
+YIL134W,FLX1,Non essential
+YIL135C,VHS2,Non essential
+YIL136W,OM45,Non essential
+YIL137C,TMA108,Non essential
+YIL138C,TPM2,Non essential
+YIL139C,REV7,Non essential
+YIL140W,AXL2,Non essential
+YIL141W,YIL141W,Non essential
+YIL142C-A,YIL142C-A,Non essential
+YIL145C,PAN6,Non essential
+YIL146C,ATG32,Non essential
+YIL148W,RPL40A,Non essential
+YIL149C,MLP2,Non essential
+YIL151C,YIL151C,Non essential
+YIL152W,YIL152W,Non essential
+YIL153W,RRD1,Non essential
+YIL154C,IMP2',Non essential
+YIL155C,GUT2,Non essential
+YIL156W,UBP7,Non essential
+YIL156W-A,YIL156W-A,Non essential
+YIL156W-B,YIL156W-B,Non essential
+YIL157C,COA1,Non essential
+YIL158W,AIM20,Non essential
+YIL159W,BNR1,Non essential
+YIL160C,POT1,Non essential
+YIL161W,YIL161W,Non essential
+YIL162W,SUC2,Non essential
+YIL163C,YIL163C,Non essential
+YIL164C,NIT1,Non essential
+YIL165C,YIL165C,Non essential
+YIL166C,YIL166C,Non essential
+YIL169C,YIL169C,Non essential
+YIL171W,HXT12,Non essential
+YIL171W-A,YIL171W-A,Non essential
+YIL172C,IMA3,Non essential
+YIL173W,VTH1,Non essential
+YIL176C,PAU14,Non essential
+YIL177C,YIL177C,Non essential
+YIL177W-A,YIL177W-A,Non essential
+YIR001C,SGN1,Non essential
+YIR002C,MPH1,Non essential
+YIR003W,AIM21,Non essential
+YIR004W,DJP1,Non essential
+YIR005W,IST3,Non essential
+YIR007W,YIR007W,Non essential
+YIR009W,MSL1,Non essential
+YIR013C,GAT4,Non essential
+YIR014W,YIR014W,Non essential
+YIR016W,YIR016W,Non essential
+YIR017C,MET28,Non essential
+YIR017W-A,YIR017W-A,Non essential
+YIR018C-A,YIR018C-A,Non essential
+YIR018W,YAP5,Non essential
+YIR019C,MUC1,Non essential
+YIR020C,YIR020C,Non essential
+YIR020C-B,YIR020C-B,Non essential
+YIR020W-A,YIR020W-A,Non essential
+YIR021W,MRS1,Non essential
+YIR021W-A,YIR021W-A,Non essential
+YIR023C-A,YIR023C-A,Non essential
+YIR023W,DAL81,Non essential
+YIR024C,YIR024C,Non essential
+YIR025W,MND2,Non essential
+YIR026C,YVH1,Non essential
+YIR027C,DAL1,Non essential
+YIR028W,DAL4,Non essential
+YIR029W,DAL2,Non essential
+YIR030C,DCG1,Non essential
+YIR030W-A,YIR030W-A,Non essential
+YIR031C,DAL7,Non essential
+YIR032C,DAL3,Non essential
+YIR033W,MGA2,Non essential
+YIR034C,LYS1,Non essential
+YIR035C,YIR035C,Non essential
+YIR036C,IRC24,Non essential
+YIR036W-A,YIR036W-A,Non essential
+YIR037W,HYR1,Non essential
+YIR038C,GTT1,Non essential
+YIR039C,YPS6,Non essential
+YIR040C,YIR040C,Non essential
+YIR041W,PAU15,Non essential
+YIR042C,YIR042C,Non essential
+YJL001W,PRE3,Non essential
+YJL003W,COX16,Non essential
+YJL004C,SYS1,Non essential
+YJL006C,CTK2,Non essential
+YJL007C,YJL007C,Non essential
+YJL012C,VTC4,Non essential
+YJL013C,MAD3,Non essential
+YJL020C,BBC1,Non essential
+YJL020W-A,YJL020W-A,Non essential
+YJL022W,YJL022W,Non essential
+YJL023C,PET130,Non essential
+YJL024C,APS3,Non essential
+YJL026C-A,YJL026C-A,Non essential
+YJL027C,YJL027C,Non essential
+YJL028W,YJL028W,Non essential
+YJL029C,VPS53,Non essential
+YJL030W,MAD2,Non essential
+YJL036W,SNX4,Non essential
+YJL037W,IRC18,Non essential
+YJL038C,LOH1,Non essential
+YJL042W,MHP1,Non essential
+YJL043W,YJL043W,Non essential
+YJL044C,GYP6,Non essential
+YJL045W,YJL045W,Non essential
+YJL046W,AIM22,Non essential
+YJL047C,RTT101,Non essential
+YJL047C-A,YJL047C-A,Non essential
+YJL048C,UBX6,Non essential
+YJL049W,YJL049W,Non essential
+YJL051W,IRC8,Non essential
+YJL052C-A,YJL052C-A,Non essential
+YJL052W,TDH1,Non essential
+YJL053W,PEP8,Non essential
+YJL055W,YJL055W,Non essential
+YJL056C,ZAP1,Non essential
+YJL057C,IKS1,Non essential
+YJL058C,BIT61,Non essential
+YJL059W,YHC3,Non essential
+YJL060W,BNA3,Non essential
+YJL062W,LAS21,Non essential
+YJL062W-A,COA3,Non essential
+YJL063C,MRPL8,Non essential
+YJL064W,YJL064W,Non essential
+YJL065C,DLS1,Non essential
+YJL066C,MPM1,Non essential
+YJL067W,YJL067W,Non essential
+YJL068C,YJL068C,Non essential
+YJL070C,YJL070C,Non essential
+YJL071W,ARG2,Non essential
+YJL073W,JEM1,Non essential
+YJL075C,APQ13,Non essential
+YJL077C,ICS3,Non essential
+YJL077W-A,YJL077W-A,Non essential
+YJL077W-B,YJL077W-B,Non essential
+YJL078C,PRY3,Non essential
+YJL079C,PRY1,Non essential
+YJL080C,SCP160,Non essential
+YJL082W,IML2,Non essential
+YJL083W,TAX4,Non essential
+YJL084C,ALY2,Non essential
+YJL088W,ARG3,Non essential
+YJL089W,SIP4,Non essential
+YJL090C,DPB11,Non essential
+YJL092W,SRS2,Non essential
+YJL093C,TOK1,Non essential
+YJL094C,KHA1,Non essential
+YJL095W,BCK1,Non essential
+YJL096W,MRPL49,Non essential
+YJL098W,SAP185,Non essential
+YJL099W,CHS6,Non essential
+YJL100W,LSB6,Non essential
+YJL101C,GSH1,Non essential
+YJL102W,MEF2,Non essential
+YJL103C,GSM1,Non essential
+YJL105W,SET4,Non essential
+YJL106W,IME2,Non essential
+YJL107C,YJL107C,Non essential
+YJL108C,PRM10,Non essential
+YJL110C,GZF3,Non essential
+YJL112W,MDV1,Non essential
+YJL113W,YJL113W,Non essential
+YJL114W,YJL114W,Non essential
+YJL115W,ASF1,Non essential
+YJL116C,NCA3,Non essential
+YJL117W,PHO86,Non essential
+YJL118W,YJL118W,Non essential
+YJL119C,YJL119C,Non essential
+YJL120W,YJL120W,Non essential
+YJL121C,RPE1,Non essential
+YJL122W,ALB1,Non essential
+YJL123C,MTC1,Non essential
+YJL124C,LSM1,Non essential
+YJL126W,NIT2,Non essential
+YJL127C,SPT10,Non essential
+YJL127C-B,YJL127C-B,Non essential
+YJL127W-A,YJL127W-A,Non essential
+YJL128C,PBS2,Non essential
+YJL129C,TRK1,Non essential
+YJL130C,URA2,Non essential
+YJL131C,AIM23,Non essential
+YJL132W,YJL132W,Non essential
+YJL133C-A,YJL133C-A,Non essential
+YJL133W,MRS3,Non essential
+YJL134W,LCB3,Non essential
+YJL135W,YJL135W,Non essential
+YJL136C,RPS21B,Non essential
+YJL136W-A,YJL136W-A,Non essential
+YJL137C,GLG2,Non essential
+YJL138C,TIF2,Non essential
+YJL139C,YUR1,Non essential
+YJL140W,RPB4,Non essential
+YJL141C,YAK1,Non essential
+YJL142C,IRC9,Non essential
+YJL144W,YJL144W,Non essential
+YJL145W,SFH5,Non essential
+YJL146W,IDS2,Non essential
+YJL147C,YJL147C,Non essential
+YJL148W,RPA34,Non essential
+YJL149W,DAS1,Non essential
+YJL150W,YJL150W,Non essential
+YJL151C,SNA3,Non essential
+YJL152W,YJL152W,Non essential
+YJL153C,INO1,Non essential
+YJL154C,VPS35,Non essential
+YJL155C,FBP26,Non essential
+YJL156W-A,YJL156W-A,Non essential
+YJL157C,FAR1,Non essential
+YJL158C,CIS3,Non essential
+YJL159W,HSP150,Non essential
+YJL160C,YJL160C,Non essential
+YJL161W,FMP33,Non essential
+YJL162C,JJJ2,Non essential
+YJL163C,YJL163C,Non essential
+YJL164C,TPK1,Non essential
+YJL165C,HAL5,Non essential
+YJL166W,QCR8,Non essential
+YJL168C,SET2,Non essential
+YJL169W,YJL169W,Non essential
+YJL170C,ASG7,Non essential
+YJL171C,YJL171C,Non essential
+YJL172W,CPS1,Non essential
+YJL175W,YJL175W,Non essential
+YJL176C,SWI3,Non essential
+YJL177W,RPL17B,Non essential
+YJL178C,ATG27,Non essential
+YJL179W,PFD1,Non essential
+YJL180C,ATP12,Non essential
+YJL181W,YJL181W,Non essential
+YJL182C,YJL182C,Non essential
+YJL183W,MNN11,Non essential
+YJL184W,GON7,Non essential
+YJL185C,YJL185C,Non essential
+YJL186W,MNN5,Non essential
+YJL187C,SWE1,Non essential
+YJL188C,BUD19,Non essential
+YJL189W,RPL39,Non essential
+YJL190C,RPS22A,Non essential
+YJL191W,RPS14B,Non essential
+YJL192C,SOP4,Non essential
+YJL193W,YJL193W,Non essential
+YJL196C,ELO1,Non essential
+YJL197C-A,YJL197C-A,Non essential
+YJL197W,UBP12,Non essential
+YJL198W,PHO90,Non essential
+YJL199C,MBB1,Non essential
+YJL200C,ACO2,Non essential
+YJL201W,ECM25,Non essential
+YJL204C,RCY1,Non essential
+YJL205C,NCE101,Non essential
+YJL206C,YJL206C,Non essential
+YJL207C,LAA1,Non essential
+YJL208C,NUC1,Non essential
+YJL209W,CBP1,Non essential
+YJL210W,PEX2,Non essential
+YJL211C,YJL211C,Non essential
+YJL212C,OPT1,Non essential
+YJL213W,YJL213W,Non essential
+YJL214W,HXT8,Non essential
+YJL215C,YJL215C,Non essential
+YJL216C,IMA5,Non essential
+YJL217W,REE1,Non essential
+YJL218W,YJL218W,Non essential
+YJL219W,HXT9,Non essential
+YJL220W,YJL220W,Non essential
+YJL221C,IMA4,Non essential
+YJL222W,VTH2,Non essential
+YJL222W-A,YJL222W-A,Non essential
+YJL222W-B,YJL222W-B,Non essential
+YJL223C,PAU1,Non essential
+YJL225C,YJL225C,Non essential
+YJL225W-A,YJL225W-A,Non essential
+YJR001W,AVT1,Non essential
+YJR003C,YJR003C,Non essential
+YJR004C,SAG1,Non essential
+YJR005C-A,YJR005C-A,Non essential
+YJR005W,APL1,Non essential
+YJR008W,YJR008W,Non essential
+YJR009C,TDH2,Non essential
+YJR010C-A,SPC1,Non essential
+YJR010W,MET3,Non essential
+YJR011C,YJR011C,Non essential
+YJR012C,YJR012C,Non essential
+YJR014W,TMA22,Non essential
+YJR015W,YJR015W,Non essential
+YJR018W,YJR018W,Non essential
+YJR019C,TES1,Non essential
+YJR020W,YJR020W,Non essential
+YJR021C,REC107,Non essential
+YJR024C,MDE1,Non essential
+YJR025C,BNA1,Non essential
+YJR026W,YJR026W,Non essential
+YJR027W,YJR027W,Non essential
+YJR028W,YJR028W,Non essential
+YJR029W,YJR029W,Non essential
+YJR030C,YJR030C,Non essential
+YJR031C,GEA1,Non essential
+YJR032W,CPR7,Non essential
+YJR033C,RAV1,Non essential
+YJR034W,PET191,Non essential
+YJR035W,RAD26,Non essential
+YJR036C,HUL4,Non essential
+YJR037W,YJR037W,Non essential
+YJR038C,YJR038C,Non essential
+YJR039W,YJR039W,Non essential
+YJR040W,GEF1,Non essential
+YJR043C,POL32,Non essential
+YJR044C,VPS55,Non essential
+YJR047C,ANB1,Non essential
+YJR048W,CYC1,Non essential
+YJR049C,UTR1,Non essential
+YJR050W,ISY1,Non essential
+YJR051W,OSM1,Non essential
+YJR052W,RAD7,Non essential
+YJR053W,BFA1,Non essential
+YJR054W,YJR054W,Non essential
+YJR055W,HIT1,Non essential
+YJR056C,YJR056C,Non essential
+YJR058C,APS2,Non essential
+YJR059W,PTK2,Non essential
+YJR060W,CBF1,Non essential
+YJR061W,YJR061W,Non essential
+YJR062C,NTA1,Non essential
+YJR063W,RPA12,Non essential
+YJR066W,TOR1,Non essential
+YJR069C,HAM1,Non essential
+YJR070C,LIA1,Non essential
+YJR071W,YJR071W,Non essential
+YJR073C,OPI3,Non essential
+YJR074W,MOG1,Non essential
+YJR075W,HOC1,Non essential
+YJR077C,MIR1,Non essential
+YJR078W,BNA2,Non essential
+YJR079W,YJR079W,Non essential
+YJR080C,AIM24,Non essential
+YJR082C,EAF6,Non essential
+YJR083C,ACF4,Non essential
+YJR084W,YJR084W,Non essential
+YJR085C,YJR085C,Non essential
+YJR086W,STE18,Non essential
+YJR087W,YJR087W,Non essential
+YJR088C,EMC2,Non essential
+YJR090C,GRR1,Non essential
+YJR091C,JSN1,Non essential
+YJR092W,BUD4,Non essential
+YJR094C,IME1,Non essential
+YJR094W-A,RPL43B,Non essential
+YJR095W,SFC1,Non essential
+YJR096W,YJR096W,Non essential
+YJR097W,JJJ3,Non essential
+YJR098C,YJR098C,Non essential
+YJR099W,YUH1,Non essential
+YJR100C,AIM25,Non essential
+YJR101W,RSM26,Non essential
+YJR102C,VPS25,Non essential
+YJR103W,URA8,Non essential
+YJR104C,SOD1,Non essential
+YJR105W,ADO1,Non essential
+YJR106W,ECM27,Non essential
+YJR107W,YJR107W,Non essential
+YJR108W,ABM1,Non essential
+YJR109C,CPA2,Non essential
+YJR110W,YMR1,Non essential
+YJR111C,YJR111C,Non essential
+YJR112W-A,YJR112W-A,Non essential
+YJR113C,RSM7,Non essential
+YJR114W,YJR114W,Non essential
+YJR115W,YJR115W,Non essential
+YJR116W,TDA4,Non essential
+YJR117W,STE24,Non essential
+YJR118C,ILM1,Non essential
+YJR119C,JHD2,Non essential
+YJR120W,YJR120W,Non essential
+YJR121W,ATP2,Non essential
+YJR122W,IBA57,Non essential
+YJR124C,YJR124C,Non essential
+YJR125C,ENT3,Non essential
+YJR126C,VPS70,Non essential
+YJR127C,RSF2,Non essential
+YJR128W,YJR128W,Non essential
+YJR129C,YJR129C,Non essential
+YJR130C,STR2,Non essential
+YJR131W,MNS1,Non essential
+YJR132W,NMD5,Non essential
+YJR133W,XPT1,Non essential
+YJR134C,SGM1,Non essential
+YJR135C,MCM22,Non essential
+YJR135W-A,TIM8,Non essential
+YJR136C,TTI2,Non essential
+YJR137C,MET5,Non essential
+YJR138W,IML1,Non essential
+YJR139C,HOM6,Non essential
+YJR140C,HIR3,Non essential
+YJR140W-A,YJR140W-A,Non essential
+YJR142W,YJR142W,Non essential
+YJR143C,PMT4,Non essential
+YJR144W,MGM101,Non essential
+YJR145C,RPS4A,Non essential
+YJR146W,YJR146W,Non essential
+YJR147W,HMS2,Non essential
+YJR148W,BAT2,Non essential
+YJR149W,YJR149W,Non essential
+YJR150C,DAN1,Non essential
+YJR151C,DAN4,Non essential
+YJR151W-A,YJR151W-A,Non essential
+YJR152W,DAL5,Non essential
+YJR153W,PGU1,Non essential
+YJR154W,YJR154W,Non essential
+YJR155W,AAD10,Non essential
+YJR156C,THI11,Non essential
+YJR157W,YJR157W,Non essential
+YJR158W,HXT16,Non essential
+YJR159W,SOR1,Non essential
+YJR160C,MPH3,Non essential
+YJR161C,COS5,Non essential
+YJR162C,YJR162C,Non essential
+YKL001C,MET14,Non essential
+YKL002W,DID4,Non essential
+YKL003C,MRP17,Non essential
+YKL005C,BYE1,Non essential
+YKL006W,RPL14A,Non essential
+YKL007W,CAP1,Non essential
+YKL008C,LAC1,Non essential
+YKL009W,MRT4,Non essential
+YKL010C,UFD4,Non essential
+YKL011C,CCE1,Non essential
+YKL015W,PUT3,Non essential
+YKL016C,ATP7,Non essential
+YKL017C,HCS1,Non essential
+YKL018C-A,YKL018C-A,Non essential
+YKL020C,SPT23,Non essential
+YKL023C-A,YKL023C-A,Non essential
+YKL023W,YKL023W,Non essential
+YKL025C,PAN3,Non essential
+YKL026C,GPX1,Non essential
+YKL027W,YKL027W,Non essential
+YKL029C,MAE1,Non essential
+YKL030W,YKL030W,Non essential
+YKL031W,YKL031W,Non essential
+YKL032C,IXR1,Non essential
+YKL033W-A,YKL033W-A,Non essential
+YKL034W,TUL1,Non essential
+YKL037W,AIM26,Non essential
+YKL038W,RGT1,Non essential
+YKL039W,PTM1,Non essential
+YKL040C,NFU1,Non essential
+YKL041W,VPS24,Non essential
+YKL043W,PHD1,Non essential
+YKL044W,YKL044W,Non essential
+YKL046C,DCW1,Non essential
+YKL047W,YKL047W,Non essential
+YKL048C,ELM1,Non essential
+YKL050C,YKL050C,Non essential
+YKL051W,SFK1,Non essential
+YKL053C-A,MDM35,Non essential
+YKL053W,YKL053W,Non essential
+YKL054C,DEF1,Non essential
+YKL055C,OAR1,Non essential
+YKL056C,TMA19,Non essential
+YKL057C,NUP120,Non essential
+YKL061W,BLI1,Non essential
+YKL062W,MSN4,Non essential
+YKL063C,YKL063C,Non essential
+YKL064W,MNR2,Non essential
+YKL065C,YET1,Non essential
+YKL065W-A,YKL065W-A,Non essential
+YKL066W,YKL066W,Non essential
+YKL067W,YNK1,Non essential
+YKL068W,NUP100,Non essential
+YKL068W-A,YKL068W-A,Non essential
+YKL069W,YKL069W,Non essential
+YKL070W,YKL070W,Non essential
+YKL071W,YKL071W,Non essential
+YKL072W,STB6,Non essential
+YKL073W,LHS1,Non essential
+YKL074C,MUD2,Non essential
+YKL075C,YKL075C,Non essential
+YKL076C,PSY1,Non essential
+YKL077W,YKL077W,Non essential
+YKL079W,SMY1,Non essential
+YKL080W,VMA5,Non essential
+YKL081W,TEF4,Non essential
+YKL084W,HOT13,Non essential
+YKL085W,MDH1,Non essential
+YKL086W,SRX1,Non essential
+YKL087C,CYT2,Non essential
+YKL090W,CUE2,Non essential
+YKL091C,YKL091C,Non essential
+YKL092C,BUD2,Non essential
+YKL093W,MBR1,Non essential
+YKL094W,YJU3,Non essential
+YKL096C-B,YKL096C-B,Non essential
+YKL096W,CWP1,Non essential
+YKL096W-A,CWP2,Non essential
+YKL097C,YKL097C,Non essential
+YKL098W,MTC2,Non essential
+YKL100C,YKL100C,Non essential
+YKL100W-A,YKL100W-A,Non essential
+YKL101W,HSL1,Non essential
+YKL102C,YKL102C,Non essential
+YKL103C,LAP4,Non essential
+YKL105C,YKL105C,Non essential
+YKL106C-A,YKL106C-A,Non essential
+YKL106W,AAT1,Non essential
+YKL107W,YKL107W,Non essential
+YKL109W,HAP4,Non essential
+YKL110C,KTI12,Non essential
+YKL113C,RAD27,Non essential
+YKL114C,APN1,Non essential
+YKL115C,YKL115C,Non essential
+YKL116C,PRR1,Non essential
+YKL117W,SBA1,Non essential
+YKL118W,YKL118W,Non essential
+YKL119C,VPH2,Non essential
+YKL120W,OAC1,Non essential
+YKL121W,DGR2,Non essential
+YKL123W,YKL123W,Non essential
+YKL124W,SSH4,Non essential
+YKL126W,YPK1,Non essential
+YKL127W,PGM1,Non essential
+YKL128C,PMU1,Non essential
+YKL129C,MYO3,Non essential
+YKL130C,SHE2,Non essential
+YKL131W,YKL131W,Non essential
+YKL132C,RMA1,Non essential
+YKL133C,YKL133C,Non essential
+YKL134C,01-Oct,Non essential
+YKL135C,APL2,Non essential
+YKL136W,YKL136W,Non essential
+YKL137W,CMC1,Non essential
+YKL138C,MRPL31,Non essential
+YKL138C-A,HSK3,Non essential
+YKL140W,TGL1,Non essential
+YKL142W,MRP8,Non essential
+YKL143W,LTV1,Non essential
+YKL145W-A,YKL145W-A,Non essential
+YKL146W,AVT3,Non essential
+YKL147C,YKL147C,Non essential
+YKL148C,SDH1,Non essential
+YKL149C,DBR1,Non essential
+YKL150W,MCR1,Non essential
+YKL151C,YKL151C,Non essential
+YKL155C,RSM22,Non essential
+YKL156C-A,YKL156C-A,Non essential
+YKL156W,RPS27A,Non essential
+YKL157W,APE2,Non essential
+YKL159C,RCN1,Non essential
+YKL160W,ELF1,Non essential
+YKL161C,KDX1,Non essential
+YKL162C,YKL162C,Non essential
+YKL162C-A,YKL162C-A,Non essential
+YKL163W,PIR3,Non essential
+YKL164C,PIR1,Non essential
+YKL165C-A,YKL165C-A,Non essential
+YKL166C,TPK3,Non essential
+YKL167C,MRP49,Non essential
+YKL168C,KKQ8,Non essential
+YKL169C,YKL169C,Non essential
+YKL170W,MRPL38,Non essential
+YKL171W,NNK1,Non essential
+YKL174C,TPO5,Non essential
+YKL175W,ZRT3,Non essential
+YKL176C,LST4,Non essential
+YKL177W,YKL177W,Non essential
+YKL178C,STE3,Non essential
+YKL179C,COY1,Non essential
+YKL183C-A,YKL183C-A,Non essential
+YKL183W,LOT5,Non essential
+YKL184W,SPE1,Non essential
+YKL185W,ASH1,Non essential
+YKL187C,YKL187C,Non essential
+YKL188C,PXA2,Non essential
+YKL190W,CNB1,Non essential
+YKL191W,DPH2,Non essential
+YKL197C,PEX1,Non essential
+YKL198C,PTK1,Non essential
+YKL201C,MNN4,Non essential
+YKL202W,YKL202W,Non essential
+YKL204W,EAP1,Non essential
+YKL205W,LOS1,Non essential
+YKL206C,ADD66,Non essential
+YKL207W,AIM27,Non essential
+YKL208W,CBT1,Non essential
+YKL211C,TRP3,Non essential
+YKL212W,SAC1,Non essential
+YKL213C,DOA1,Non essential
+YKL214C,YRA2,Non essential
+YKL215C,OXP1,Non essential
+YKL216W,URA1,Non essential
+YKL217W,JEN1,Non essential
+YKL218C,SRY1,Non essential
+YKL219W,COS9,Non essential
+YKL220C,FRE2,Non essential
+YKL221W,MCH2,Non essential
+YKL222C,YKL222C,Non essential
+YKL223W,YKL223W,Non essential
+YKL224C,PAU16,Non essential
+YKL225W,YKL225W,Non essential
+YKR001C,VPS1,Non essential
+YKR003W,OSH6,Non essential
+YKR005C,YKR005C,Non essential
+YKR006C,MRPL13,Non essential
+YKR007W,MEH1,Non essential
+YKR009C,FOX2,Non essential
+YKR010C,TOF2,Non essential
+YKR011C,YKR011C,Non essential
+YKR012C,YKR012C,Non essential
+YKR013W,PRY2,Non essential
+YKR014C,YPT52,Non essential
+YKR015C,YKR015C,Non essential
+YKR016W,FCJ1,Non essential
+YKR017C,YKR017C,Non essential
+YKR018C,YKR018C,Non essential
+YKR019C,IRS4,Non essential
+YKR020W,VPS51,Non essential
+YKR021W,ALY1,Non essential
+YKR023W,YKR023W,Non essential
+YKR024C,DBP7,Non essential
+YKR026C,GCN3,Non essential
+YKR027W,BCH2,Non essential
+YKR028W,SAP190,Non essential
+YKR029C,SET3,Non essential
+YKR030W,GMH1,Non essential
+YKR031C,SPO14,Non essential
+YKR032W,YKR032W,Non essential
+YKR033C,YKR033C,Non essential
+YKR034W,DAL80,Non essential
+YKR035C,OPI8,Non essential
+YKR035W-A,DID2,Non essential
+YKR036C,CAF4,Non essential
+YKR039W,GAP1,Non essential
+YKR040C,YKR040C,Non essential
+YKR041W,YKR041W,Non essential
+YKR042W,UTH1,Non essential
+YKR043C,SHB17,Non essential
+YKR044W,UIP5,Non essential
+YKR045C,YKR045C,Non essential
+YKR046C,PET10,Non essential
+YKR047W,YKR047W,Non essential
+YKR048C,NAP1,Non essential
+YKR049C,FMP46,Non essential
+YKR050W,TRK2,Non essential
+YKR051W,YKR051W,Non essential
+YKR052C,MRS4,Non essential
+YKR053C,YSR3,Non essential
+YKR054C,DYN1,Non essential
+YKR055W,RHO4,Non essential
+YKR056W,TRM2,Non essential
+YKR057W,RPS21A,Non essential
+YKR058W,GLG1,Non essential
+YKR059W,TIF1,Non essential
+YKR060W,UTP30,Non essential
+YKR061W,KTR2,Non essential
+YKR064W,OAF3,Non essential
+YKR065C,PAM17,Non essential
+YKR066C,CCP1,Non essential
+YKR067W,GPT2,Non essential
+YKR069W,MET1,Non essential
+YKR070W,YKR070W,Non essential
+YKR072C,SIS2,Non essential
+YKR073C,YKR073C,Non essential
+YKR074W,AIM29,Non essential
+YKR075C,YKR075C,Non essential
+YKR075W-A,YKR075W-A,Non essential
+YKR076W,ECM4,Non essential
+YKR077W,MSA2,Non essential
+YKR078W,YKR078W,Non essential
+YKR080W,MTD1,Non essential
+YKR082W,NUP133,Non essential
+YKR084C,HBS1,Non essential
+YKR085C,MRPL20,Non essential
+YKR087C,OMA1,Non essential
+YKR088C,TVP38,Non essential
+YKR089C,TGL4,Non essential
+YKR090W,PXL1,Non essential
+YKR091W,SRL3,Non essential
+YKR092C,SRP40,Non essential
+YKR093W,PTR2,Non essential
+YKR094C,RPL40B,Non essential
+YKR095W,MLP1,Non essential
+YKR095W-A,PCC1,Non essential
+YKR096W,YKR096W,Non essential
+YKR097W,PCK1,Non essential
+YKR098C,UBP11,Non essential
+YKR099W,BAS1,Non essential
+YKR100C,SKG1,Non essential
+YKR101W,SIR1,Non essential
+YKR102W,FLO10,Non essential
+YKR103W,NFT1,Non essential
+YKR104W,YKR104W,Non essential
+YKR105C,VBA5,Non essential
+YKR106W,GEX2,Non essential
+YLL001W,DNM1,Non essential
+YLL002W,RTT109,Non essential
+YLL005C,SPO75,Non essential
+YLL006W,MMM1,Non essential
+YLL006W-A,YLL006W-A,Non essential
+YLL007C,YLL007C,Non essential
+YLL009C,COX17,Non essential
+YLL010C,PSR1,Non essential
+YLL012W,YEH1,Non essential
+YLL013C,PUF3,Non essential
+YLL014W,EMC6,Non essential
+YLL015W,BPT1,Non essential
+YLL018C-A,COX19,Non essential
+YLL019C,KNS1,Non essential
+YLL019W-A,YLL019W-A,Non essential
+YLL020C,YLL020C,Non essential
+YLL021W,SPA2,Non essential
+YLL022C,HIF1,Non essential
+YLL023C,POM33,Non essential
+YLL024C,SSA2,Non essential
+YLL025W,PAU17,Non essential
+YLL026W,HSP104,Non essential
+YLL027W,ISA1,Non essential
+YLL028W,TPO1,Non essential
+YLL029W,FRA1,Non essential
+YLL030C,RRT7,Non essential
+YLL032C,YLL032C,Non essential
+YLL033W,IRC19,Non essential
+YLL038C,ENT4,Non essential
+YLL039C,UBI4,Non essential
+YLL040C,VPS13,Non essential
+YLL041C,SDH2,Non essential
+YLL042C,ATG10,Non essential
+YLL043W,FPS1,Non essential
+YLL044W,YLL044W,Non essential
+YLL045C,RPL8B,Non essential
+YLL046C,RNP1,Non essential
+YLL047W,YLL047W,Non essential
+YLL048C,YBT1,Non essential
+YLL049W,LDB18,Non essential
+YLL051C,FRE6,Non essential
+YLL052C,AQY2,Non essential
+YLL053C,YLL053C,Non essential
+YLL054C,YLL054C,Non essential
+YLL055W,YCT1,Non essential
+YLL056C,YLL056C,Non essential
+YLL057C,JLP1,Non essential
+YLL058W,YLL058W,Non essential
+YLL059C,YLL059C,Non essential
+YLL060C,GTT2,Non essential
+YLL061W,MMP1,Non essential
+YLL062C,MHT1,Non essential
+YLL063C,AYT1,Non essential
+YLL064C,PAU18,Non essential
+YLL065W,YLL065W,Non essential
+YLL066C,YLL066C,Non essential
+YLL066W-A,YLL066W-A,Non essential
+YLL066W-B,YLL066W-B,Non essential
+YLL067C,YLL067C,Non essential
+YLL067W-A,YLL067W-A,Non essential
+YLR001C,YLR001C,Non essential
+YLR003C,CMS1,Non essential
+YLR004C,THI73,Non essential
+YLR006C,SSK1,Non essential
+YLR011W,LOT6,Non essential
+YLR012C,YLR012C,Non essential
+YLR013W,GAT3,Non essential
+YLR014C,PPR1,Non essential
+YLR015W,BRE2,Non essential
+YLR016C,PML1,Non essential
+YLR017W,MEU1,Non essential
+YLR018C,POM34,Non essential
+YLR019W,PSR2,Non essential
+YLR020C,YEH2,Non essential
+YLR021W,IRC25,Non essential
+YLR023C,IZH3,Non essential
+YLR024C,UBR2,Non essential
+YLR025W,SNF7,Non essential
+YLR027C,AAT2,Non essential
+YLR028C,ADE16,Non essential
+YLR030W,YLR030W,Non essential
+YLR031W,YLR031W,Non essential
+YLR032W,RAD5,Non essential
+YLR034C,SMF3,Non essential
+YLR035C,MLH2,Non essential
+YLR035C-A,YLR035C-A,Non essential
+YLR036C,YLR036C,Non essential
+YLR037C,PAU23,Non essential
+YLR038C,COX12,Non essential
+YLR039C,RIC1,Non essential
+YLR040C,YLR040C,Non essential
+YLR041W,YLR041W,Non essential
+YLR042C,YLR042C,Non essential
+YLR043C,TRX1,Non essential
+YLR044C,PDC1,Non essential
+YLR046C,YLR046C,Non essential
+YLR047C,FRE8,Non essential
+YLR048W,RPS0B,Non essential
+YLR049C,YLR049C,Non essential
+YLR050C,YLR050C,Non essential
+YLR052W,IES3,Non essential
+YLR053C,YLR053C,Non essential
+YLR054C,OSW2,Non essential
+YLR055C,SPT8,Non essential
+YLR056W,ERG3,Non essential
+YLR057W,MNL2,Non essential
+YLR058C,SHM2,Non essential
+YLR059C,REX2,Non essential
+YLR061W,RPL22A,Non essential
+YLR062C,BUD28,Non essential
+YLR063W,YLR063W,Non essential
+YLR064W,PER33,Non essential
+YLR065C,ENV10,Non essential
+YLR067C,PET309,Non essential
+YLR068W,FYV7,Non essential
+YLR069C,MEF1,Non essential
+YLR070C,XYL2,Non essential
+YLR072W,YLR072W,Non essential
+YLR073C,RFU1,Non essential
+YLR074C,BUD20,Non essential
+YLR077W,FMP25,Non essential
+YLR079W,SIC1,Non essential
+YLR080W,EMP46,Non essential
+YLR081W,GAL2,Non essential
+YLR082C,SRL2,Non essential
+YLR083C,EMP70,Non essential
+YLR084C,RAX2,Non essential
+YLR085C,ARP6,Non essential
+YLR087C,CSF1,Non essential
+YLR089C,ALT1,Non essential
+YLR090W,XDJ1,Non essential
+YLR091W,GEP5,Non essential
+YLR092W,SUL2,Non essential
+YLR093C,NYV1,Non essential
+YLR094C,GIS3,Non essential
+YLR095C,IOC2,Non essential
+YLR096W,KIN2,Non essential
+YLR097C,HRT3,Non essential
+YLR098C,CHA4,Non essential
+YLR099C,ICT1,Non essential
+YLR099W-A,YLR099W-A,Non essential
+YLR102C,APC9,Non essential
+YLR104W,LCL2,Non essential
+YLR107W,REX3,Non essential
+YLR108C,YLR108C,Non essential
+YLR109W,AHP1,Non essential
+YLR110C,CCW12,Non essential
+YLR111W,YLR111W,Non essential
+YLR112W,YLR112W,Non essential
+YLR113W,HOG1,Non essential
+YLR114C,AVL9,Non essential
+YLR118C,YLR118C,Non essential
+YLR119W,SRN2,Non essential
+YLR120C,YPS1,Non essential
+YLR120W-A,YLR120W-A,Non essential
+YLR121C,YPS3,Non essential
+YLR122C,YLR122C,Non essential
+YLR123C,YLR123C,Non essential
+YLR124W,YLR124W,Non essential
+YLR125W,YLR125W,Non essential
+YLR126C,YLR126C,Non essential
+YLR128W,DCN1,Non essential
+YLR130C,ZRT2,Non essential
+YLR131C,ACE2,Non essential
+YLR133W,CKI1,Non essential
+YLR134W,PDC5,Non essential
+YLR135W,SLX4,Non essential
+YLR136C,TIS11,Non essential
+YLR137W,RKM5,Non essential
+YLR138W,NHA1,Non essential
+YLR139C,SLS1,Non essential
+YLR142W,PUT1,Non essential
+YLR143W,YLR143W,Non essential
+YLR144C,ACF2,Non essential
+YLR146C,SPE4,Non essential
+YLR146W-A,YLR146W-A,Non essential
+YLR148W,PEP3,Non essential
+YLR149C,YLR149C,Non essential
+YLR149C-A,YLR149C-A,Non essential
+YLR150W,STM1,Non essential
+YLR151C,PCD1,Non essential
+YLR152C,YLR152C,Non essential
+YLR154C,RNH203,Non essential
+YLR154C-G,YLR154C-G,Non essential
+YLR154C-H,YLR154C-H,Non essential
+YLR154W-A,YLR154W-A,Non essential
+YLR154W-B,YLR154W-B,Non essential
+YLR154W-C,TAR1,Non essential
+YLR154W-E,YLR154W-E,Non essential
+YLR154W-F,YLR154W-F,Non essential
+YLR155C,ASP3-1,Non essential
+YLR156C-A,YLR156C-A,Non essential
+YLR156W,YLR156W,Non essential
+YLR157C,ASP3-2,Non essential
+YLR157C-A,YLR157C-A,Non essential
+YLR157C-B,YLR157C-B,Non essential
+YLR157C-C,YLR157C-C,Non essential
+YLR157W-D,YLR157W-D,Non essential
+YLR157W-E,YLR157W-E,Non essential
+YLR158C,ASP3-3,Non essential
+YLR159C-A,YLR159C-A,Non essential
+YLR159W,YLR159W,Non essential
+YLR160C,ASP3-4,Non essential
+YLR161W,YLR161W,Non essential
+YLR162W,YLR162W,Non essential
+YLR162W-A,RRT15,Non essential
+YLR163W-A,YLR163W-A,Non essential
+YLR164W,YLR164W,Non essential
+YLR165C,PUS5,Non essential
+YLR168C,UPS2,Non essential
+YLR169W,YLR169W,Non essential
+YLR170C,APS1,Non essential
+YLR171W,YLR171W,Non essential
+YLR172C,DPH5,Non essential
+YLR173W,YLR173W,Non essential
+YLR174W,IDP2,Non essential
+YLR176C,RFX1,Non essential
+YLR177W,YLR177W,Non essential
+YLR178C,TFS1,Non essential
+YLR179C,YLR179C,Non essential
+YLR180W,SAM1,Non essential
+YLR181C,VTA1,Non essential
+YLR182W,SWI6,Non essential
+YLR183C,TOS4,Non essential
+YLR184W,YLR184W,Non essential
+YLR185W,RPL37A,Non essential
+YLR187W,SKG3,Non essential
+YLR188W,MDL1,Non essential
+YLR189C,ATG26,Non essential
+YLR190W,MMR1,Non essential
+YLR191W,PEX13,Non essential
+YLR192C,HCR1,Non essential
+YLR193C,UPS1,Non essential
+YLR194C,YLR194C,Non essential
+YLR199C,PBA1,Non essential
+YLR200W,YKE2,Non essential
+YLR201C,COQ9,Non essential
+YLR202C,YLR202C,Non essential
+YLR203C,MSS51,Non essential
+YLR204W,QRI5,Non essential
+YLR205C,HMX1,Non essential
+YLR206W,ENT2,Non essential
+YLR207W,HRD3,Non essential
+YLR209C,PNP1,Non essential
+YLR210W,CLB4,Non essential
+YLR211C,YLR211C,Non essential
+YLR213C,CRR1,Non essential
+YLR214W,FRE1,Non essential
+YLR216C,CPR6,Non essential
+YLR217W,YLR217W,Non essential
+YLR218C,COA4,Non essential
+YLR219W,MSC3,Non essential
+YLR220W,CCC1,Non essential
+YLR221C,RSA3,Non essential
+YLR222C-A,YLR222C-A,Non essential
+YLR224W,YLR224W,Non essential
+YLR225C,YLR225C,Non essential
+YLR226W,BUR2,Non essential
+YLR227C,ADY4,Non essential
+YLR227W-A,YLR227W-A,Non essential
+YLR227W-B,YLR227W-B,Non essential
+YLR228C,ECM22,Non essential
+YLR231C,BNA5,Non essential
+YLR232W,YLR232W,Non essential
+YLR233C,EST1,Non essential
+YLR234W,TOP3,Non essential
+YLR235C,YLR235C,Non essential
+YLR236C,YLR236C,Non essential
+YLR237W,THI7,Non essential
+YLR238W,FAR10,Non essential
+YLR239C,LIP2,Non essential
+YLR240W,VPS34,Non essential
+YLR241W,YLR241W,Non essential
+YLR242C,ARV1,Non essential
+YLR244C,MAP1,Non essential
+YLR245C,CDD1,Non essential
+YLR246W,ERF2,Non essential
+YLR247C,IRC20,Non essential
+YLR248W,RCK2,Non essential
+YLR250W,SSP120,Non essential
+YLR251W,SYM1,Non essential
+YLR252W,YLR252W,Non essential
+YLR253W,YLR253W,Non essential
+YLR254C,NDL1,Non essential
+YLR255C,YLR255C,Non essential
+YLR256W,HAP1,Non essential
+YLR256W-A,YLR256W-A,Non essential
+YLR257W,YLR257W,Non essential
+YLR258W,GSY2,Non essential
+YLR260W,LCB5,Non essential
+YLR261C,VPS63,Non essential
+YLR262C,YPT6,Non essential
+YLR262C-A,TMA7,Non essential
+YLR263W,RED1,Non essential
+YLR264C-A,YLR264C-A,Non essential
+YLR264W,RPS28B,Non essential
+YLR265C,NEJ1,Non essential
+YLR266C,PDR8,Non essential
+YLR267W,BOP2,Non essential
+YLR268W,SEC22,Non essential
+YLR269C,YLR269C,Non essential
+YLR270W,DCS1,Non essential
+YLR271W,YLR271W,Non essential
+YLR273C,PIG1,Non essential
+YLR278C,YLR278C,Non essential
+YLR279W,YLR279W,Non essential
+YLR280C,YLR280C,Non essential
+YLR281C,YLR281C,Non essential
+YLR282C,YLR282C,Non essential
+YLR283W,YLR283W,Non essential
+YLR284C,ECI1,Non essential
+YLR285C-A,YLR285C-A,Non essential
+YLR285W,NNT1,Non essential
+YLR286C,CTS1,Non essential
+YLR286W-A,YLR286W-A,Non essential
+YLR287C,YLR287C,Non essential
+YLR287C-A,RPS30A,Non essential
+YLR288C,MEC3,Non essential
+YLR289W,GUF1,Non essential
+YLR290C,YLR290C,Non essential
+YLR292C,SEC72,Non essential
+YLR294C,YLR294C,Non essential
+YLR295C,ATP14,Non essential
+YLR296W,YLR296W,Non essential
+YLR297W,YLR297W,Non essential
+YLR299C-A,YLR299C-A,Non essential
+YLR299W,ECM38,Non essential
+YLR300W,EXG1,Non essential
+YLR301W,HRI1,Non essential
+YLR302C,YLR302C,Non essential
+YLR303W,MET17,Non essential
+YLR304C,ACO1,Non essential
+YLR306W,UBC12,Non essential
+YLR307C-A,YLR307C-A,Non essential
+YLR307W,CDA1,Non essential
+YLR308W,CDA2,Non essential
+YLR309C,IMH1,Non essential
+YLR311C,YLR311C,Non essential
+YLR312C,YLR312C,Non essential
+YLR312W-A,MRPL15,Non essential
+YLR313C,SPH1,Non essential
+YLR315W,NKP2,Non essential
+YLR318W,EST2,Non essential
+YLR319C,BUD6,Non essential
+YLR320W,MMS22,Non essential
+YLR322W,VPS65,Non essential
+YLR324W,PEX30,Non essential
+YLR325C,RPL38,Non essential
+YLR326W,YLR326W,Non essential
+YLR327C,TMA10,Non essential
+YLR328W,NMA1,Non essential
+YLR329W,REC102,Non essential
+YLR330W,CHS5,Non essential
+YLR331C,JIP3,Non essential
+YLR332W,MID2,Non essential
+YLR333C,RPS25B,Non essential
+YLR334C,YLR334C,Non essential
+YLR335W,NUP2,Non essential
+YLR337C,VRP1,Non essential
+YLR338W,OPI9,Non essential
+YLR341W,SPO77,Non essential
+YLR342W,FKS1,Non essential
+YLR342W-A,YLR342W-A,Non essential
+YLR343W,GAS2,Non essential
+YLR344W,RPL26A,Non essential
+YLR345W,YLR345W,Non essential
+YLR346C,YLR346C,Non essential
+YLR347W-A,YLR347W-A,Non essential
+YLR348C,DIC1,Non essential
+YLR349W,YLR349W,Non essential
+YLR350W,ORM2,Non essential
+YLR351C,NIT3,Non essential
+YLR352W,YLR352W,Non essential
+YLR353W,BUD8,Non essential
+YLR354C,TAL1,Non essential
+YLR356W,ATG33,Non essential
+YLR357W,RSC2,Non essential
+YLR358C,YLR358C,Non essential
+YLR360W,VPS38,Non essential
+YLR361C,DCR2,Non essential
+YLR361C-A,YLR361C-A,Non essential
+YLR362W,STE11,Non essential
+YLR363C,NMD4,Non essential
+YLR363W-A,YLR363W-A,Non essential
+YLR364C-A,YLR364C-A,Non essential
+YLR364W,GRX8,Non essential
+YLR365W,YLR365W,Non essential
+YLR366W,YLR366W,Non essential
+YLR367W,RPS22B,Non essential
+YLR368W,MDM30,Non essential
+YLR369W,SSQ1,Non essential
+YLR370C,ARC18,Non essential
+YLR371W,ROM2,Non essential
+YLR372W,SUR4,Non essential
+YLR373C,VID22,Non essential
+YLR374C,YLR374C,Non essential
+YLR375W,STP3,Non essential
+YLR376C,PSY3,Non essential
+YLR377C,FBP1,Non essential
+YLR380W,CSR1,Non essential
+YLR381W,CTF3,Non essential
+YLR382C,NAM2,Non essential
+YLR384C,IKI3,Non essential
+YLR385C,SWC7,Non essential
+YLR386W,VAC14,Non essential
+YLR387C,REH1,Non essential
+YLR388W,RPS29A,Non essential
+YLR389C,STE23,Non essential
+YLR390W,ECM19,Non essential
+YLR390W-A,CCW14,Non essential
+YLR392C,ART10,Non essential
+YLR393W,ATP10,Non essential
+YLR394W,CST9,Non essential
+YLR395C,COX8,Non essential
+YLR396C,VPS33,Non essential
+YLR398C,SKI2,Non essential
+YLR399C,BDF1,Non essential
+YLR399W-A,YLR399W-A,Non essential
+YLR400W,YLR400W,Non essential
+YLR401C,DUS3,Non essential
+YLR402W,YLR402W,Non essential
+YLR403W,SFP1,Non essential
+YLR404W,FLD1,Non essential
+YLR405W,DUS4,Non essential
+YLR406C,RPL31B,Non essential
+YLR406C-A,YLR406C-A,Non essential
+YLR407W,YLR407W,Non essential
+YLR408C,BLS1,Non essential
+YLR410W,VIP1,Non essential
+YLR410W-A,YLR410W-A,Non essential
+YLR410W-B,YLR410W-B,Non essential
+YLR411W,CTR3,Non essential
+YLR412C-A,YLR412C-A,Non essential
+YLR412W,BER1,Non essential
+YLR413W,YLR413W,Non essential
+YLR414C,PUN1,Non essential
+YLR415C,YLR415C,Non essential
+YLR416C,YLR416C,Non essential
+YLR417W,VPS36,Non essential
+YLR418C,CDC73,Non essential
+YLR419W,YLR419W,Non essential
+YLR420W,URA4,Non essential
+YLR421C,RPN13,Non essential
+YLR422W,YLR422W,Non essential
+YLR423C,ATG17,Non essential
+YLR425W,TUS1,Non essential
+YLR426W,TDA5,Non essential
+YLR427W,MAG2,Non essential
+YLR428C,YLR428C,Non essential
+YLR429W,CRN1,Non essential
+YLR431C,ATG23,Non essential
+YLR432W,IMD3,Non essential
+YLR433C,CNA1,Non essential
+YLR434C,YLR434C,Non essential
+YLR435W,TSR2,Non essential
+YLR436C,ECM30,Non essential
+YLR437C,DIF1,Non essential
+YLR437C-A,YLR437C-A,Non essential
+YLR438W,CAR2,Non essential
+YLR439W,MRPL4,Non essential
+YLR441C,RPS1A,Non essential
+YLR442C,SIR3,Non essential
+YLR443W,ECM7,Non essential
+YLR444C,YLR444C,Non essential
+YLR445W,YLR445W,Non essential
+YLR446W,YLR446W,Non essential
+YLR447C,VMA6,Non essential
+YLR448W,RPL6B,Non essential
+YLR449W,FPR4,Non essential
+YLR450W,HMG2,Non essential
+YLR451W,LEU3,Non essential
+YLR452C,SST2,Non essential
+YLR453C,RIF2,Non essential
+YLR454W,FMP27,Non essential
+YLR455W,YLR455W,Non essential
+YLR456W,YLR456W,Non essential
+YLR460C,YLR460C,Non essential
+YLR461W,PAU4,Non essential
+YLR462W,YLR462W,Non essential
+YLR463C,YLR463C,Non essential
+YLR464W,YLR464W,Non essential
+YLR465C,BSC3,Non essential
+YLR466C-A,YLR466C-A,Non essential
+YLR466C-B,YLR466C-B,Non essential
+YLR466W,YRF1-4,Non essential
+YLR467C-A,YLR467C-A,Non essential
+YLR467W,YRF1-5,Non essential
+YML001W,YPT7,Non essential
+YML002W,YML002W,Non essential
+YML003W,YML003W,Non essential
+YML004C,GLO1,Non essential
+YML005W,TRM12,Non essential
+YML006C,GIS4,Non essential
+YML007C-A,YML007C-A,Non essential
+YML007W,YAP1,Non essential
+YML008C,ERG6,Non essential
+YML009C,MRPL39,Non essential
+YML009C-A,YML009C-A,Non essential
+YML009W-B,YML009W-B,Non essential
+YML011C,RAD33,Non essential
+YML012C-A,YML012C-A,Non essential
+YML012W,ERV25,Non essential
+YML013W,UBX2,Non essential
+YML014W,TRM9,Non essential
+YML016C,PPZ1,Non essential
+YML017W,PSP2,Non essential
+YML018C,YML018C,Non essential
+YML019W,OST6,Non essential
+YML020W,YML020W,Non essential
+YML021C,UNG1,Non essential
+YML022W,APT1,Non essential
+YML024W,RPS17A,Non essential
+YML026C,RPS18B,Non essential
+YML027W,YOX1,Non essential
+YML028W,TSA1,Non essential
+YML029W,USA1,Non essential
+YML030W,AIM31,Non essential
+YML031C-A,YML031C-A,Non essential
+YML032C,RAD52,Non essential
+YML034C-A,YML034C-A,Non essential
+YML034W,SRC1,Non essential
+YML035C,AMD1,Non essential
+YML036W,CGI121,Non essential
+YML037C,YML037C,Non essential
+YML038C,YMD8,Non essential
+YML039W,YML039W,Non essential
+YML040W,YML040W,Non essential
+YML041C,VPS71,Non essential
+YML042W,CAT2,Non essential
+YML045W,YML045W,Non essential
+YML045W-A,YML045W-A,Non essential
+YML047C,PRM6,Non essential
+YML047W-A,YML047W-A,Non essential
+YML048W,GSF2,Non essential
+YML050W,AIM32,Non essential
+YML051W,GAL80,Non essential
+YML052W,SUR7,Non essential
+YML053C,YML053C,Non essential
+YML054C,CYB2,Non essential
+YML054C-A,YML054C-A,Non essential
+YML055W,SPC2,Non essential
+YML056C,IMD4,Non essential
+YML057C-A,YML057C-A,Non essential
+YML057W,CMP2,Non essential
+YML058W,SML1,Non essential
+YML058W-A,HUG1,Non essential
+YML059C,NTE1,Non essential
+YML060W,OGG1,Non essential
+YML061C,PIF1,Non essential
+YML062C,MFT1,Non essential
+YML063W,RPS1B,Non essential
+YML066C,SMA2,Non essential
+YML067C,ERV41,Non essential
+YML068W,ITT1,Non essential
+YML070W,DAK1,Non essential
+YML071C,COG8,Non essential
+YML072C,TCB3,Non essential
+YML073C,RPL6A,Non essential
+YML074C,FPR3,Non essential
+YML075C,HMG1,Non essential
+YML076C,WAR1,Non essential
+YML078W,CPR3,Non essential
+YML079W,YML079W,Non essential
+YML080W,DUS1,Non essential
+YML081C-A,ATP18,Non essential
+YML081W,TDA9,Non essential
+YML082W,YML082W,Non essential
+YML083C,YML083C,Non essential
+YML084W,YML084W,Non essential
+YML086C,ALO1,Non essential
+YML087C,AIM33,Non essential
+YML088W,UFO1,Non essential
+YML089C,YML089C,Non essential
+YML090W,YML090W,Non essential
+YML094C-A,YML094C-A,Non essential
+YML094W,GIM5,Non essential
+YML095C,RAD10,Non essential
+YML096W,YML096W,Non essential
+YML097C,VPS9,Non essential
+YML099C,ARG81,Non essential
+YML099W-A,YML099W-A,Non essential
+YML100W,TSL1,Non essential
+YML100W-A,YML100W-A,Non essential
+YML101C,CUE4,Non essential
+YML101C-A,YML101C-A,Non essential
+YML102W,CAC2,Non essential
+YML103C,NUP188,Non essential
+YML104C,MDM1,Non essential
+YML106W,URA5,Non essential
+YML107C,PML39,Non essential
+YML108W,YML108W,Non essential
+YML109W,ZDS2,Non essential
+YML110C,COQ5,Non essential
+YML111W,BUL2,Non essential
+YML112W,CTK3,Non essential
+YML113W,DAT1,Non essential
+YML115C,VAN1,Non essential
+YML116W,ATR1,Non essential
+YML116W-A,YML116W-A,Non essential
+YML117W,NAB6,Non essential
+YML118W,NGL3,Non essential
+YML119W,YML119W,Non essential
+YML120C,NDI1,Non essential
+YML121W,GTR1,Non essential
+YML122C,YML122C,Non essential
+YML123C,PHO84,Non essential
+YML124C,TUB3,Non essential
+YML128C,MSC1,Non essential
+YML129C,COX14,Non essential
+YML131W,YML131W,Non essential
+YML132W,COS3,Non essential
+YML133C,YML133C,Non essential
+YML133W-A,YML133W-A,Non essential
+YML133W-B,YML133W-B,Non essential
+YMR001C-A,YMR001C-A,Non essential
+YMR002W,MIC17,Non essential
+YMR003W,AIM34,Non essential
+YMR004W,MVP1,Non essential
+YMR006C,PLB2,Non essential
+YMR007W,YMR007W,Non essential
+YMR008C,PLB1,Non essential
+YMR009W,ADI1,Non essential
+YMR010W,YMR010W,Non essential
+YMR011W,HXT2,Non essential
+YMR012W,CLU1,Non essential
+YMR013C-A,YMR013C-A,Non essential
+YMR013W-A,YMR013W-A,Non essential
+YMR014W,BUD22,Non essential
+YMR015C,ERG5,Non essential
+YMR016C,SOK2,Non essential
+YMR017W,SPO20,Non essential
+YMR018W,YMR018W,Non essential
+YMR019W,STB4,Non essential
+YMR020W,FMS1,Non essential
+YMR021C,MAC1,Non essential
+YMR022W,UBC7,Non essential
+YMR023C,MSS1,Non essential
+YMR024W,MRPL3,Non essential
+YMR025W,CSI1,Non essential
+YMR026C,PEX12,Non essential
+YMR027W,YMR027W,Non essential
+YMR029C,FAR8,Non essential
+YMR030W,RSF1,Non essential
+YMR030W-A,YMR030W-A,Non essential
+YMR031C,EIS1,Non essential
+YMR031W-A,YMR031W-A,Non essential
+YMR032W,HOF1,Non essential
+YMR034C,YMR034C,Non essential
+YMR035W,IMP2,Non essential
+YMR036C,MIH1,Non essential
+YMR037C,MSN2,Non essential
+YMR038C,CCS1,Non essential
+YMR039C,SUB1,Non essential
+YMR040W,YET2,Non essential
+YMR041C,ARA2,Non essential
+YMR042W,ARG80,Non essential
+YMR044W,IOC4,Non essential
+YMR045C,YMR045C,Non essential
+YMR046C,YMR046C,Non essential
+YMR046W-A,YMR046W-A,Non essential
+YMR048W,CSM3,Non essential
+YMR050C,YMR050C,Non essential
+YMR051C,YMR051C,Non essential
+YMR052C-A,YMR052C-A,Non essential
+YMR052W,FAR3,Non essential
+YMR053C,STB2,Non essential
+YMR054W,STV1,Non essential
+YMR055C,BUB2,Non essential
+YMR056C,AAC1,Non essential
+YMR057C,YMR057C,Non essential
+YMR058W,FET3,Non essential
+YMR060C,SAM37,Non essential
+YMR062C,ARG7,Non essential
+YMR063W,RIM9,Non essential
+YMR064W,AEP1,Non essential
+YMR065W,KAR5,Non essential
+YMR066W,SOV1,Non essential
+YMR067C,UBX4,Non essential
+YMR068W,AVO2,Non essential
+YMR069W,NAT4,Non essential
+YMR070W,MOT3,Non essential
+YMR071C,TVP18,Non essential
+YMR072W,ABF2,Non essential
+YMR073C,IRC21,Non essential
+YMR074C,YMR074C,Non essential
+YMR075C-A,YMR075C-A,Non essential
+YMR075W,RCO1,Non essential
+YMR077C,VPS20,Non essential
+YMR078C,CTF18,Non essential
+YMR080C,NAM7,Non essential
+YMR081C,ISF1,Non essential
+YMR082C,YMR082C,Non essential
+YMR083W,ADH3,Non essential
+YMR084W,YMR084W,Non essential
+YMR085W,YMR085W,Non essential
+YMR086C-A,YMR086C-A,Non essential
+YMR086W,YMR086W,Non essential
+YMR087W,YMR087W,Non essential
+YMR088C,VBA1,Non essential
+YMR089C,YTA12,Non essential
+YMR090W,YMR090W,Non essential
+YMR091C,NPL6,Non essential
+YMR092C,AIP1,Non essential
+YMR095C,SNO1,Non essential
+YMR096W,SNZ1,Non essential
+YMR097C,MTG1,Non essential
+YMR098C,ATP25,Non essential
+YMR099C,YMR099C,Non essential
+YMR100W,MUB1,Non essential
+YMR101C,SRT1,Non essential
+YMR102C,YMR102C,Non essential
+YMR103C,YMR103C,Non essential
+YMR104C,YPK2,Non essential
+YMR105C,PGM2,Non essential
+YMR105W-A,YMR105W-A,Non essential
+YMR106C,YKU80,Non essential
+YMR107W,SPG4,Non essential
+YMR109W,MYO5,Non essential
+YMR110C,HFD1,Non essential
+YMR111C,YMR111C,Non essential
+YMR114C,YMR114C,Non essential
+YMR115W,MGR3,Non essential
+YMR116C,ASC1,Non essential
+YMR118C,YMR118C,Non essential
+YMR119W,ASI1,Non essential
+YMR119W-A,YMR119W-A,Non essential
+YMR120C,ADE17,Non essential
+YMR121C,RPL15B,Non essential
+YMR122C,YMR122C,Non essential
+YMR122W-A,YMR122W-A,Non essential
+YMR123W,PKR1,Non essential
+YMR124W,YMR124W,Non essential
+YMR125W,STO1,Non essential
+YMR126C,DLT1,Non essential
+YMR127C,SAS2,Non essential
+YMR129W,POM152,Non essential
+YMR130W,YMR130W,Non essential
+YMR132C,JLP2,Non essential
+YMR133W,REC114,Non essential
+YMR135C,GID8,Non essential
+YMR135W-A,YMR135W-A,Non essential
+YMR136W,GAT2,Non essential
+YMR137C,PSO2,Non essential
+YMR138W,CIN4,Non essential
+YMR139W,RIM11,Non essential
+YMR140W,SIP5,Non essential
+YMR141C,YMR141C,Non essential
+YMR141W-A,YMR141W-A,Non essential
+YMR142C,RPL13B,Non essential
+YMR143W,RPS16A,Non essential
+YMR144W,YMR144W,Non essential
+YMR145C,NDE1,Non essential
+YMR147W,YMR147W,Non essential
+YMR148W,OSW5,Non essential
+YMR150C,IMP1,Non essential
+YMR151W,YIM2,Non essential
+YMR152W,YIM1,Non essential
+YMR153C-A,YMR153C-A,Non essential
+YMR153W,NUP53,Non essential
+YMR154C,RIM13,Non essential
+YMR155W,YMR155W,Non essential
+YMR156C,TPP1,Non essential
+YMR157C,AIM36,Non essential
+YMR158C-A,YMR158C-A,Non essential
+YMR158W,MRPS8,Non essential
+YMR158W-B,YMR158W-B,Non essential
+YMR159C,ATG16,Non essential
+YMR160W,YMR160W,Non essential
+YMR161W,HLJ1,Non essential
+YMR162C,DNF3,Non essential
+YMR163C,INP2,Non essential
+YMR164C,MSS11,Non essential
+YMR166C,YMR166C,Non essential
+YMR167W,MLH1,Non essential
+YMR169C,ALD3,Non essential
+YMR170C,ALD2,Non essential
+YMR171C,EAR1,Non essential
+YMR172C-A,YMR172C-A,Non essential
+YMR172W,HOT1,Non essential
+YMR173W,DDR48,Non essential
+YMR173W-A,YMR173W-A,Non essential
+YMR174C,PAI3,Non essential
+YMR175W,SIP18,Non essential
+YMR175W-A,YMR175W-A,Non essential
+YMR176W,ECM5,Non essential
+YMR177W,MMT1,Non essential
+YMR178W,YMR178W,Non essential
+YMR179W,SPT21,Non essential
+YMR180C,CTL1,Non essential
+YMR181C,YMR181C,Non essential
+YMR182C,RGM1,Non essential
+YMR182W-A,YMR182W-A,Non essential
+YMR183C,SSO2,Non essential
+YMR184W,ADD37,Non essential
+YMR186W,HSC82,Non essential
+YMR187C,YMR187C,Non essential
+YMR188C,MRPS17,Non essential
+YMR189W,GCV2,Non essential
+YMR190C,SGS1,Non essential
+YMR191W,SPG5,Non essential
+YMR192W,GYL1,Non essential
+YMR193C-A,YMR193C-A,Non essential
+YMR193W,MRPL24,Non essential
+YMR194C-A,YMR194C-A,Non essential
+YMR194C-B,CMC4,Non essential
+YMR194W,RPL36A,Non essential
+YMR195W,ICY1,Non essential
+YMR196W,YMR196W,Non essential
+YMR198W,CIK1,Non essential
+YMR199W,CLN1,Non essential
+YMR201C,RAD14,Non essential
+YMR202W,ERG2,Non essential
+YMR204C,INP1,Non essential
+YMR205C,PFK2,Non essential
+YMR206W,YMR206W,Non essential
+YMR207C,HFA1,Non essential
+YMR209C,YMR209C,Non essential
+YMR210W,YMR210W,Non essential
+YMR211W,DML1,Non essential
+YMR212C,EFR3,Non essential
+YMR214W,SCJ1,Non essential
+YMR215W,GAS3,Non essential
+YMR216C,SKY1,Non essential
+YMR219W,ESC1,Non essential
+YMR221C,YMR221C,Non essential
+YMR222C,FSH2,Non essential
+YMR223W,UBP8,Non essential
+YMR224C,MRE11,Non essential
+YMR225C,MRPL44,Non essential
+YMR226C,YMR226C,Non essential
+YMR228W,MTF1,Non essential
+YMR230W,RPS10B,Non essential
+YMR230W-A,YMR230W-A,Non essential
+YMR231W,PEP5,Non essential
+YMR232W,FUS2,Non essential
+YMR233W,TRI1,Non essential
+YMR234W,RNH1,Non essential
+YMR237W,BCH1,Non essential
+YMR238W,DFG5,Non essential
+YMR241W,YHM2,Non essential
+YMR242C,RPL20A,Non essential
+YMR242W-A,YMR242W-A,Non essential
+YMR243C,ZRC1,Non essential
+YMR244C-A,YMR244C-A,Non essential
+YMR244W,YMR244W,Non essential
+YMR245W,YMR245W,Non essential
+YMR246W,FAA4,Non essential
+YMR247C,RKR1,Non essential
+YMR247W-A,YMR247W-A,Non essential
+YMR250W,GAD1,Non essential
+YMR251W,GTO3,Non essential
+YMR251W-A,HOR7,Non essential
+YMR252C,YMR252C,Non essential
+YMR253C,YMR253C,Non essential
+YMR254C,YMR254C,Non essential
+YMR255W,GFD1,Non essential
+YMR256C,COX7,Non essential
+YMR257C,PET111,Non essential
+YMR258C,ROY1,Non essential
+YMR259C,YMR259C,Non essential
+YMR261C,TPS3,Non essential
+YMR262W,YMR262W,Non essential
+YMR263W,SAP30,Non essential
+YMR264W,CUE1,Non essential
+YMR265C,YMR265C,Non essential
+YMR266W,RSN1,Non essential
+YMR267W,PPA2,Non essential
+YMR269W,TMA23,Non essential
+YMR271C,URA10,Non essential
+YMR272C,SCS7,Non essential
+YMR272W-A,YMR272W-A,Non essential
+YMR272W-B,YMR272W-B,Non essential
+YMR273C,ZDS1,Non essential
+YMR274C,RCE1,Non essential
+YMR275C,BUL1,Non essential
+YMR276W,DSK2,Non essential
+YMR278W,PGM3,Non essential
+YMR279C,YMR279C,Non essential
+YMR280C,CAT8,Non essential
+YMR282C,AEP2,Non essential
+YMR283C,RIT1,Non essential
+YMR284W,YKU70,Non essential
+YMR285C,NGL2,Non essential
+YMR286W,MRPL33,Non essential
+YMR287C,DSS1,Non essential
+YMR289W,ABZ2,Non essential
+YMR291W,TDA1,Non essential
+YMR292W,GOT1,Non essential
+YMR293C,HER2,Non essential
+YMR294W,JNM1,Non essential
+YMR294W-A,YMR294W-A,Non essential
+YMR295C,YMR295C,Non essential
+YMR297W,PRC1,Non essential
+YMR299C,DYN3,Non essential
+YMR300C,ADE4,Non essential
+YMR302C,YME2,Non essential
+YMR303C,ADH2,Non essential
+YMR304C-A,YMR304C-A,Non essential
+YMR304W,UBP15,Non essential
+YMR305C,SCW10,Non essential
+YMR306C-A,YMR306C-A,Non essential
+YMR306W,FKS3,Non essential
+YMR307C-A,YMR307C-A,Non essential
+YMR307W,GAS1,Non essential
+YMR310C,YMR310C,Non essential
+YMR311C,GLC8,Non essential
+YMR312W,ELP6,Non essential
+YMR313C,TGL3,Non essential
+YMR315W,YMR315W,Non essential
+YMR315W-A,YMR315W-A,Non essential
+YMR316C-A,YMR316C-A,Non essential
+YMR316C-B,YMR316C-B,Non essential
+YMR316W,DIA1,Non essential
+YMR317W,YMR317W,Non essential
+YMR318C,ADH6,Non essential
+YMR319C,FET4,Non essential
+YMR320W,YMR320W,Non essential
+YMR321C,YMR321C,Non essential
+YMR322C,SNO4,Non essential
+YMR323W,ERR3,Non essential
+YMR324C,YMR324C,Non essential
+YMR325W,PAU19,Non essential
+YMR326C,YMR326C,Non essential
+YNL001W,DOM34,Non essential
+YNL003C,PET8,Non essential
+YNL004W,HRB1,Non essential
+YNL005C,MRP7,Non essential
+YNL008C,ASI3,Non essential
+YNL009W,IDP3,Non essential
+YNL010W,YNL010W,Non essential
+YNL011C,YNL011C,Non essential
+YNL012W,SPO1,Non essential
+YNL013C,YNL013C,Non essential
+YNL014W,HEF3,Non essential
+YNL015W,PBI2,Non essential
+YNL016W,PUB1,Non essential
+YNL017C,YNL017C,Non essential
+YNL018C,YNL018C,Non essential
+YNL019C,YNL019C,Non essential
+YNL020C,ARK1,Non essential
+YNL021W,HDA1,Non essential
+YNL022C,YNL022C,Non essential
+YNL023C,FAP1,Non essential
+YNL024C,YNL024C,Non essential
+YNL024C-A,KSH1,Non essential
+YNL025C,SSN8,Non essential
+YNL027W,CRZ1,Non essential
+YNL028W,YNL028W,Non essential
+YNL029C,KTR5,Non essential
+YNL030W,HHF2,Non essential
+YNL031C,HHT2,Non essential
+YNL032W,SIW14,Non essential
+YNL033W,YNL033W,Non essential
+YNL034W,YNL034W,Non essential
+YNL035C,YNL035C,Non essential
+YNL037C,IDH1,Non essential
+YNL040W,YNL040W,Non essential
+YNL041C,COG6,Non essential
+YNL042W,BOP3,Non essential
+YNL042W-B,YNL042W-B,Non essential
+YNL043C,YNL043C,Non essential
+YNL044W,YIP3,Non essential
+YNL045W,LAP2,Non essential
+YNL046W,YNL046W,Non essential
+YNL047C,SLM2,Non essential
+YNL048W,ALG11,Non essential
+YNL049C,SFB2,Non essential
+YNL051W,COG5,Non essential
+YNL052W,COX5A,Non essential
+YNL053W,MSG5,Non essential
+YNL054W,VAC7,Non essential
+YNL054W-A,YNL054W-A,Non essential
+YNL055C,POR1,Non essential
+YNL056W,OCA2,Non essential
+YNL057W,YNL057W,Non essential
+YNL058C,YNL058C,Non essential
+YNL059C,ARP5,Non essential
+YNL063W,MTQ1,Non essential
+YNL064C,YDJ1,Non essential
+YNL065W,AQR1,Non essential
+YNL066W,SUN4,Non essential
+YNL067W,RPL9B,Non essential
+YNL067W-A,YNL067W-A,Non essential
+YNL067W-B,YNL067W-B,Non essential
+YNL068C,FKH2,Non essential
+YNL069C,RPL16B,Non essential
+YNL070W,TOM7,Non essential
+YNL071W,LAT1,Non essential
+YNL072W,RNH201,Non essential
+YNL073W,MSK1,Non essential
+YNL074C,MLF3,Non essential
+YNL076W,MKS1,Non essential
+YNL077W,APJ1,Non essential
+YNL078W,NIS1,Non essential
+YNL079C,TPM1,Non essential
+YNL080C,EOS1,Non essential
+YNL081C,SWS2,Non essential
+YNL082W,PMS1,Non essential
+YNL083W,SAL1,Non essential
+YNL084C,END3,Non essential
+YNL085W,MKT1,Non essential
+YNL086W,SNN1,Non essential
+YNL087W,TCB2,Non essential
+YNL089C,YNL089C,Non essential
+YNL090W,RHO2,Non essential
+YNL091W,NST1,Non essential
+YNL092W,YNL092W,Non essential
+YNL093W,YPT53,Non essential
+YNL094W,APP1,Non essential
+YNL095C,YNL095C,Non essential
+YNL096C,RPS7B,Non essential
+YNL097C,PHO23,Non essential
+YNL097C-B,YNL097C-B,Non essential
+YNL097W-A,YNL097W-A,Non essential
+YNL098C,RAS2,Non essential
+YNL099C,OCA1,Non essential
+YNL100W,AIM37,Non essential
+YNL101W,AVT4,Non essential
+YNL103W,MET4,Non essential
+YNL103W-A,YNL103W-A,Non essential
+YNL104C,LEU4,Non essential
+YNL105W,RRT16,Non essential
+YNL106C,INP52,Non essential
+YNL107W,YAF9,Non essential
+YNL108C,YNL108C,Non essential
+YNL109W,YNL109W,Non essential
+YNL111C,CYB5,Non essential
+YNL115C,YNL115C,Non essential
+YNL116W,DMA2,Non essential
+YNL117W,MLS1,Non essential
+YNL119W,NCS2,Non essential
+YNL120C,YNL120C,Non essential
+YNL121C,TOM70,Non essential
+YNL122C,YNL122C,Non essential
+YNL123W,NMA111,Non essential
+YNL125C,ESBP6,Non essential
+YNL127W,FAR11,Non essential
+YNL128W,TEP1,Non essential
+YNL129W,NRK1,Non essential
+YNL130C,CPT1,Non essential
+YNL130C-A,DGR1,Non essential
+YNL133C,FYV6,Non essential
+YNL134C,YNL134C,Non essential
+YNL135C,FPR1,Non essential
+YNL136W,EAF7,Non essential
+YNL138W,SRV2,Non essential
+YNL138W-A,YSF3,Non essential
+YNL139C,THO2,Non essential
+YNL140C,YNL140C,Non essential
+YNL141W,AAH1,Non essential
+YNL142W,MEP2,Non essential
+YNL143C,YNL143C,Non essential
+YNL144C,YNL144C,Non essential
+YNL144W-A,YNL144W-A,Non essential
+YNL145W,MFA2,Non essential
+YNL146C-A,YNL146C-A,Non essential
+YNL146W,YNL146W,Non essential
+YNL147W,LSM7,Non essential
+YNL148C,ALF1,Non essential
+YNL153C,GIM3,Non essential
+YNL154C,YCK2,Non essential
+YNL155W,YNL155W,Non essential
+YNL157W,IGO1,Non essential
+YNL159C,ASI2,Non essential
+YNL160W,YGP1,Non essential
+YNL162W-A,YNL162W-A,Non essential
+YNL164C,IBD2,Non essential
+YNL165W,YNL165W,Non essential
+YNL166C,BNI5,Non essential
+YNL167C,SKO1,Non essential
+YNL168C,FMP41,Non essential
+YNL169C,PSD1,Non essential
+YNL170W,YNL170W,Non essential
+YNL173C,MDG1,Non essential
+YNL174W,YNL174W,Non essential
+YNL175C,NOP13,Non essential
+YNL176C,TDA7,Non essential
+YNL177C,MRPL22,Non essential
+YNL179C,YNL179C,Non essential
+YNL183C,NPR1,Non essential
+YNL184C,YNL184C,Non essential
+YNL185C,MRPL19,Non essential
+YNL186W,UBP10,Non essential
+YNL187W,SWT21,Non essential
+YNL190W,YNL190W,Non essential
+YNL191W,DUG3,Non essential
+YNL192W,CHS1,Non essential
+YNL193W,YNL193W,Non essential
+YNL194C,YNL194C,Non essential
+YNL195C,YNL195C,Non essential
+YNL196C,SLZ1,Non essential
+YNL197C,WHI3,Non essential
+YNL198C,YNL198C,Non essential
+YNL199C,GCR2,Non essential
+YNL200C,YNL200C,Non essential
+YNL201C,PSY2,Non essential
+YNL202W,SPS19,Non essential
+YNL203C,YNL203C,Non essential
+YNL204C,SPS18,Non essential
+YNL205C,YNL205C,Non essential
+YNL206C,RTT106,Non essential
+YNL208W,YNL208W,Non essential
+YNL209W,SSB2,Non essential
+YNL210W,MER1,Non essential
+YNL211C,YNL211C,Non essential
+YNL212W,VID27,Non essential
+YNL214W,PEX17,Non essential
+YNL215W,IES2,Non essential
+YNL217W,YNL217W,Non essential
+YNL219C,ALG9,Non essential
+YNL220W,ADE12,Non essential
+YNL223W,ATG4,Non essential
+YNL224C,SQS1,Non essential
+YNL225C,CNM67,Non essential
+YNL226W,YNL226W,Non essential
+YNL227C,JJJ1,Non essential
+YNL228W,YNL228W,Non essential
+YNL229C,URE2,Non essential
+YNL230C,ELA1,Non essential
+YNL231C,PDR16,Non essential
+YNL233W,BNI4,Non essential
+YNL234W,YNL234W,Non essential
+YNL235C,YNL235C,Non essential
+YNL236W,SIN4,Non essential
+YNL237W,YTP1,Non essential
+YNL238W,KEX2,Non essential
+YNL239W,LAP3,Non essential
+YNL242W,ATG2,Non essential
+YNL246W,VPS75,Non essential
+YNL248C,RPA49,Non essential
+YNL249C,MPA43,Non essential
+YNL250W,RAD50,Non essential
+YNL251C,NRD1,Non essential
+YNL252C,MRPL17,Non essential
+YNL253W,TEX1,Non essential
+YNL254C,RTC4,Non essential
+YNL255C,GIS2,Non essential
+YNL257C,SIP3,Non essential
+YNL259C,ATX1,Non essential
+YNL261W,ORC5,Non essential
+YNL262W,POL2,Non essential
+YNL264C,PDR17,Non essential
+YNL265C,IST1,Non essential
+YNL266W,YNL266W,Non essential
+YNL268W,LYP1,Non essential
+YNL269W,BSC4,Non essential
+YNL270C,ALP1,Non essential
+YNL271C,BNI1,Non essential
+YNL273W,TOF1,Non essential
+YNL274C,GOR1,Non essential
+YNL275W,BOR1,Non essential
+YNL277W-A,YNL277W-A,Non essential
+YNL278W,CAF120,Non essential
+YNL279W,PRM1,Non essential
+YNL280C,ERG24,Non essential
+YNL281W,HCH1,Non essential
+YNL283C,WSC2,Non essential
+YNL284C,MRPL10,Non essential
+YNL284C-A,YNL284C-A,Non essential
+YNL284C-B,YNL284C-B,Non essential
+YNL285W,YNL285W,Non essential
+YNL286W,CUS2,Non essential
+YNL288W,CAF40,Non essential
+YNL289W,PCL1,Non essential
+YNL291C,MID1,Non essential
+YNL292W,PUS4,Non essential
+YNL293W,MSB3,Non essential
+YNL294C,RIM21,Non essential
+YNL295W,YNL295W,Non essential
+YNL296W,YNL296W,Non essential
+YNL297C,MON2,Non essential
+YNL299W,TRF5,Non essential
+YNL300W,TOS6,Non essential
+YNL301C,RPL18B,Non essential
+YNL302C,RPS19B,Non essential
+YNL303W,YNL303W,Non essential
+YNL304W,YPT11,Non essential
+YNL305C,BXI1,Non essential
+YNL307C,MCK1,Non essential
+YNL309W,STB1,Non essential
+YNL311C,SKP2,Non essential
+YNL314W,DAL82,Non essential
+YNL315C,ATP11,Non essential
+YNL316C,PHA2,Non essential
+YNL318C,HXT14,Non essential
+YNL319W,YNL319W,Non essential
+YNL320W,YNL320W,Non essential
+YNL321W,VNX1,Non essential
+YNL322C,KRE1,Non essential
+YNL323W,LEM3,Non essential
+YNL324W,YNL324W,Non essential
+YNL325C,FIG4,Non essential
+YNL326C,PFA3,Non essential
+YNL327W,EGT2,Non essential
+YNL328C,MDJ2,Non essential
+YNL329C,PEX6,Non essential
+YNL330C,RPD3,Non essential
+YNL331C,AAD14,Non essential
+YNL332W,THI12,Non essential
+YNL333W,SNZ2,Non essential
+YNL334C,SNO2,Non essential
+YNL335W,DDI3,Non essential
+YNL336W,COS1,Non essential
+YNL337W,YNL337W,Non essential
+YNL338W,YNL338W,Non essential
+YNL339C,YRF1-6,Non essential
+YNL339W-A,YNL339W-A,Non essential
+YNL339W-B,YNL339W-B,Non essential
+YNR001C,CIT1,Non essential
+YNR001W-A,YNR001W-A,Non essential
+YNR002C,ATO2,Non essential
+YNR003W-A,YNR003W-A,Non essential
+YNR004W,SWM2,Non essential
+YNR005C,YNR005C,Non essential
+YNR006W,VPS27,Non essential
+YNR007C,ATG3,Non essential
+YNR008W,LRO1,Non essential
+YNR009W,NRM1,Non essential
+YNR010W,CSE2,Non essential
+YNR011C,PRP2,Non essential
+YNR012W,URK1,Non essential
+YNR013C,PHO91,Non essential
+YNR014W,YNR014W,Non essential
+YNR015W,SMM1,Non essential
+YNR018W,AIM38,Non essential
+YNR019W,ARE2,Non essential
+YNR020C,ATP23,Non essential
+YNR021W,YNR021W,Non essential
+YNR022C,MRPL50,Non essential
+YNR024W,MPP6,Non essential
+YNR025C,YNR025C,Non essential
+YNR027W,BUD17,Non essential
+YNR028W,CPR8,Non essential
+YNR029C,YNR029C,Non essential
+YNR030W,ALG12,Non essential
+YNR031C,SSK2,Non essential
+YNR032C-A,HUB1,Non essential
+YNR032W,PPG1,Non essential
+YNR033W,ABZ1,Non essential
+YNR034W,SOL1,Non essential
+YNR034W-A,YNR034W-A,Non essential
+YNR036C,MRPS12,Non essential
+YNR037C,RSM19,Non essential
+YNR039C,ZRG17,Non essential
+YNR040W,YNR040W,Non essential
+YNR041C,COQ2,Non essential
+YNR042W,YNR042W,Non essential
+YNR044W,AGA1,Non essential
+YNR045W,PET494,Non essential
+YNR047W,FPK1,Non essential
+YNR048W,YNR048W,Non essential
+YNR049C,MSO1,Non essential
+YNR050C,LYS9,Non essential
+YNR051C,BRE5,Non essential
+YNR052C,POP2,Non essential
+YNR055C,HOL1,Non essential
+YNR056C,BIO5,Non essential
+YNR057C,BIO4,Non essential
+YNR058W,BIO3,Non essential
+YNR059W,MNT4,Non essential
+YNR060W,FRE4,Non essential
+YNR061C,YNR061C,Non essential
+YNR062C,YNR062C,Non essential
+YNR063W,YNR063W,Non essential
+YNR064C,YNR064C,Non essential
+YNR065C,YNR065C,Non essential
+YNR066C,YNR066C,Non essential
+YNR067C,DSE4,Non essential
+YNR068C,YNR068C,Non essential
+YNR069C,BSC5,Non essential
+YNR070W,PDR18,Non essential
+YNR071C,YNR071C,Non essential
+YNR072W,HXT17,Non essential
+YNR073C,YNR073C,Non essential
+YNR074C,AIF1,Non essential
+YNR075C-A,YNR075C-A,Non essential
+YNR075W,COS10,Non essential
+YNR076W,PAU6,Non essential
+YNR077C,YNR077C,Non essential
+YOL001W,PHO80,Non essential
+YOL002C,IZH2,Non essential
+YOL003C,PFA4,Non essential
+YOL004W,SIN3,Non essential
+YOL006C,TOP1,Non essential
+YOL007C,CSI2,Non essential
+YOL008W,COQ10,Non essential
+YOL009C,MDM12,Non essential
+YOL011W,PLB3,Non essential
+YOL012C,HTZ1,Non essential
+YOL013C,HRD1,Non essential
+YOL013W-A,YOL013W-A,Non essential
+YOL013W-B,YOL013W-B,Non essential
+YOL014W,YOL014W,Non essential
+YOL015W,IRC10,Non essential
+YOL016C,CMK2,Non essential
+YOL017W,ESC8,Non essential
+YOL018C,TLG2,Non essential
+YOL019W,YOL019W,Non essential
+YOL019W-A,YOL019W-A,Non essential
+YOL020W,TAT2,Non essential
+YOL023W,IFM1,Non essential
+YOL024W,YOL024W,Non essential
+YOL025W,LAG2,Non essential
+YOL027C,MDM38,Non essential
+YOL028C,YAP7,Non essential
+YOL029C,YOL029C,Non essential
+YOL030W,GAS5,Non essential
+YOL031C,SIL1,Non essential
+YOL032W,OPI10,Non essential
+YOL033W,MSE1,Non essential
+YOL035C,YOL035C,Non essential
+YOL036W,YOL036W,Non essential
+YOL037C,YOL037C,Non essential
+YOL038C-A,YOL038C-A,Non essential
+YOL039W,RPP2A,Non essential
+YOL041C,NOP12,Non essential
+YOL042W,NGL1,Non essential
+YOL043C,NTG2,Non essential
+YOL044W,PEX15,Non essential
+YOL045W,PSK2,Non essential
+YOL046C,YOL046C,Non essential
+YOL047C,YOL047C,Non essential
+YOL048C,RRT8,Non essential
+YOL049W,GSH2,Non essential
+YOL050C,YOL050C,Non essential
+YOL051W,GAL11,Non essential
+YOL052C,SPE2,Non essential
+YOL052C-A,DDR2,Non essential
+YOL053W,AIM39,Non essential
+YOL054W,PSH1,Non essential
+YOL055C,THI20,Non essential
+YOL056W,GPM3,Non essential
+YOL057W,YOL057W,Non essential
+YOL058W,ARG1,Non essential
+YOL059W,GPD2,Non essential
+YOL060C,MAM3,Non essential
+YOL061W,PRS5,Non essential
+YOL062C,APM4,Non essential
+YOL063C,CRT10,Non essential
+YOL064C,MET22,Non essential
+YOL065C,INP54,Non essential
+YOL067C,RTG1,Non essential
+YOL068C,HST1,Non essential
+YOL070C,NBA1,Non essential
+YOL071W,EMI5,Non essential
+YOL072W,THP1,Non essential
+YOL073C,YOL073C,Non essential
+YOL075C,YOL075C,Non essential
+YOL076W,MDM20,Non essential
+YOL077W-A,ATP19,Non essential
+YOL079W,YOL079W,Non essential
+YOL080C,REX4,Non essential
+YOL081W,IRA2,Non essential
+YOL082W,ATG19,Non essential
+YOL083C-A,YOL083C-A,Non essential
+YOL083W,ATG34,Non essential
+YOL084W,PHM7,Non essential
+YOL085C,YOL085C,Non essential
+YOL085W-A,YOL085W-A,Non essential
+YOL086C,ADH1,Non essential
+YOL086W-A,YOL086W-A,Non essential
+YOL087C,YOL087C,Non essential
+YOL088C,MPD2,Non essential
+YOL089C,HAL9,Non essential
+YOL090W,MSH2,Non essential
+YOL091W,SPO21,Non essential
+YOL092W,YOL092W,Non essential
+YOL093W,TRM10,Non essential
+YOL095C,HMI1,Non essential
+YOL096C,COQ3,Non essential
+YOL097W-A,YOL097W-A,Non essential
+YOL098C,YOL098C,Non essential
+YOL099C,YOL099C,Non essential
+YOL100W,PKH2,Non essential
+YOL101C,IZH4,Non essential
+YOL103W,ITR2,Non essential
+YOL103W-A,YOL103W-A,Non essential
+YOL103W-B,YOL103W-B,Non essential
+YOL104C,NDJ1,Non essential
+YOL105C,WSC3,Non essential
+YOL106W,YOL106W,Non essential
+YOL107W,YOL107W,Non essential
+YOL108C,INO4,Non essential
+YOL109W,ZEO1,Non essential
+YOL110W,SHR5,Non essential
+YOL111C,MDY2,Non essential
+YOL112W,MSB4,Non essential
+YOL113W,SKM1,Non essential
+YOL114C,YOL114C,Non essential
+YOL115W,PAP2,Non essential
+YOL116W,MSN1,Non essential
+YOL117W,RRI2,Non essential
+YOL118C,YOL118C,Non essential
+YOL119C,MCH4,Non essential
+YOL121C,RPS19A,Non essential
+YOL122C,SMF1,Non essential
+YOL124C,TRM11,Non essential
+YOL125W,TRM13,Non essential
+YOL126C,MDH2,Non essential
+YOL128C,YGK3,Non essential
+YOL129W,VPS68,Non essential
+YOL131W,YOL131W,Non essential
+YOL132W,GAS4,Non essential
+YOL136C,PFK27,Non essential
+YOL137W,BSC6,Non essential
+YOL138C,RTC1,Non essential
+YOL140W,ARG8,Non essential
+YOL141W,PPM2,Non essential
+YOL143C,RIB4,Non essential
+YOL145C,CTR9,Non essential
+YOL147C,PEX11,Non essential
+YOL148C,SPT20,Non essential
+YOL150C,YOL150C,Non essential
+YOL151W,GRE2,Non essential
+YOL152W,FRE7,Non essential
+YOL154W,ZPS1,Non essential
+YOL155C,HPF1,Non essential
+YOL155W-A,YOL155W-A,Non essential
+YOL156W,HXT11,Non essential
+YOL157C,IMA2,Non essential
+YOL158C,ENB1,Non essential
+YOL159C,YOL159C,Non essential
+YOL159C-A,YOL159C-A,Non essential
+YOL160W,YOL160W,Non essential
+YOL161C,PAU20,Non essential
+YOL162W,YOL162W,Non essential
+YOL163W,YOL163W,Non essential
+YOL164W,BDS1,Non essential
+YOL164W-A,YOL164W-A,Non essential
+YOL165C,AAD15,Non essential
+YOL166C,YOL166C,Non essential
+YOL166W-A,YOL166W-A,Non essential
+YOR001W,RRP6,Non essential
+YOR002W,ALG6,Non essential
+YOR003W,YSP3,Non essential
+YOR005C,DNL4,Non essential
+YOR006C,TSR3,Non essential
+YOR007C,SGT2,Non essential
+YOR008C,SLG1,Non essential
+YOR008C-A,YOR008C-A,Non essential
+YOR008W-B,YOR008W-B,Non essential
+YOR009W,TIR4,Non essential
+YOR010C,TIR2,Non essential
+YOR011W,AUS1,Non essential
+YOR011W-A,YOR011W-A,Non essential
+YOR012W,YOR012W,Non essential
+YOR013W,IRC11,Non essential
+YOR014W,RTS1,Non essential
+YOR015W,YOR015W,Non essential
+YOR016C,ERP4,Non essential
+YOR017W,PET127,Non essential
+YOR018W,ROD1,Non essential
+YOR019W,YOR019W,Non essential
+YOR020W-A,YOR020W-A,Non essential
+YOR021C,YOR021C,Non essential
+YOR022C,YOR022C,Non essential
+YOR023C,AHC1,Non essential
+YOR024W,YOR024W,Non essential
+YOR025W,HST3,Non essential
+YOR026W,BUB3,Non essential
+YOR027W,STI1,Non essential
+YOR028C,CIN5,Non essential
+YOR029W,YOR029W,Non essential
+YOR030W,DFG16,Non essential
+YOR031W,CRS5,Non essential
+YOR032C,HMS1,Non essential
+YOR032W-A,YOR032W-A,Non essential
+YOR033C,EXO1,Non essential
+YOR034C,AKR2,Non essential
+YOR034C-A,YOR034C-A,Non essential
+YOR035C,SHE4,Non essential
+YOR036W,PEP12,Non essential
+YOR037W,CYC2,Non essential
+YOR038C,HIR2,Non essential
+YOR039W,CKB2,Non essential
+YOR040W,GLO4,Non essential
+YOR041C,YOR041C,Non essential
+YOR042W,CUE5,Non essential
+YOR043W,WHI2,Non essential
+YOR044W,IRC23,Non essential
+YOR045W,TOM6,Non essential
+YOR047C,STD1,Non essential
+YOR049C,RSB1,Non essential
+YOR050C,YOR050C,Non essential
+YOR051C,ETT1,Non essential
+YOR052C,YOR052C,Non essential
+YOR053W,YOR053W,Non essential
+YOR054C,VHS3,Non essential
+YOR055W,YOR055W,Non essential
+YOR058C,ASE1,Non essential
+YOR059C,YOR059C,Non essential
+YOR061W,CKA2,Non essential
+YOR062C,YOR062C,Non essential
+YOR064C,YNG1,Non essential
+YOR065W,CYT1,Non essential
+YOR066W,MSA1,Non essential
+YOR067C,ALG8,Non essential
+YOR068C,VAM10,Non essential
+YOR069W,VPS5,Non essential
+YOR070C,GYP1,Non essential
+YOR071C,NRT1,Non essential
+YOR072W,YOR072W,Non essential
+YOR072W-A,YOR072W-A,Non essential
+YOR072W-B,YOR072W-B,Non essential
+YOR073W,SGO1,Non essential
+YOR073W-A,YOR073W-A,Non essential
+YOR076C,SKI7,Non essential
+YOR078W,BUD21,Non essential
+YOR079C,ATX2,Non essential
+YOR080W,DIA2,Non essential
+YOR081C,TGL5,Non essential
+YOR082C,YOR082C,Non essential
+YOR083W,WHI5,Non essential
+YOR084W,LPX1,Non essential
+YOR085W,OST3,Non essential
+YOR086C,TCB1,Non essential
+YOR087W,YVC1,Non essential
+YOR089C,VPS21,Non essential
+YOR090C,PTC5,Non essential
+YOR091W,TMA46,Non essential
+YOR092W,ECM3,Non essential
+YOR093C,YOR093C,Non essential
+YOR094W,ARF3,Non essential
+YOR096W,RPS7A,Non essential
+YOR097C,YOR097C,Non essential
+YOR099W,KTR1,Non essential
+YOR100C,CRC1,Non essential
+YOR101W,RAS1,Non essential
+YOR104W,PIN2,Non essential
+YOR105W,YOR105W,Non essential
+YOR106W,VAM3,Non essential
+YOR107W,RGS2,Non essential
+YOR108C-A,YOR108C-A,Non essential
+YOR108W,LEU9,Non essential
+YOR109W,INP53,Non essential
+YOR111W,YOR111W,Non essential
+YOR112W,CEX1,Non essential
+YOR113W,AZF1,Non essential
+YOR114W,YOR114W,Non essential
+YOR115C,TRS33,Non essential
+YOR118W,RTC5,Non essential
+YOR120W,GCY1,Non essential
+YOR121C,YOR121C,Non essential
+YOR123C,LEO1,Non essential
+YOR124C,UBP2,Non essential
+YOR125C,CAT5,Non essential
+YOR126C,IAH1,Non essential
+YOR127W,RGA1,Non essential
+YOR128C,ADE2,Non essential
+YOR129C,AFI1,Non essential
+YOR130C,ORT1,Non essential
+YOR131C,YOR131C,Non essential
+YOR132W,VPS17,Non essential
+YOR133W,EFT1,Non essential
+YOR134W,BAG7,Non essential
+YOR135C,IRC14,Non essential
+YOR136W,IDH2,Non essential
+YOR137C,SIA1,Non essential
+YOR138C,RUP1,Non essential
+YOR139C,YOR139C,Non essential
+YOR140W,SFL1,Non essential
+YOR141C,ARP8,Non essential
+YOR142W,LSC1,Non essential
+YOR142W-A,YOR142W-A,Non essential
+YOR142W-B,YOR142W-B,Non essential
+YOR144C,ELG1,Non essential
+YOR147W,MDM32,Non essential
+YOR150W,MRPL23,Non essential
+YOR152C,YOR152C,Non essential
+YOR153W,PDR5,Non essential
+YOR154W,SLP1,Non essential
+YOR155C,ISN1,Non essential
+YOR156C,NFI1,Non essential
+YOR158W,PET123,Non essential
+YOR160W,MTR10,Non essential
+YOR161C,PNS1,Non essential
+YOR161C-C,YOR161C-C,Non essential
+YOR161W-A,YOR161W-A,Non essential
+YOR161W-B,YOR161W-B,Non essential
+YOR162C,YRR1,Non essential
+YOR163W,DDP1,Non essential
+YOR164C,GET4,Non essential
+YOR165W,SEY1,Non essential
+YOR166C,SWT1,Non essential
+YOR167C,RPS28A,Non essential
+YOR170W,YOR170W,Non essential
+YOR171C,LCB4,Non essential
+YOR172W,YRM1,Non essential
+YOR173W,DCS2,Non essential
+YOR175C,ALE1,Non essential
+YOR177C,MPC54,Non essential
+YOR178C,GAC1,Non essential
+YOR179C,SYC1,Non essential
+YOR180C,DCI1,Non essential
+YOR182C,RPS30B,Non essential
+YOR183W,FYV12,Non essential
+YOR184W,SER1,Non essential
+YOR185C,GSP2,Non essential
+YOR186C-A,YOR186C-A,Non essential
+YOR186W,YOR186W,Non essential
+YOR187W,TUF1,Non essential
+YOR188W,MSB1,Non essential
+YOR189W,IES4,Non essential
+YOR190W,SPR1,Non essential
+YOR191W,ULS1,Non essential
+YOR192C,THI72,Non essential
+YOR192C-A,YOR192C-A,Non essential
+YOR192C-B,YOR192C-B,Non essential
+YOR192C-C,YOR192C-C,Non essential
+YOR193W,PEX27,Non essential
+YOR195W,SLK19,Non essential
+YOR196C,LIP5,Non essential
+YOR197W,MCA1,Non essential
+YOR198C,BFR1,Non essential
+YOR199W,YOR199W,Non essential
+YOR200W,YOR200W,Non essential
+YOR201C,MRM1,Non essential
+YOR202W,HIS3,Non essential
+YOR205C,GEP3,Non essential
+YOR208W,PTP2,Non essential
+YOR209C,NPT1,Non essential
+YOR210W,RPB10,Non essential
+YOR211C,MGM1,Non essential
+YOR212W,STE4,Non essential
+YOR213C,SAS5,Non essential
+YOR214C,YOR214C,Non essential
+YOR215C,AIM41,Non essential
+YOR216C,RUD3,Non essential
+YOR219C,STE13,Non essential
+YOR220W,RCN2,Non essential
+YOR221C,MCT1,Non essential
+YOR222W,ODC2,Non essential
+YOR223W,YOR223W,Non essential
+YOR224C,RPB8,Non essential
+YOR225W,YOR225W,Non essential
+YOR226C,ISU2,Non essential
+YOR227W,HER1,Non essential
+YOR228C,YOR228C,Non essential
+YOR229W,WTM2,Non essential
+YOR230W,WTM1,Non essential
+YOR231C-A,YOR231C-A,Non essential
+YOR231W,MKK1,Non essential
+YOR233W,KIN4,Non essential
+YOR234C,RPL33B,Non essential
+YOR235W,IRC13,Non essential
+YOR237W,HES1,Non essential
+YOR238W,YOR238W,Non essential
+YOR239W,ABP140,Non essential
+YOR241W,MET7,Non essential
+YOR242C,SSP2,Non essential
+YOR243C,PUS7,Non essential
+YOR245C,DGA1,Non essential
+YOR246C,ENV9,Non essential
+YOR247W,SRL1,Non essential
+YOR248W,YOR248W,Non essential
+YOR251C,TUM1,Non essential
+YOR252W,TMA16,Non essential
+YOR253W,NAT5,Non essential
+YOR255W,OSW1,Non essential
+YOR258W,HNT3,Non essential
+YOR260W,GCD1,Non essential
+YOR263C,YOR263C,Non essential
+YOR264W,DSE3,Non essential
+YOR265W,RBL2,Non essential
+YOR266W,PNT1,Non essential
+YOR267C,HRK1,Non essential
+YOR268C,YOR268C,Non essential
+YOR269W,PAC1,Non essential
+YOR270C,VPH1,Non essential
+YOR271C,FSF1,Non essential
+YOR273C,TPO4,Non essential
+YOR274W,MOD5,Non essential
+YOR275C,RIM20,Non essential
+YOR276W,CAF20,Non essential
+YOR277C,YOR277C,Non essential
+YOR278W,HEM4,Non essential
+YOR279C,RFM1,Non essential
+YOR280C,FSH3,Non essential
+YOR283W,YOR283W,Non essential
+YOR284W,HUA2,Non essential
+YOR285W,RDL1,Non essential
+YOR286W,RDL2,Non essential
+YOR288C,MPD1,Non essential
+YOR289W,YOR289W,Non essential
+YOR290C,SNF2,Non essential
+YOR291W,YPK9,Non essential
+YOR292C,YOR292C,Non essential
+YOR293C-A,YOR293C-A,Non essential
+YOR293W,RPS10A,Non essential
+YOR295W,UAF30,Non essential
+YOR296W,YOR296W,Non essential
+YOR297C,TIM18,Non essential
+YOR298C-A,MBF1,Non essential
+YOR298W,MUM3,Non essential
+YOR299W,BUD7,Non essential
+YOR300W,YOR300W,Non essential
+YOR301W,RAX1,Non essential
+YOR302W,YOR302W,Non essential
+YOR303W,CPA1,Non essential
+YOR304C-A,YOR304C-A,Non essential
+YOR304W,ISW2,Non essential
+YOR305W,RRG7,Non essential
+YOR306C,MCH5,Non essential
+YOR307C,SLY41,Non essential
+YOR308C,SNU66,Non essential
+YOR309C,YOR309C,Non essential
+YOR311C,DGK1,Non essential
+YOR312C,RPL20B,Non essential
+YOR313C,SPS4,Non essential
+YOR314W,YOR314W,Non essential
+YOR314W-A,YOR314W-A,Non essential
+YOR315W,SFG1,Non essential
+YOR316C,COT1,Non essential
+YOR316C-A,YOR316C-A,Non essential
+YOR317W,FAA1,Non essential
+YOR318C,YOR318C,Non essential
+YOR319W,HSH49,Non essential
+YOR320C,GNT1,Non essential
+YOR321W,PMT3,Non essential
+YOR322C,LDB19,Non essential
+YOR323C,PRO2,Non essential
+YOR324C,FRT1,Non essential
+YOR325W,YOR325W,Non essential
+YOR327C,SNC2,Non essential
+YOR328W,PDR10,Non essential
+YOR329W-A,YOR329W-A,Non essential
+YOR330C,MIP1,Non essential
+YOR331C,YOR331C,Non essential
+YOR332W,VMA4,Non essential
+YOR333C,YOR333C,Non essential
+YOR334W,MRS2,Non essential
+YOR335W-A,YOR335W-A,Non essential
+YOR337W,TEA1,Non essential
+YOR338W,YOR338W,Non essential
+YOR339C,UBC11,Non essential
+YOR340C,RPA43,Non essential
+YOR342C,YOR342C,Non essential
+YOR343C,YOR343C,Non essential
+YOR343W-A,YOR343W-A,Non essential
+YOR343W-B,YOR343W-B,Non essential
+YOR344C,TYE7,Non essential
+YOR345C,YOR345C,Non essential
+YOR346W,REV1,Non essential
+YOR347C,PYK2,Non essential
+YOR348C,PUT4,Non essential
+YOR349W,CIN1,Non essential
+YOR350C,MNE1,Non essential
+YOR351C,MEK1,Non essential
+YOR352W,YOR352W,Non essential
+YOR354C,MSC6,Non essential
+YOR355W,GDS1,Non essential
+YOR356W,CIR2,Non essential
+YOR357C,SNX3,Non essential
+YOR358W,HAP5,Non essential
+YOR359W,VTS1,Non essential
+YOR360C,PDE2,Non essential
+YOR363C,PIP2,Non essential
+YOR364W,YOR364W,Non essential
+YOR365C,YOR365C,Non essential
+YOR366W,YOR366W,Non essential
+YOR367W,SCP1,Non essential
+YOR368W,RAD17,Non essential
+YOR369C,RPS12,Non essential
+YOR371C,GPB1,Non essential
+YOR374W,ALD4,Non essential
+YOR375C,GDH1,Non essential
+YOR376W,YOR376W,Non essential
+YOR376W-A,YOR376W-A,Non essential
+YOR377W,ATF1,Non essential
+YOR378W,YOR378W,Non essential
+YOR379C,YOR379C,Non essential
+YOR380W,RDR1,Non essential
+YOR381W,FRE3,Non essential
+YOR381W-A,YOR381W-A,Non essential
+YOR382W,FIT2,Non essential
+YOR383C,FIT3,Non essential
+YOR384W,FRE5,Non essential
+YOR385W,YOR385W,Non essential
+YOR386W,PHR1,Non essential
+YOR387C,YOR387C,Non essential
+YOR388C,FDH1,Non essential
+YOR389W,YOR389W,Non essential
+YOR390W,YOR390W,Non essential
+YOR391C,HSP33,Non essential
+YOR392W,YOR392W,Non essential
+YOR393W,ERR1,Non essential
+YOR394C-A,YOR394C-A,Non essential
+YOR394W,PAU21,Non essential
+YOR396C-A,YOR396C-A,Non essential
+YOR396W,YRF1-8,Non essential
+YPL001W,HAT1,Non essential
+YPL002C,SNF8,Non essential
+YPL003W,ULA1,Non essential
+YPL004C,LSP1,Non essential
+YPL005W,AEP3,Non essential
+YPL006W,NCR1,Non essential
+YPL008W,CHL1,Non essential
+YPL009C,TAE2,Non essential
+YPL013C,MRPS16,Non essential
+YPL014W,YPL014W,Non essential
+YPL015C,HST2,Non essential
+YPL017C,IRC15,Non essential
+YPL018W,CTF19,Non essential
+YPL019C,VTC3,Non essential
+YPL021W,ECM23,Non essential
+YPL022W,RAD1,Non essential
+YPL023C,MET12,Non essential
+YPL024W,RMI1,Non essential
+YPL025C,YPL025C,Non essential
+YPL026C,SKS1,Non essential
+YPL027W,SMA1,Non essential
+YPL029W,SUV3,Non essential
+YPL030W,TRM44,Non essential
+YPL031C,PHO85,Non essential
+YPL032C,SVL3,Non essential
+YPL033C,SRL4,Non essential
+YPL034W,YPL034W,Non essential
+YPL035C,YPL035C,Non essential
+YPL036W,PMA2,Non essential
+YPL037C,EGD1,Non essential
+YPL038W,MET31,Non essential
+YPL038W-A,YPL038W-A,Non essential
+YPL039W,YPL039W,Non essential
+YPL040C,ISM1,Non essential
+YPL041C,YPL041C,Non essential
+YPL042C,SSN3,Non essential
+YPL045W,VPS16,Non essential
+YPL046C,ELC1,Non essential
+YPL047W,SGF11,Non essential
+YPL048W,CAM1,Non essential
+YPL049C,DIG1,Non essential
+YPL050C,MNN9,Non essential
+YPL051W,ARL3,Non essential
+YPL052W,OAZ1,Non essential
+YPL053C,KTR6,Non essential
+YPL054W,LEE1,Non essential
+YPL055C,LGE1,Non essential
+YPL056C,LCL1,Non essential
+YPL057C,SUR1,Non essential
+YPL058C,PDR12,Non essential
+YPL059W,GRX5,Non essential
+YPL060W,MFM1,Non essential
+YPL061W,ALD6,Non essential
+YPL062W,YPL062W,Non essential
+YPL064C,CWC27,Non essential
+YPL065W,VPS28,Non essential
+YPL066W,YPL066W,Non essential
+YPL067C,YPL067C,Non essential
+YPL068C,YPL068C,Non essential
+YPL069C,BTS1,Non essential
+YPL070W,MUK1,Non essential
+YPL071C,YPL071C,Non essential
+YPL072W,UBP16,Non essential
+YPL073C,YPL073C,Non essential
+YPL074W,YTA6,Non essential
+YPL077C,YPL077C,Non essential
+YPL078C,ATP4,Non essential
+YPL079W,RPL21B,Non essential
+YPL080C,YPL080C,Non essential
+YPL081W,RPS9A,Non essential
+YPL084W,BRO1,Non essential
+YPL086C,ELP3,Non essential
+YPL087W,YDC1,Non essential
+YPL088W,YPL088W,Non essential
+YPL089C,RLM1,Non essential
+YPL090C,RPS6A,Non essential
+YPL091W,GLR1,Non essential
+YPL092W,SSU1,Non essential
+YPL095C,EEB1,Non essential
+YPL096C-A,ERI1,Non essential
+YPL096W,PNG1,Non essential
+YPL097W,MSY1,Non essential
+YPL098C,MGR2,Non essential
+YPL099C,AIM43,Non essential
+YPL100W,ATG21,Non essential
+YPL101W,ELP4,Non essential
+YPL102C,YPL102C,Non essential
+YPL103C,FMP30,Non essential
+YPL104W,MSD1,Non essential
+YPL105C,SYH1,Non essential
+YPL106C,SSE1,Non essential
+YPL107W,YPL107W,Non essential
+YPL108W,YPL108W,Non essential
+YPL109C,YPL109C,Non essential
+YPL110C,GDE1,Non essential
+YPL111W,CAR1,Non essential
+YPL112C,PEX25,Non essential
+YPL113C,YPL113C,Non essential
+YPL114W,YPL114W,Non essential
+YPL115C,BEM3,Non essential
+YPL116W,HOS3,Non essential
+YPL118W,MRP51,Non essential
+YPL119C,DBP1,Non essential
+YPL119C-A,YPL119C-A,Non essential
+YPL120W,VPS30,Non essential
+YPL121C,MEI5,Non essential
+YPL123C,RNY1,Non essential
+YPL125W,KAP120,Non essential
+YPL127C,HHO1,Non essential
+YPL129W,TAF14,Non essential
+YPL130W,SPO19,Non essential
+YPL132W,COX11,Non essential
+YPL133C,RDS2,Non essential
+YPL134C,ODC1,Non essential
+YPL135C-A,YPL135C-A,Non essential
+YPL135W,ISU1,Non essential
+YPL136W,YPL136W,Non essential
+YPL137C,GIP3,Non essential
+YPL138C,SPP1,Non essential
+YPL139C,UME1,Non essential
+YPL140C,MKK2,Non essential
+YPL141C,FRK1,Non essential
+YPL144W,POC4,Non essential
+YPL145C,KES1,Non essential
+YPL147W,PXA1,Non essential
+YPL148C,PPT2,Non essential
+YPL149W,ATG5,Non essential
+YPL150W,YPL150W,Non essential
+YPL152W,RRD2,Non essential
+YPL152W-A,YPL152W-A,Non essential
+YPL154C,PEP4,Non essential
+YPL155C,KIP2,Non essential
+YPL156C,PRM4,Non essential
+YPL157W,TGS1,Non essential
+YPL158C,AIM44,Non essential
+YPL159C,PET20,Non essential
+YPL161C,BEM4,Non essential
+YPL162C,YPL162C,Non essential
+YPL163C,SVS1,Non essential
+YPL164C,MLH3,Non essential
+YPL165C,SET6,Non essential
+YPL166W,ATG29,Non essential
+YPL167C,REV3,Non essential
+YPL168W,YPL168W,Non essential
+YPL170W,DAP1,Non essential
+YPL171C,OYE3,Non essential
+YPL172C,COX10,Non essential
+YPL173W,MRPL40,Non essential
+YPL174C,NIP100,Non essential
+YPL176C,TRE1,Non essential
+YPL177C,CUP9,Non essential
+YPL178W,CBC2,Non essential
+YPL179W,PPQ1,Non essential
+YPL180W,TCO89,Non essential
+YPL181W,CTI6,Non essential
+YPL182C,YPL182C,Non essential
+YPL183C,RTT10,Non essential
+YPL183W-A,RTC6,Non essential
+YPL184C,MRN1,Non essential
+YPL185W,YPL185W,Non essential
+YPL186C,UIP4,Non essential
+YPL187W,MF(ALPHA)1,Non essential
+YPL188W,POS5,Non essential
+YPL189C-A,COA2,Non essential
+YPL189W,GUP2,Non essential
+YPL191C,YPL191C,Non essential
+YPL192C,PRM3,Non essential
+YPL193W,RSA1,Non essential
+YPL194W,DDC1,Non essential
+YPL195W,APL5,Non essential
+YPL196W,OXR1,Non essential
+YPL197C,YPL197C,Non essential
+YPL198W,RPL7B,Non essential
+YPL199C,YPL199C,Non essential
+YPL200W,CSM4,Non essential
+YPL201C,YIG1,Non essential
+YPL202C,AFT2,Non essential
+YPL203W,TPK2,Non essential
+YPL205C,YPL205C,Non essential
+YPL206C,PGC1,Non essential
+YPL207W,TYW1,Non essential
+YPL208W,RKM1,Non essential
+YPL212C,PUS1,Non essential
+YPL213W,LEA1,Non essential
+YPL214C,THI6,Non essential
+YPL215W,CBP3,Non essential
+YPL216W,YPL216W,Non essential
+YPL217C,BMS1,Non essential
+YPL219W,PCL8,Non essential
+YPL220W,RPL1A,Non essential
+YPL221W,FLC1,Non essential
+YPL222C-A,YPL222C-A,Non essential
+YPL222W,FMP40,Non essential
+YPL223C,GRE1,Non essential
+YPL224C,MMT2,Non essential
+YPL225W,YPL225W,Non essential
+YPL226W,NEW1,Non essential
+YPL227C,ALG5,Non essential
+YPL229W,YPL229W,Non essential
+YPL230W,USV1,Non essential
+YPL232W,SSO1,Non essential
+YPL234C,VMA11,Non essential
+YPL236C,ENV7,Non essential
+YPL239W,YAR1,Non essential
+YPL240C,HSP82,Non essential
+YPL241C,CIN2,Non essential
+YPL244C,HUT1,Non essential
+YPL245W,YPL245W,Non essential
+YPL246C,RBD2,Non essential
+YPL247C,YPL247C,Non essential
+YPL248C,GAL4,Non essential
+YPL249C,GYP5,Non essential
+YPL249C-A,RPL36B,Non essential
+YPL250C,ICY2,Non essential
+YPL250W-A,YPL250W-A,Non essential
+YPL253C,VIK1,Non essential
+YPL254W,HFI1,Non essential
+YPL256C,CLN2,Non essential
+YPL257W,YPL257W,Non essential
+YPL257W-A,YPL257W-A,Non essential
+YPL257W-B,YPL257W-B,Non essential
+YPL258C,THI21,Non essential
+YPL259C,APM1,Non essential
+YPL260W,YPL260W,Non essential
+YPL261C,YPL261C,Non essential
+YPL262W,FUM1,Non essential
+YPL263C,KEL3,Non essential
+YPL264C,YPL264C,Non essential
+YPL265W,DIP5,Non essential
+YPL267W,ACM1,Non essential
+YPL268W,PLC1,Non essential
+YPL269W,KAR9,Non essential
+YPL270W,MDL2,Non essential
+YPL271W,ATP15,Non essential
+YPL272C,YPL272C,Non essential
+YPL273W,SAM4,Non essential
+YPL274W,SAM3,Non essential
+YPL277C,YPL277C,Non essential
+YPL278C,YPL278C,Non essential
+YPL279C,YPL279C,Non essential
+YPL280W,HSP32,Non essential
+YPL281C,ERR2,Non essential
+YPL282C,PAU22,Non essential
+YPL283C,YRF1-7,Non essential
+YPL283W-A,YPL283W-A,Non essential
+YPL283W-B,YPL283W-B,Non essential
+YPR001W,CIT3,Non essential
+YPR002C-A,YPR002C-A,Non essential
+YPR002W,PDH1,Non essential
+YPR003C,YPR003C,Non essential
+YPR004C,AIM45,Non essential
+YPR005C,HAL1,Non essential
+YPR006C,ICL2,Non essential
+YPR007C,REC8,Non essential
+YPR008W,HAA1,Non essential
+YPR009W,SUT2,Non essential
+YPR010C-A,YPR010C-A,Non essential
+YPR011C,YPR011C,Non essential
+YPR012W,YPR012W,Non essential
+YPR013C,YPR013C,Non essential
+YPR014C,YPR014C,Non essential
+YPR015C,YPR015C,Non essential
+YPR016W-A,YPR016W-A,Non essential
+YPR017C,DSS4,Non essential
+YPR018W,RLF2,Non essential
+YPR020W,ATP20,Non essential
+YPR021C,AGC1,Non essential
+YPR022C,YPR022C,Non essential
+YPR023C,EAF3,Non essential
+YPR024W,YME1,Non essential
+YPR026W,ATH1,Non essential
+YPR027C,YPR027C,Non essential
+YPR028W,YOP1,Non essential
+YPR029C,APL4,Non essential
+YPR030W,CSR2,Non essential
+YPR031W,NTO1,Non essential
+YPR032W,SRO7,Non essential
+YPR036W,VMA13,Non essential
+YPR036W-A,YPR036W-A,Non essential
+YPR037C,ERV2,Non essential
+YPR038W,IRC16,Non essential
+YPR039W,YPR039W,Non essential
+YPR040W,TIP41,Non essential
+YPR042C,PUF2,Non essential
+YPR043W,RPL43A,Non essential
+YPR044C,OPI11,Non essential
+YPR045C,THP3,Non essential
+YPR046W,MCM16,Non essential
+YPR047W,MSF1,Non essential
+YPR049C,ATG11,Non essential
+YPR050C,YPR050C,Non essential
+YPR051W,MAK3,Non essential
+YPR052C,NHP6A,Non essential
+YPR053C,YPR053C,Non essential
+YPR054W,SMK1,Non essential
+YPR057W,BRR1,Non essential
+YPR058W,YMC1,Non essential
+YPR059C,YPR059C,Non essential
+YPR060C,ARO7,Non essential
+YPR061C,JID1,Non essential
+YPR062W,FCY1,Non essential
+YPR063C,YPR063C,Non essential
+YPR064W,YPR064W,Non essential
+YPR065W,ROX1,Non essential
+YPR066W,UBA3,Non essential
+YPR067W,ISA2,Non essential
+YPR068C,HOS1,Non essential
+YPR069C,SPE3,Non essential
+YPR070W,MED1,Non essential
+YPR071W,YPR071W,Non essential
+YPR072W,NOT5,Non essential
+YPR073C,LTP1,Non essential
+YPR074C,TKL1,Non essential
+YPR074W-A,YPR074W-A,Non essential
+YPR075C,OPY2,Non essential
+YPR076W,YPR076W,Non essential
+YPR077C,YPR077C,Non essential
+YPR078C,YPR078C,Non essential
+YPR079W,MRL1,Non essential
+YPR080W,TEF1,Non essential
+YPR081C,GRS2,Non essential
+YPR083W,MDM36,Non essential
+YPR084W,YPR084W,Non essential
+YPR086W,SUA7,Non essential
+YPR087W,VPS69,Non essential
+YPR089W,YPR089W,Non essential
+YPR091C,YPR091C,Non essential
+YPR092W,YPR092W,Non essential
+YPR093C,ASR1,Non essential
+YPR095C,SYT1,Non essential
+YPR096C,YPR096C,Non essential
+YPR097W,YPR097W,Non essential
+YPR098C,YPR098C,Non essential
+YPR099C,YPR099C,Non essential
+YPR100W,MRPL51,Non essential
+YPR101W,SNT309,Non essential
+YPR102C,RPL11A,Non essential
+YPR104C,FHL1,Non essential
+YPR106W,ISR1,Non essential
+YPR108W,RPN7,Non essential
+YPR108W-A,YPR108W-A,Non essential
+YPR109W,YPR109W,Non essential
+YPR111W,DBF20,Non essential
+YPR114W,YPR114W,Non essential
+YPR115W,RGC1,Non essential
+YPR116W,RRG8,Non essential
+YPR117W,YPR117W,Non essential
+YPR118W,MRI1,Non essential
+YPR119W,CLB2,Non essential
+YPR120C,CLB5,Non essential
+YPR121W,THI22,Non essential
+YPR122W,AXL1,Non essential
+YPR123C,YPR123C,Non essential
+YPR124W,CTR1,Non essential
+YPR125W,YLH47,Non essential
+YPR126C,YPR126C,Non essential
+YPR127W,YPR127W,Non essential
+YPR128C,ANT1,Non essential
+YPR129W,SCD6,Non essential
+YPR130C,YPR130C,Non essential
+YPR131C,NAT3,Non essential
+YPR132W,RPS23B,Non essential
+YPR133W-A,TOM5,Non essential
+YPR134W,MSS18,Non essential
+YPR135W,CTF4,Non essential
+YPR137C-A,YPR137C-A,Non essential
+YPR137C-B,YPR137C-B,Non essential
+YPR139C,VPS66,Non essential
+YPR140W,TAZ1,Non essential
+YPR141C,KAR3,Non essential
+YPR145C-A,YPR145C-A,Non essential
+YPR145W,ASN1,Non essential
+YPR146C,YPR146C,Non essential
+YPR147C,YPR147C,Non essential
+YPR148C,YPR148C,Non essential
+YPR149W,NCE102,Non essential
+YPR150W,YPR150W,Non essential
+YPR151C,SUE1,Non essential
+YPR152C,URN1,Non essential
+YPR153W,YPR153W,Non essential
+YPR154W,PIN3,Non essential
+YPR155C,NCA2,Non essential
+YPR156C,TPO3,Non essential
+YPR157W,TDA6,Non essential
+YPR158C-C,YPR158C-C,Non essential
+YPR158C-D,YPR158C-D,Non essential
+YPR158W,CUR1,Non essential
+YPR158W-A,YPR158W-A,Non essential
+YPR158W-B,YPR158W-B,Non essential
+YPR159C-A,YPR159C-A,Non essential
+YPR159W,KRE6,Non essential
+YPR160C-A,YPR160C-A,Non essential
+YPR160W,GPH1,Non essential
+YPR160W-A,YPR160W-A,Non essential
+YPR163C,TIF3,Non essential
+YPR164W,MMS1,Non essential
+YPR166C,MRP2,Non essential
+YPR167C,MET16,Non essential
+YPR169W-A,YPR169W-A,Non essential
+YPR170C,YPR170C,Non essential
+YPR170W-A,YPR170W-A,Non essential
+YPR170W-B,YPR170W-B,Non essential
+YPR171W,BSP1,Non essential
+YPR172W,YPR172W,Non essential
+YPR173C,VPS4,Non essential
+YPR174C,YPR174C,Non essential
+YPR179C,HDA3,Non essential
+YPR184W,GDB1,Non essential
+YPR185W,ATG13,Non essential
+YPR188C,MLC2,Non essential
+YPR189W,SKI3,Non essential
+YPR191W,QCR2,Non essential
+YPR192W,AQY1,Non essential
+YPR193C,HPA2,Non essential
+YPR194C,OPT2,Non essential
+YPR195C,YPR195C,Non essential
+YPR196W,YPR196W,Non essential
+YPR197C,YPR197C,Non essential
+YPR198W,SGE1,Non essential
+YPR199C,ARR1,Non essential
+YPR200C,ARR2,Non essential
+YPR201W,ARR3,Non essential
+YPR202W,YPR202W,Non essential
+YPR203W,YPR203W,Non essential
+YPR204C-A,YPR204C-A,Non essential
+YPR204W,YPR204W,Non essential
+,,
